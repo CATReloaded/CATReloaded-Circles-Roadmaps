@@ -117,11 +117,10 @@ if you prefer books
 
 ## General Knowledge 
 
-- [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)<br>
 - [Linux Command Line](https://www.youtube.com/playlist?list=PL8pYI62gCNsWTppELEUCpforC4avEiLox)<br>
 - [Git and GitHub](https://youtu.be/Q6G-J54vgKc?si=Ybxu8hq2V33G8tFZ)<br>
 - [APIs](https://www.youtube.com/watch?v=GZvSYJDk-us)<br>
-- [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)<br>
+- [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)<br>
 
 ## Preparing for Software Engineering Interviews
 **SWE Interviews Guide**
