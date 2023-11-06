@@ -82,6 +82,7 @@ Emglish Content (More Recommended)
  ## Intermidiate Level
 ### **Databases**
 1- [Database Lessons (first 5 videos)](https://www.youtube.com/playlist?list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
+
 2- [CC471 - Database Systems](https://www.youtube.com/playlist?list=PLiRL7CfiWlYG7rPyYpynLWU_0qcAqOPJS)  
 Recommended (next step): [Fundamentals of Database "Ramez El-Masry"](https://www.auhd.edu.ye/upfiles/elibrary/Azal2020-01-22-12-28-11-76901.pdf)
 
@@ -92,7 +93,7 @@ Recommended (next step): [Fundamentals of Database "Ramez El-Masry"](https://www
 4- [Virtual Memory](https://www.youtube.com/watch?v=1p1XXdLt_9g&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=7)
 
 OR 
-[CC373 - Operating Systems](PLiRL7CfiWlYG0YdUPcaY7R6CjCGrNIZB0) 
+- [CC373 - Operating Systems](PLiRL7CfiWlYG0YdUPcaY7R6CjCGrNIZB0) 
 
 if you prefer books
 1. [OPERATING SYSTEMS THREE EASY PIECES Entry](https://pages.cs.wisc.edu/~remzi/OSTEP/)
@@ -104,10 +105,10 @@ if you prefer books
         - [How The Web Works - The Big Picture](https://youtu.be/hJHvdBlSxug)
         - [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
         - [HTTP Crash Course & Exploration from Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
-
-  2. [Computer Netwroks](https://youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp&si=wOKLI53FibBY0AKe)
- 
- 
+   
+  2. More deep content 
+        - [Computer Netwroks](https://youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp&si=wOKLI53FibBY0AKe)
+     
 ### **Design Patterns**
  
 1- [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
@@ -116,11 +117,11 @@ if you prefer books
 
 ## General Knowledge 
 
-[Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)<br>
-[Linux Command Line](https://www.youtube.com/playlist?list=PL18queXiCivImZ4KpPbSWSt_977X_ljuz)<br>
-[Git and GitHub](https://youtu.be/Q6G-J54vgKc?si=Ybxu8hq2V33G8tFZ)<br>
-[APIs](https://www.youtube.com/watch?v=GZvSYJDk-us)<br>
-[Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)<br>
+- [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)<br>
+- [Linux Command Line](https://www.youtube.com/playlist?list=PL18queXiCivImZ4KpPbSWSt_977X_ljuz)<br>
+- [Git and GitHub](https://youtu.be/Q6G-J54vgKc?si=Ybxu8hq2V33G8tFZ)<br>
+- [APIs](https://www.youtube.com/watch?v=GZvSYJDk-us)<br>
+- [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)<br>
 
 ## Preparing for Software Engineering Interviews
 **SWE Interviews Guide**
@@ -129,28 +130,28 @@ if you prefer books
 
 **Coding Interviews** : For all Positions (Intern, Fresh Graduate, Junior, Senior)
  
- [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)
+ - [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)
  
- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+ - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
  
 **System Design Interviews** : For Seniors
 
-[System Design Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
+- [System Design Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
 
-[System Design Interview - An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+- [System Design Interview - An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 
 **Behavioral Interview**
 
-[Common Behavioral Interview Questions For Software Engineers](https://medium.com/the-crazy-coder/common-behavioral-interview-questions-for-software-engineers-cdfaf99d07e8)
+- [Common Behavioral Interview Questions For Software Engineers](https://medium.com/the-crazy-coder/common-behavioral-interview-questions-for-software-engineers-cdfaf99d07e8)
 
 
 ## Contact us
 Feel free to contact us
 
-[Shahd Faris El-Badrawy (CAT Reloaded CS Head 24)](https://www.linkedin.com/in/shahd-faris-35896121a/)
+- [Shahd Faris El-Badrawy (CAT Reloaded CS Head 24)](https://www.linkedin.com/in/shahd-faris-35896121a/)
 
-[Mohammed Yasser (CAT Reloaded CS vice 24)](https://www.linkedin.com/in/mohamad-yasser-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Mohammed Yasser (CAT Reloaded CS vice 24)](https://www.linkedin.com/in/mohamad-yasser-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-[Mahmoud Shawky (CAT Reloaded CS Head 23)](https://www.linkedin.com/in/MahmoudShawkyy)
+- [Mahmoud Shawky (CAT Reloaded CS Head 23)](https://www.linkedin.com/in/MahmoudShawkyy)
 
-[Shaimaa Elbadrawy (CAT Reloaded CS Head 22)](https://www.linkedin.com/in/shaimaa-elbadrawy/)
+- [Shaimaa Elbadrawy (CAT Reloaded CS Head 22)](https://www.linkedin.com/in/shaimaa-elbadrawy/)
