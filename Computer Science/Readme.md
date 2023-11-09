@@ -50,17 +50,27 @@ The Roadmap has been designed to cover the fundamental topics in Computer Scienc
 You can learn python, c#, c++, Java .. anything! but choose **one language only**
 
 ### **C++**
-
-Arabic Content 
-- [C++ 4kids & beginners Mostafa Saad Ibrahim](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
-
-Emglish Content (More Recommended)
+Emglish Content (Main Resource for practice)
 - [Mastering 4 critical SKILLS using C++ 17](https://www.udemy.com/share/103Gal3@CakGEqnmMphLgBFbTzyXzrZJqaAJxHIZ2ggZc_6jEx5Y05LMaT9Mm_MUTUKMrZE-/)
- 
+  
+Arabic Content (helpful resources for explanation)
+- [C++ 4kids & beginners Mostafa Saad Ibrahim](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
+- [El-Zero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
+- [Adel Naseem](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3)
+- [El-Desoqy](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
+
+Functions & Recursion
+- [Function](https://www.youtube.com/watch?v=6m-RTOsvp7E&list=PLBkwGJXcrCATmqJ-xKYBtZIoMTVpHz6p7&pp=iAQB)
+- [Recursion](https://www.youtube.com/watch?v=t0cHKEof1S8&list=PLBkwGJXcrCATvPBkCUoJzURlO3MIeHZji&pp=iAQB)
+- [Bactracking "for advanced"](https://www.youtube.com/watch?v=lmhlsBwRKGo&list=PLBkwGJXcrCAS-s51m2n1ed_xbyqI_cEio&pp=iAQB)
+
+STL 
+- [Mohammed Mogdi](https://www.youtube.com/playlist?list=PLw2JSXGww1OS2iElMxLGO2TiG88Ggy1rv)
+- [Adel Nassim](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp)
  ### **Object Oriented Design**
 > هنا احنا عاوزين نفهم الأول الـ concepts الأساسية  
 فتمام اختار الفيديوز المناسبة بالنسبة لك في الشرح 
-1. [Object Oriented Programming](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v)
+1. [Object Oriented Programming](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v) 
 2. [UML](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
    
 >  المهم إنك تكون عارف تنفذ الـ 3 مشاريع دول في الحقيقة أنا أفضل يوصلوا 6 مشاريع لكن ع الأقل 3 مشاريع
@@ -78,7 +88,16 @@ Emglish Content (More Recommended)
 2. [Mastering critical SKILLS in Algorithms using C++: Part 1](https://www.udemy.com/share/105tHC3@0ZUvAjO1tPcpyB6xiQBVqmq7V408AJltpLq1JGG90ySb-h9ZKYglh89uZe14vWnp/)
 3. [Mastering critical SKILLS in Algorithms using C++: Part 2](https://www.udemy.com/share/106jYM3@o4I15Z7615XQgjRlzfmH4K0_wb9zoQJ6g3Ttxz-JN3GGkUJSHDncKsWGt-rgs2pi/)
 
-
+#### **Data Structure** (helpful resources)
+1. [Mega Code "for linear data structures"](https://www.youtube.com/watch?v=SbDUW7_G3Xc&list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
+2. Big (O)
+   - [Soucre 1](https://www.youtube.com/watch?v=WRhEwrDoLSc&t=575s)
+   - [Source 2](https://www.youtube.com/watch?v=wEbdQeVwLlo&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=1&pp=iAQB)
+   - [Source 3](https://www.youtube.com/watch?v=o5zf5oVHtn0&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=2&pp=iAQB)
+   - [Source 4](https://youtu.be/sOYBdcsMePE?si=S3caxiuWGWUM5BvB)
+4. Pinters
+   - [Source 1](https://www.youtube.com/watch?v=uplty7GJ9qg&pp=ygUUMiBwb2ludGVycyB0ZWNobmlxdWU%3D)
+5. 
  ## Intermidiate Level
 ### **Databases**
 1- [Database Lessons (first 5 videos)](https://www.youtube.com/playlist?list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
