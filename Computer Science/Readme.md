@@ -165,11 +165,6 @@ if you prefer books
 
 ## Contact us
 Feel free to contact us
-
 - [Shahd Faris El-Badrawy (CAT Reloaded CS Head 24)](https://www.linkedin.com/in/shahd-faris-35896121a/)
-
+- [Ahmed El-Khoriby (contributer with many resources and ideas)]()
 - [Mohammed Yasser (CAT Reloaded CS vice 24)](https://www.linkedin.com/in/mohamad-yasser-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-- [Mahmoud Shawky (CAT Reloaded CS Head 23)](https://www.linkedin.com/in/MahmoudShawkyy)
-
-- [Shaimaa Elbadrawy (CAT Reloaded CS Head 22)](https://www.linkedin.com/in/shaimaa-elbadrawy/)
