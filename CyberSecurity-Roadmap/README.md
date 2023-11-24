@@ -70,9 +70,10 @@ There is no BEST WAY but always there is a SUITABLE WAY
 ![pt1.png](img/pt1.png)
 #### 1. **Web App Penetration testing Path (WAPTR)**
 
-**📌 1. Our Main Roadmap [HERE](https://drive.google.com/file/d/1YlYBgkith2ycK8aqP2bv_a-S9YD6LANi/view?usp=sharing) By Muhammad Gamal**
+**📌 1. Here’s The [new Roadmap](https://zyad3.notion.site/WEB-Penetration-testing-6ae02070f55646358202dc28d0d565ff?pvs=4) based on the Main roadmap but more simplified, updated, divided into sections and has study time line beside resources ( We will make sure to keep it updated )**
 
-**Here’s The [new one](https://zyad3.notion.site/WEB-Penetration-testing-6ae02070f55646358202dc28d0d565ff?pvs=4) based on the Main roadmap but more simplified, updated, divided into sections and has study time line beside resources ( We will make sure to keep it updated )**
+**Our Main Roadmap [HERE](https://drive.google.com/file/d/1YlYBgkith2ycK8aqP2bv_a-S9YD6LANi/view?usp=sharing) By Muhammad Gamal**
+
 
 📌 2. To Practice:
 - Create an account on [hackerone](https://www.hackerone.com/) , [bugcrowd](https://www.bugcrowd.com/), [intigriti](https://www.intigriti.com/programs)
@@ -80,7 +81,7 @@ There is no BEST WAY but always there is a SUITABLE WAY
 - Other resources for simple practice:
 There is no BEST WAY but always there is a SUITABLE WAY
 
-| **1️⃣ [bwapp](http://www.itsecgames.com/)** | **4️⃣ [Hack The Box](https://referral.hackthebox.com/mzxDovt)** | 
+|**1️⃣ [bwapp](http://www.itsecgames.com/)** | **4️⃣ [Hack The Box](https://referral.hackthebox.com/mzxDovt)** | 
 | --- |  --- |
 | **2️⃣ [Dvwa](https://tryhackme.com/room/dvwa)** | **5️⃣ [OWASP Juice](https://tryhackme.com/room/owaspjuiceshop)** |
 |**3️⃣  [OWASP Broken WAP](https://sourceforge.net/projects/owaspbwa/) <br /> &emsp;&ensp;&ensp;[Installation](https://www.youtube.com/watch?v=p7uqu4o3RhY&t=507s)**|**6️⃣ [TryHackMe](https://tryhackme.com/signup?referrer=652bf42512e834834064b3c8)**| 
@@ -89,19 +90,20 @@ There is no BEST WAY but always there is a SUITABLE WAY
 ---
 #### **2. Network Penetration testing Path (NPTR)**
 
-**📌 1. Our Main Roadmap [HERE](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing) includes many steps from Zero to Hero BTW you will need to practice more.**
+**📌 1. For our Study [Time-line](https://catsecurity.notion.site/Weekly-Tasks-3fe78ef8c6a84cdcbfef4175bb5c0f02?pvs=4)**
 
-For our Study [Time-line](https://catsecurity.notion.site/Weekly-Tasks-3fe78ef8c6a84cdcbfef4175bb5c0f02?pvs=4)
+Our Main Roadmap [HERE](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing) includes many steps from Zero to Hero BTW you will need to practice more.
 
-**📌 3. You can Practice on Machines [HTB](https://www.hackthebox.eu/) , [tryHackMe](https://tryhackme.com/) , [Vulnhub Walkthrough](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups)**
+
+**📌 2. You can Practice on Machines [HTB](https://www.hackthebox.eu/) , [tryHackMe](https://tryhackme.com/) , [Vulnhub Walkthrough](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups)**
 
 ---
 ### **2️⃣ Reverse Engineering & Malware Analysis Path**
 
 ![rev.png](img/rev.png)
 
-- **Here’s our Main [Roadmap](https://drive.google.com/file/d/13nDt8I-LoUq350HgeVq0UVhoF9qyhQVh/view?usp=sharing)
 - **Here's our New [Roadmap](https://docs.google.com/document/d/1v98BtTtZZap3LfuuRs9akTxpGOgqFsHhts-8Epykjhk/edit), We will make sure to keep it updated.**
+- **Here’s our Main [Roadmap](https://drive.google.com/file/d/13nDt8I-LoUq350HgeVq0UVhoF9qyhQVh/view?usp=sharing)**
 ---
 ### **3️⃣ Network Security Path (defensive)**
 
