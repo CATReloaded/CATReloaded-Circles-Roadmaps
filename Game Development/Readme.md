@@ -1,7 +1,7 @@
 # **Intro**
 GameDev (to me at least) is a track composed of multiple technologies.
 To truly learn it you will find yourself learning many technologies that may seem unrelated at first some of which are (Mathes, Software Engineering Architecture,  AI, ML) then you may dive deeper into graphics or just follow your passion wherever it leads you.
-I recommend starting by learning C# then Unity to get a good understanding of GameDev then starting from there, If you prefer C++ and think yourself ready for Unreal then go right ahead and start learning Unreal, You enjoy Modelling more? Well start by learning Blender and see where it goes from there, Interested in knowing how that all works from a low level perspective? Well, guess you should be ready to start learning Graphics APIs like OpenGL
+I recommend starting by learning C# then Unity to get a good understanding of GameDev then starting from there, If you prefer C++ and think yourself ready for Unreal then go right ahead and start learning Unreal, You enjoy Modelling more? Well start by learning Blender and see where it goes from there, Interested in knowing how that all works from a low level perspective? Well, guess you should be ready to start learning Graphics APIs like OpenGL.
 
 
 # Programming Languages
