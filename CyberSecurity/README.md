@@ -90,7 +90,7 @@ There is no BEST WAY but always there is a SUITABLE WAY
 ---
 #### **2. Network Penetration testing Path (NPTR)**
 
-**📌 1. For our Study [Time-line](https://catsecurity.notion.site/Weekly-Tasks-3fe78ef8c6a84cdcbfef4175bb5c0f02?pvs=4)**
+**📌 1. For our Study [Time-line](https://ahmedwaly.notion.site/Network-Timeline-d12dcffe237049b391ccbd7db8743f29)**
 
 Our Main Roadmap [HERE](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing) includes many steps from Zero to Hero BTW you will need to practice more.
 
