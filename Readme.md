@@ -1,6 +1,6 @@
-## [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")
+## [CAT Reloaded Roadmaps 2024](https://www.facebook.com/CATReloaded "CAT Reloaded")
 
-![CAT Logo](img/icon.png)
+![CAT Cover](img/cover.png)
 
 ---
 
@@ -12,7 +12,7 @@
 
 ▶ What do we do in [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")?
 
-📌 The team is interested in forming technical circles in order to form communities that help and participate in learning modern software technology such as: **Computer science**, **Cyber Security**, **Gaming**, **Web Development**, **Mobile Development**, **Data Science** and **Graphic Design**.
+📌 The team is interested in forming technical circles in order to form communities that help and participate in learning modern software technology such as: **Computer Science**, **Cyber Security**, **Game Development**, **Web Development**, **Mobile Development**, **Data Science**, **Embedded Systems** and **Graphic Design**.
 
 ---
 
@@ -20,7 +20,7 @@
 
 📌 [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded") community in Mansoura, you know more about us and our activities through our social media:
 
-💻[Web site](http://catreloaded.org/ "Web site")
+💻[Website](https://catreloaded.org/ "Web site")
 
 💻[GitHub](https://github.com/CATReloaded "Web site")
 
@@ -28,7 +28,7 @@
 
 📱 [Facebook Group](https://www.facebook.com/groups/catreloaded.team "Facebook Group")
 
-📱 [Twitter](https://twitter.com/CATReloaded "Twitter")
+📱 [X](https://x.com/CATReloaded "X")
 
 📱 [Linkedin](https://www.linkedin.com/company/cat-reloaded/ "Linkedin")
 
@@ -36,8 +36,8 @@
 
 ---
 
-▶ How to be a member of CAT Reloaded?
+▶ How to become a member of CAT Reloaded?
 
-📌 Almost every year we host a recruitment [Event](https://www.facebook.com/events/1427191697864892/) in Mansoura University to attract all of the interested students in Computer Science in general, categorizing them in Circles meant for different fields.
+📌 Almost every year we host a recruitment [Event](https://www.facebook.com/events/1427191697864892/) called Hello, World! in Mansoura University to attract all of the interested students in Computer Science in general, categorizing them in circles meant for different fields.
 
-![CAT Logo](img/1.JPG)
+![CAT Logo](img/team.JPG)
