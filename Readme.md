@@ -40,4 +40,4 @@
 
 📌 Almost every year we host a recruitment [Event](https://www.facebook.com/events/1427191697864892/) called Hello, World! in Mansoura University to attract all of the interested students in Computer Science in general, categorizing them in circles meant for different fields.
 
-![CAT Logo](img/team.JPG)
+![CAT Logo](img/team.jpg)
