@@ -75,6 +75,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=ZS_kXvOeQ5Y">Academind (SQL vs NoSQL Databases)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://forms.gle/aUobRChKZgDAU67Z9" target="_blank">Week 1 Quiz</a>
             </td>
         </tr>
         <tr>
