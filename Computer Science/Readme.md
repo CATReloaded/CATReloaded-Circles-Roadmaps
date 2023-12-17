@@ -95,7 +95,7 @@ STL
    - [Source 2](https://www.youtube.com/watch?v=wEbdQeVwLlo&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=1&pp=iAQB)
    - [Source 3](https://www.youtube.com/watch?v=o5zf5oVHtn0&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=2&pp=iAQB)
    - [Source 4](https://youtu.be/sOYBdcsMePE?si=S3caxiuWGWUM5BvB)
-4. Pinters
+4. Pointers
    - [Source 1](https://www.youtube.com/watch?v=uplty7GJ9qg&pp=ygUUMiBwb2ludGVycyB0ZWNobmlxdWU%3D)
 5. 
  ## Intermidiate Level
