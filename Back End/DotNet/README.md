@@ -184,6 +184,22 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
+                    <li>What are IoC containers?</li>
+                    <li>Build your own IoC container using C#</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=USLwFGTZB4E">What are IoC containers?</a> <strong>[Skippable]</strong></li>
+                    <li><a href="https://www.youtube.com/watch?v=NkTF_6IQPiY">Build your own IoC container using C#</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=jsgtLvQrGLY">Build an IoC container with Tests</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 7</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
                     <li>Introduction to ASP.NET core MVC</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
@@ -194,7 +210,7 @@ _By the end of this level, the learner should learn_
             </td>
         </tr>
         <tr>
-            <th>Week 7</th>
+            <th>Week 8</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -209,7 +225,7 @@ _By the end of this level, the learner should learn_
             </td>
         </tr>
         <tr>
-            <th>Week 8</th>
+            <th>Week 9</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
