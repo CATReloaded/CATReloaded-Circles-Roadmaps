@@ -51,7 +51,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=fxplz32rgEQ">Koding 101 (Chrome Dev Tools)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://forms.gle/aUobRChKZgDAU67Z9" target="_blank">Week 1 Quiz</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSccZkQkxZGI7U0Ub3G4gkdeB1kQS543r0Ke8oc1GxQGPsUqaA/viewform">Level 0: Week 1 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -76,6 +76,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=ZS_kXvOeQ5Y">Academind (SQL vs NoSQL Databases)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSckNevVyZjGskPr5SM5otcZrEgdHdWsCBfvJV1ka7lt4uhuOA/viewform">Level 0: Week 2 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -283,6 +284,7 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU">The Net Ninja</a> [1:5]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR">Academind</a> [1:6]</li>
                 </ul>
                 <h5>📃 Task</h5>
             </td>
@@ -304,6 +306,7 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU">The Net Ninja</a> [6:12]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR">Academind</a> [7:18]</li>
                     <li><a href="https://www.youtube.com/watch?v=-PdjUx9JZ2E">Dave Gray (MongoDB & Mongoose)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
@@ -341,7 +344,6 @@ _By the end of this level, the learner should learn_
 * **TypeScript**: Syntax, Features, Usage
 * **Architecture**: MVC and other design patterns
 * **Express**: Validation, Authentication, Authorization, Sessions, APIs, JWT
-* **Real Time Connections**: Using `socket.io` and `WebRTC`
 * **API Documentation**: Rules, using Swagger & Postman
 * **Unit Testing**: Test-Driven Development, Using tools like `jest` and `supertest`
 
@@ -570,10 +572,12 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK">Zach Gollwitzer (Local Strategy)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK">Zach Gollwitzer (Local, JWT Strategy)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x">The Net Ninja (OAuth2.0 Strategies)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <p>Implement OAuth2.0 Authentication with Passport.js using two third-party providers</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-K-FvNw70nHSq6BGWGPir8lbvrloSEfIaC0eNX9S3FyNlfg/viewform">Level 2: Week 8 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -610,16 +614,19 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4">Tresmerge (Unit Testing FULL)</a></li> (Recommended)
                     <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O">Elzero Web School (Unit Testing in JavaScript)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN_CelwcY-B9PPi4UsXmU8Ka">Mohamed Essa (API Documentation)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN_CelwcY-B9PPi4UsXmU8Ka">Mohamed Essa (Swagger.io API Documentation)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS">Takhareef Mobarmeg (Swagger Integration in Express)</a></li> [9: 11]
+                    <li><a href="https://www.youtube.com/watch?v=0etHXuy_vbk">Mahmoud Abdullah (Deployment on Cyclic)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=FgnxcUQ5vho">Web Dev Simplified (Unit Testing in JavaScript)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=r5L1XRZaCR0">TomDoesTech (Unit Testing in Express - TypeScript)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=t5sFkGk8GY8">Anson the Developer (Unit Testing in Express - JavaScript)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLnBvgoOXZNCOiV54qjDOPA9R7DIDazxBA">Braintemple Tutorial TV (API Documentation)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=dhMlXoTD3mQ">Skills With Arif (API Documentation)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLnBvgoOXZNCOiV54qjDOPA9R7DIDazxBA">Braintemple Tutorial TV (Swagger.io API Documentation)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=dhMlXoTD3mQ">Skills With Arif (Swagger Integration with Express)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=4Ga4c_amvY8">Rahat WebDev (Deployment on Railway)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
@@ -658,7 +665,8 @@ _By the end of this level, the learner should learn_
 _By the end of this level, the learner should learn_
 * **Database**: SQL Syntax, DB-APIs, ORMs, Migrations
 * **Modern APIs**: `GraphQL`
-* **Caching**: Redis for server-side caching
+* **Real Time Connections**: Using `socket.io` and `WebRTC`
+* **Caching**: Caching Techniques, Redis for server-side caching
 * **Task Scheduling**: `node-schedule`
 * **Browser Automation**: E2E Testing and Web Scraping using `puppeteer`
 
