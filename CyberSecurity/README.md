@@ -102,7 +102,7 @@ Our Main Roadmap [HERE](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-
 
 ![rev.png](img/rev.png)
 
-- **Here's our New [Roadmap](https://docs.google.com/document/d/1v98BtTtZZap3LfuuRs9akTxpGOgqFsHhts-8Epykjhk/edit), We will make sure to keep it updated.**
+- **Here's our New [Roadmap](https://drive.google.com/file/d/1KIbYmByu0Cy35BWRzSMphzRtWGKfALFU/view?usp=sharing), We will make sure to keep it updated.**
 - **Here’s our Main [Roadmap](https://drive.google.com/file/d/13nDt8I-LoUq350HgeVq0UVhoF9qyhQVh/view?usp=sharing)**
 ---
 ### **3️⃣ Network Security Path (defensive)**
