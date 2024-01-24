@@ -44,6 +44,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                 <h5>🎯 Topics</h5>
                 <ul>
                     <li>Version Control (Git & GitHub)</li>
+                    <li>Introduction to SVN</li>
                     <li>Introduction to databases</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
@@ -58,6 +59,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://www.youtube.com/watch?v=RGOj5yH7evk">freeCodeCamp (Git & GitHub)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=_Q07-8e3UbI">Giraffe Academy (What is a database?)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=ZS_kXvOeQ5Y">Academind (SQL vs NoSQL Databases)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=uG7eblbzkH8&list=PLlW_ySVoaQ1ag90Di9zDRi5MP_fTgN9Ny">SVN Basics - Core Components [1:5]</a></li>
                 </ul>
             </td>
         </tr>
