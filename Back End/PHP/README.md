@@ -194,6 +194,19 @@ Topics are ordered and organized according to the vision of the planner, this or
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
+                    <li>API Testing using Postman</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=VywxIQ2ZXw4">Postman Beginner's Course - API Testing</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 7</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
                     <li>What is CSRF?</li>
                     <li>What is XSS?</li>
                     <li>What is SQL Injection?</li>
