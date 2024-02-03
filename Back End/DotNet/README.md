@@ -41,6 +41,8 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">The Net Ninja (HTML & CSS Crash Course)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=fxplz32rgEQ">Koding 101 (Chrome Dev Tools)</a></li>
                 </ul>
+                <h5>📃 Task</h5>
+                <a href="https://forms.gle/9M9tfzjfzFTk7zDy5">Level 0 - Week 1 Task</a>
             </td>
         </tr>
         <tr>
@@ -66,6 +68,8 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://www.youtube.com/watch?v=ZS_kXvOeQ5Y">Academind (SQL vs NoSQL Databases)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=uG7eblbzkH8&list=PLlW_ySVoaQ1ag90Di9zDRi5MP_fTgN9Ny">SVN Basics - Core Components [1:5]</a></li>
                 </ul>
+                <h5>📃 Task</h5>
+                <a href="https://forms.gle/qF4X8jo4N9f8Wffd7">Level 0 - Week 2 Task</a>
             </td>
         </tr>
         <tr>
