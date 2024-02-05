@@ -179,6 +179,20 @@ Topics are ordered and organized according to the vision of the planner, this or
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
+                    <li>Build your own MVC</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=WKy-N0q3WRo&amp;list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1">Build PHP MVC Framework</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 5</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
                     <li>Introduction to API</li>
                     <li>APIs for beginners</li>
                     <li>Build REST API from scratch</li>
