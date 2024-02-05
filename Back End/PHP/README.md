@@ -189,7 +189,7 @@ Topics are ordered and organized according to the vision of the planner, this or
             </td>
         </tr>
         <tr>
-            <th>Week 5</th>
+            <th>Week 6</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -207,7 +207,7 @@ Topics are ordered and organized according to the vision of the planner, this or
             </td>
         </tr>
         <tr>
-            <th>Week 6</th>
+            <th>Week 7</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -220,7 +220,7 @@ Topics are ordered and organized according to the vision of the planner, this or
             </td>
         </tr>
         <tr>
-            <th>Week 7</th>
+            <th>Week 8</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
