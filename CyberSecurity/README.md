@@ -59,7 +59,7 @@ Before delving into Cyber Security, it is essential to acquire foundational skil
 	- Cryptography fundamentals
 	- Bash scripting
 
-[here is the content to study  ](https://zyad3.notion.site/Entry-level-d1da5cd08ccc457db6fa653605b31e8b?pvs=4)
+[here is the content to study  ](https://zyadelsayed.notion.site/Entry-level-d1da5cd08ccc457db6fa653605b31e8b?pvs=4)
 ## Cyber Security Paths Roadmaps 
 
 ---
@@ -70,7 +70,7 @@ There is no BEST WAY but always there is a SUITABLE WAY
 ![pt1.png](img/pt1.png)
 #### 1. **Web App Penetration testing Path (WAPTR)**
 
-**📌 1. Here’s The [new Roadmap](https://zyad3.notion.site/WEB-Penetration-testing-6ae02070f55646358202dc28d0d565ff?pvs=4) based on the Main roadmap but more simplified, updated, divided into sections and has study time line beside resources ( We will make sure to keep it updated )**
+**📌 1. Here’s The [new Roadmap](https://zyadelsayed.notion.site/WEB-Penetration-testing-6ae02070f55646358202dc28d0d565ff?pvs=4) based on the Main roadmap but more simplified, updated, divided into sections and has study time line beside resources ( We will make sure to keep it updated )**
 
 **Our Main Roadmap [HERE](https://drive.google.com/file/d/1YlYBgkith2ycK8aqP2bv_a-S9YD6LANi/view?usp=sharing) By Muhammad Gamal**
 
