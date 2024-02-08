@@ -117,7 +117,7 @@ Our Main Roadmap [HERE](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-
 
 ![soc.jpg](img/soc.png)
 
-**📌Here is our SOC & DFIR [roadmap](https://drive.google.com/file/d/199WAdnyZ7Kf5FTw3UGqCrPP6FZMWGSZf/view?usp=sharing)**
+**📌Here is our SOC & DFIR [Roadmap](https://drive.google.com/file/d/14kQBiI_U17_rzwXpJpSEYnWtblfVYwn1/view?usp=sharing)**
 
 ---
 ## Circle leaders
