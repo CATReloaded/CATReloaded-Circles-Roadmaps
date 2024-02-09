@@ -54,6 +54,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://www.youtube.com/watch?v=Q6G-J54vgKc">Big Data Arabic (Git & GitHub)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=rQKJFlsifR8">GeekHood (What is a database?)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=WWazrq7ZC8E">JobStack (SQL vs NoSQL Databases)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=7uEs0EEZwxY">Learn with Naw (SVN)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
@@ -172,6 +173,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-">Learn PHP The Right Way</a> [68:70]</li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://forms.gle/fpRpFz38rshCEAMM9">Level 1 - Week 4 Task</a>
             </td>
         </tr>
         <tr>
