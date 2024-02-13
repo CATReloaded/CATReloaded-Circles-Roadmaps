@@ -1,6 +1,6 @@
 ﻿# Unity & C# Roadmap Into Weeks
 
-This is the roadmap if you want to specificalize in the **Unity** game engine & **C#** programming language track in game development
+This is the roadmap if you want to specialize in the **Unity** game engine & **C#** programming language tracks in game development
 
 
 ## Programming
