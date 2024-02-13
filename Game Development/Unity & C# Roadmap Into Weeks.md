@@ -13,7 +13,7 @@ Task: [C# problems](https://drive.google.com/file/d/1zVodBmRH-d0nWRgMaliyYg4PGR2
 
 Intro in [OOP](https://youtu.be/qP9-3LnMZsE?si=IFinTZ1Ol1Cck_Vn)\
 OOP & C# systems [playlist](https://youtube.com/playlist?list=PLnzqK5HvcpwQfXeFaGHRYQfyQrJjOy43u&si=XexxmuU7XaT7iGB3)\
-Task: implement this [OOP system](https://drive.google.com/file/d/1pGkl3rxzg73xedR2b8WQMWro4QUpMkyy/view?usp=sharing)\
+Task: implement this [OOP system](https://drive.google.com/file/d/1pGkl3rxzg73xedR2b8WQMWro4QUpMkyy/view?usp=sharing)
 
 ## Game Design
 
