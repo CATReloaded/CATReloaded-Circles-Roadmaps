@@ -33,13 +33,6 @@
     - [Figma](https://youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
     - [Figma tips](https://www.youtube.com/watch?v=CGWbit0BDQM&list=PLXDU_eVOJTx53btRMBES-ASBBm03-bUCJ)
 
-### 2- Adobe Xd :
-
-- Arabic tutorial :
-    - : [Ehab Fayez](https://www.youtube.com/playlist?list=PLjzhiGLyugKzxD2WKrI0riNZ9E6HoZYkH)
-- English tutorial :
-    - [For beginners](https://www.youtube.com/watch?v=0Q2s_zjSNR8&list=PL4cUxeGkcC9hOQFhUxCE8z1aB3OpwKXaJ)
-    - M[ore Advanced](https://www.youtube.com/watch?v=E2RsTm8U2x4&list=PLkiM1tZke4mivrZRPcqp_8oHFxlD8-IP5)
 
 # Knowledge without action is USELESS
 
@@ -49,13 +42,6 @@
 
 - [Food App in Figma](https://youtu.be/1h73MOcH3xA)
 - [Cab Booking App](https://youtu.be/UyDV7F34QJE)
-
-**2- Adobe Xd**
-
-- [Adobe Xd course design mobile apps](https://www.youtube.com/playlist?list=PLjzhiGLyugKzxD2WKrI0riNZ9E6HoZYkH)
-- [Adobe Xd course design websites](https://www.youtube.com/playlist?list=PLjzhiGLyugKyI5L8mwHusklXZyGqzZF5q)
-- [adobe xd masterclass](https://www.youtube.com/watch?v=4H2FZfoXnrs&list=PLwXiPdyIBGJ2_hlIl9p6LpNEl4RTtOAF0)
-
  
 
 # **Design Theory :**
