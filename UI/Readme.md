@@ -1,4 +1,4 @@
-# UI UX Roadmap 2023
+# UI UX Roadmap
 
 *This roadmap assumes that you do not have any knowledge of design. If you are familiar with some things here, feel free to skip them. If not, you can continue reading.*
 
