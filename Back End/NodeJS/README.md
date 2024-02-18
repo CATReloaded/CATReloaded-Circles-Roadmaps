@@ -165,6 +165,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://youtu.be/JloLGV9DmtQ?feature=shared">The Net Ninja (Control Flow)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://forms.gle/nBWn63XTcx26DLjj7">Level 1: Week 2 Quiz</a>
             </td>
         </tr>
         <tr>
