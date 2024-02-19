@@ -181,7 +181,7 @@ Topics are ordered and organized according to the vision of the planner, this or
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
-                    <li>Build your own MVC</li>
+                    <li>Build your own MVC [1:3]</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <ul>
