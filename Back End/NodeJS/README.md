@@ -142,7 +142,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc">The Net Ninja</a> [1:2]</li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://forms.gle/MmfNyentTUqmATN39">Level 1: Week 1 Quiz</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCDpqhlsepyeFsjBNd3BeZdB2ERplwpBZQBq74-uvDasfnSA/viewform">Level 1: Week 1 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -165,7 +165,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://youtu.be/JloLGV9DmtQ?feature=shared">The Net Ninja (Control Flow)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://forms.gle/nBWn63XTcx26DLjj7">Level 1: Week 2 Quiz</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlj9g0KJvTnP7N6E0ypGrtDZIL-9gXeQMFXrh_iqBKU-Bb0g/viewform">Level 1: Week 2 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -175,18 +175,23 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li>Functions and Callbacks</li>
                     <li>Objects</li>
+                    <li>Higher Order Functions</li>
+                    <li>Hoisting</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">Elzero Web School</a> [57:85]</li>
+                    <li><a href="https://www.youtube.com/watch?v=XrCMAmxGA7o">Shadow Coding (Hoisting)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc">The Net Ninja (Functions and Objects)</a> [4:5]</li>
                     <li><a href="https://www.youtube.com/watch?v=rRgD1yVwIvE">Traversy Media (Array Higher Order Functions)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=j-9_15QBW2s">Colt Steele (Hoisting)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeK8u8yH1-Uw_aSEsfZtnPqUznvEeQMgei5W27iJMAEGqo3dQ/viewform">Level 1: Week 3 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -198,11 +203,13 @@ _By the end of this level, the learner should learn_
                     <li>Some Data Structures in JS (Map, Set, ...)</li>
                     <li>Array Advanced Methods</li>
                     <li>Regular Expressions</li>
+                    <li>Closures</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">Elzero Web School</a> [115:146]</li>
+                    <li><a href="https://www.youtube.com/watch?v=a2jVZ8bUm48">Shadow Coding (Closure)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
@@ -211,6 +218,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2">Florin Pop (Array Advanced Methods)</a> [17:24]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD">The Net Ninja (Regular Expressions)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=909NfO1St0A">freeCodeCamp (Regular Expressions)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=aHrvi2zTlaU">ColorCode (Closure)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
             </td>
@@ -1007,6 +1015,7 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/watch?v=2QxM1UDwOMw">EgyptJS (GraphQL)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=QonyaNVeEGo">Yallacode (What is GraphQL)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=sYJy7sOz_Sw">Yallacode (GraphQL in Node.js)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLt0HRIA9i35t6DbbX2Q7NUc0uKJoIR4qQ">Learn With Naw</a></li>
