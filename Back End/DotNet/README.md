@@ -125,21 +125,6 @@ Topics are ordered and organized according to the vision of the planner, this or
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
-                    <li>SOLID Principles</li>
-                    <li>Design Patterns in C#</li>
-                </ul>
-                <h5>🎞️ Resources</h5>
-                <ul>
-                    <li><a href="https://www.youtube.com/watch?v=-hbWDYRSjqk&list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL">SOLID Principles [Full Playlist]</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=DTBm3uqLuUE&list=PL82C6-O4XrHeS_EJlqBSvvvAfZr9mus-V">Design Patterns in C# [1, 2, 3, 6]</a></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <th>Week 3</th>
-            <td>
-                <h5>🎯 Topics</h5>
-                <ul>
                     <li>OOP Concepts</li>
                     <li>Introduction to OOP in C#</li>
                     <li>Advanced Topics in C#</li>
@@ -149,6 +134,22 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://youtu.be/pTB0EiLXUC8">Object-oriented Programming in 7 minutes</a></li>
                     <li><a href="https://www.youtube.com/watch?v=N3CXL3IStfY&list=PLF8OvnCBlEY0UEgX-PDJduL5Tyv4Estam">Introduction to OOP in C# [28:48]</a></li>
                     <li><a href="https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef">C# Advanced Topics [English][2:11]</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=B2ZjMUSvqbc&list=PLZyQU-WOzZF2g5PCSHfhHvoX7BnCUn3Md">C# OOP</a> [Arabic][Full Playlist]</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 3</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>SOLID Principles</li>
+                    <li>Design Patterns in C#</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=-hbWDYRSjqk&list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL">SOLID Principles [Full Playlist]</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=DTBm3uqLuUE&list=PL82C6-O4XrHeS_EJlqBSvvvAfZr9mus-V">Design Patterns in C# [1, 2, 3, 6]</a></li>
                 </ul>
             </td>
         </tr>
@@ -283,6 +284,20 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_">Database Star (Database Design)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=1T0U5mEv4ZA&list=PLUU6Q8aGTpKX-qiIx1zvzXxE7R9xedrPs&index=1"></a>Introduction to ADO [Full Playlist]</li>
                     <li><a href="https://www.youtube.com/watch?v=lagsRIfOSuY&list=PLUU6Q8aGTpKV4bfIPiqGANF2OpbFbE0vl&index=1">Entity Framework [Theoretically][1:10]</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 3</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>C# Linq</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=XLIqOBr7Cm0&list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6">Metigator [Full Playlist]</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=qJywmwJyg20&list=PLwj1YcMhLRN0ysBUFBIMLV3dRFmQmMR1s">Khalid ESSAADANI [Full Playlist][Theoritical]</a></li>
                 </ul>
             </td>
         </tr>
