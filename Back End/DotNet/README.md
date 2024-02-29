@@ -128,6 +128,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li>OOP Concepts</li>
                     <li>Introduction to OOP in C#</li>
                     <li>Advanced Topics in C#</li>
+                    <li>Introduction to LINQ</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <ul>
@@ -135,6 +136,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://www.youtube.com/watch?v=N3CXL3IStfY&list=PLF8OvnCBlEY0UEgX-PDJduL5Tyv4Estam">Introduction to OOP in C# [28:48]</a></li>
                     <li><a href="https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef">C# Advanced Topics [English][2:11]</a></li>
                     <li><a href="https://www.youtube.com/watch?v=B2ZjMUSvqbc&list=PLZyQU-WOzZF2g5PCSHfhHvoX7BnCUn3Md">C# OOP</a> [Arabic][Full Playlist]</li>
+                    <li><a href="https://www.youtube.com/watch?v=qJywmwJyg20&list=PLwj1YcMhLRN0ysBUFBIMLV3dRFmQmMR1s">Introduction to LINQ</a>[Full Playlist]</li>
                 </ul>
             </td>
         </tr>
@@ -292,12 +294,11 @@ Topics are ordered and organized according to the vision of the planner, this or
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
-                    <li>C# Linq</li>
+                    <li>C# Linq in Depth</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=XLIqOBr7Cm0&list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6">Metigator [Full Playlist]</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=qJywmwJyg20&list=PLwj1YcMhLRN0ysBUFBIMLV3dRFmQmMR1s">Khalid ESSAADANI [Full Playlist][Theoritical]</a></li>
                 </ul>
             </td>
         </tr>
