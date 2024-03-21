@@ -250,6 +250,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=KeBxopnhizw">freeCodeCamp (Modules)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2IiaD-oypcYGGMBujU2My9ghu7rS_xi1HWZIUv-esLryM8Q/viewform">Level 1: Week 5 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -809,6 +810,10 @@ _By the end of this level, the learner should learn_
                     </ul>
                 </p>
                 <h5>📃 Task</h5>
+                <ul>
+                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfY5jvtRwsgMa5MHm7iLYr0Uiy9pai-btSBXLwSvZaPiftLGA/viewform">Basic Queries Task</a></li>
+                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdkgNCTehGDLnjCBA_X6KXNIEfPKmBCWZbd2YpXf9ri_Cmr_g/viewform">Joins & Aggregations Task</a></li>
+                </ul>
             </td>
         </tr>
         <tr>
