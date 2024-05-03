@@ -17,4 +17,50 @@ Task: implement this [OOP system](https://drive.google.com/file/d/1pGkl3rxzg73xe
 
 ## Game Design
 
+#### Week3:
+3D cube game [playlist](https://youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL&si=O8YGAtAiRYkBiQHq)\
+Task: Make a 3D cube game like in the referenced playlist but make it one continuous level (Endless).
+
+#### Week4:
+
+3D snake game\
+Resources:\
+[Video1](https://www.youtube.com/watch?v=DfwwlxCJ-TA)\
+[Video2](https://youtu.be/FKYHMAULITQ?si=mSZ3mozCkSykKND_)
+
+Task:  Create two levels of a 3D snake game, an easy/simple first level and a challenging second level with obstacles traps, etc.
+
+## Game Art
+
+#### Week5:
+Intro to Game Art\
+Resources:\
+[Color theory 1](https://www.youtube.com/watch?v=NBg3GjrcMF4)\
+[Color theory 2](https://www.youtube.com/watch?v=BMIa1LyWPAo)\
+[Color theory 3](https://www.youtube.com/watch?v=YeI6Wqn4I78)\
+[Animation Principles ](https://www.youtube.com/playlist?list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd)\
+Task: While watching the resources below, Write down your notes summarizing what you have learned\
+
+#### Week6:
+Game Art\
+Resources:\
+[Tileset](https://www.youtube.com/watch?v=btnH0x7_1g8)\
+[Pixel-Background](https://www.youtube.com/watch?v=OsRqXyE3rOI)\
+[Background Photoshop](https://www.youtube.com/watch?v=GBUXR0UayWw)\
+[Parallax Background](https://www.youtube.com/watch?v=7_qw0tWR3yk)\
+[Character in Photoshop](https://www.youtube.com/watch?v=rLdA4Amea7Y)\
+[Character in Aseprite](https://www.youtube.com/watch?v=UPAHMyN9YeQ)\
+[Pixle Character Design](https://www.youtube.com/watch?v=vXm5VjZA4Ys)\
+[Playlist](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)\
+Task: Create 2D Art of the following:
+A Tileset, 
+Level Background, 
+Obstacles,
+and a Game Character
+
+## Advance Game Design
+
+#### Week7:
+2D Platformer [playlist](https://youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U&si=g-W6cuExd8bi0KWt)\
+Task:  Build a 2D Platformer Game with two levels of gameplay, a pause menu, and a start and end screen.
 
