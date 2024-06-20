@@ -282,7 +282,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=blBoIyNhGvY">Dave Gray (Error Handling)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSecUunHN2jEN-lxtrs0Aqg5TE-_8Xgd4WXcTl_VspY77__JaA/viewform?usp=sf_link">Level 1: Week 6 Quiz</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSecUunHN2jEN-lxtrs0Aqg5TE-_8Xgd4WXcTl_VspY77__JaA/viewform">Level 1: Week 6 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -411,6 +411,7 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li>MVC Design Architecture</li>
                     <li>Server-Side Validation</li>
+                    <li>Environment variables and <code>dotenv</code></li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
@@ -418,11 +419,15 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=yIhRWW9vB5s">VivaCode (MVC in Express)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (MVC in Express)</a> [21:22]</li>
                     <li><a href="https://www.youtube.com/watch?v=S_1ykoqSAu0">Emam Academy (express-validator)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=68ssWH3cffc">Muhammed Essa (Environment Variables Part 1)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=Mi-2qc_3gA4">Index Academy (Environment Variables Part 2)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=Cgvopu9zg8Y">PedroTech (MVC in Express)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=z8m_Vy_9FIs">Raddy (express-validator)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=KdFhoEvSAcM">procademy (Environment Variables Part 1)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=PxshhOKNPpQ">procademy (Environment Variables Part 2)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfACZEJqxmpChEQZv-mF7Bbmkt67iRgqudtSDGfmlzyjZIjJQ/viewform">Level 2: Week 2 Quiz</a>
@@ -573,6 +578,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS">procademy</a> [73:87]</li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVRoKLg390eGt-J74mE9yWrHqnEbqcgBTjekI68ox7qaEXlQ/viewform">Level 2: Week 7 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -811,10 +817,8 @@ _By the end of this level, the learner should learn_
                     </ul>
                 </p>
                 <h5>📃 Task</h5>
-                <ul>
-                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfY5jvtRwsgMa5MHm7iLYr0Uiy9pai-btSBXLwSvZaPiftLGA/viewform">Basic Queries Task</a></li>
-                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdkgNCTehGDLnjCBA_X6KXNIEfPKmBCWZbd2YpXf9ri_Cmr_g/viewform">Joins & Aggregations Task</a></li>
-                </ul>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfY5jvtRwsgMa5MHm7iLYr0Uiy9pai-btSBXLwSvZaPiftLGA/viewform">Part 1</a><br>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkgNCTehGDLnjCBA_X6KXNIEfPKmBCWZbd2YpXf9ri_Cmr_g/viewform">Part 2</a>
             </td>
         </tr>
         <tr>
@@ -829,7 +833,8 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 Arabic</h6>
                 <p>
                     <ul>
-                        <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzhXQ1bcYlO3PtN4MsLiG-gy">KMR Script (Database Design)</a></li>
+                        <li><a href="https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx">Tech Vault (Database Design)</a></li>
+                        <li><a href="https://www.youtube.com/watch?v=QJHy89zMvj8">ITI (Database Design)</a></li>
                         <li><a href="https://www.youtube.com/playlist?list=PLC7aGATfqnIj6p1GIzk4X13Xdv3T8rBzJ">Badr Ahmed (Database Design)</a></li>
                         <li><a href="https://www.youtube.com/watch?v=CQlfm_zNIgo">SAF1 (MySQL Design and Create Database)</a></li>
                         <li><a href="https://www.youtube.com/watch?v=SIxgA9CP1A8">KMR Script (MySQL inside Node.js)</a></li>
@@ -854,6 +859,7 @@ _By the end of this level, the learner should learn_
                     </ul>
                 </p>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScr65VkChXh3OyNcwSk7IGV-m7rQQc4jWJJwDla6CKHO-jpPw/viewform">Level 3: Week 2 Quiz</a>
             </td>
         </tr>
         <tr>
