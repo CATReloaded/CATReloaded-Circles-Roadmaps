@@ -64,3 +64,13 @@ and a Game Character
 2D Platformer [playlist](https://youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U&si=g-W6cuExd8bi0KWt)\
 Task:  Build a 2D Platformer Game with two levels of gameplay, a pause menu, and a start and end screen.
 
+#### Week8:
+3D FPS Game [playlist](https://www.youtube.com/playlist?list=PLPV2KyIb3jR7dFbE2UQYu7QWMdUgDnlnk)\
+Task:  Build a 3D FPS Game with enemy AI.
+
+#### Week9:
+Tower Defense [playlist](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)\
+Task:  Build a Tower Defense Game.
+
+
+
