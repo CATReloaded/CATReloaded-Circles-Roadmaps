@@ -1,4 +1,4 @@
-# .Net Roadmap 2024: 
+# .Net Roadmap 2024
 
 # Level 1: C# Beginner
 
