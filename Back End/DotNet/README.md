@@ -1,4 +1,4 @@
-# .Net Roadmap 2024 (ShahdFarisEl-Badrawy)[https://www.linkedin.com/in/shahd-faris-35896121a/]
+# .Net Roadmap 2024 [Shahd Faris El-Badrawy](https://www.linkedin.com/in/shahd-faris-35896121a/)
 
 # Level 1: C# Beginner
 
