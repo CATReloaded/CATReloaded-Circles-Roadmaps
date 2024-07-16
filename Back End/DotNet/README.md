@@ -207,9 +207,6 @@
 - Building Web APIs with ASP.NET Core
 
 ---
-
-> Note: This roadmap will be updated in the next few weeks with more resources.
-
 > If you have any suggestions, feel free to contact me [here](https://t.me/shahd_elbadrawy).
 
 > If you have any questions, I will be happy to help, so do this please.
