@@ -1,22 +1,23 @@
-## [CAT Reloaded Roadmaps 2024](https://www.facebook.com/CATReloaded "CAT Reloaded")
+## [CAT Reloaded Roadmaps 2024](https://catreloaded.org "CAT Reloaded")
 
 ![CAT Cover](img/cover.png)
 
----
+▶ What is [CAT Reloaded](https:/catreloaded.org "CAT Reloaded")?
 
-▶ What is [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")?
+📌 [CAT Reloaded](https://catreloaded.org "CAT Reloaded") Abbreviation for **C**omputer **A**ssistance **T**eam. It started in **1996** and reloaded again in **2003** so it gained its name **CAT Reloaded** from this matter.  
 
-📌 [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded") Abbreviation for **C**omputer **A**ssistance **T**eam was from **1996** and reloaded again so it gained its name **CAT Reloaded** from this matter.
-
----
-
-▶ What do we do in [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")?
-
-📌 The team is interested in forming technical circles in order to form communities that help and participate in learning modern software technology such as: **Computer Science**, **Cyber Security**, **Game Development**, **Web Development**, **Mobile Development**, **Data Science**, **Embedded Systems** and **Graphic Design**.
+CAT Reloaded strives to build a vibrant technical community for computer science and IT enthusiasts, emphasizing open source technologies, while equipping students with the technical prowess and personal skills needed to excel in the job market.
+Our mission is to foster a continuous learning environment and empower students for a successful future in technology.
 
 ---
 
-▶ How can you follow us on social media or offline?
+▶ What do we do in [CAT Reloaded](https://catreloaded.org "CAT Reloaded")?
+
+📌 The team is interested in forming technical circles to form communities that help and participate in learning modern software technology such as **Computer Science**, **Cyber Security**, **Game Development**, **Web Development**, **Mobile Development**, **Data Science**, **Embedded Systems**, and many other fields.
+
+---
+
+▶ Want to learn more?
 
 📌 [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded") community in Mansoura, you know more about us and our activities through our social media:
 
@@ -32,12 +33,12 @@
 
 📱 [Linkedin](https://www.linkedin.com/company/cat-reloaded/ "Linkedin")
 
-👓[YouTube](https://www.youtube.com/user/C4TReloaded "YouTube")
+👓[YouTube](https://www.youtube.com/user/CATReloaded "YouTube")
 
 ---
 
 ▶ How to become a member of CAT Reloaded?
 
-📌 Almost every year we host a recruitment [Event](https://www.facebook.com/events/1427191697864892/) called Hello, World! in Mansoura University to attract all of the interested students in Computer Science in general, categorizing them in circles meant for different fields.
+📌 Almost every year we host a recruitment [Event](https://www.facebook.com/events/1427191697864892/) called Hello, World! at Mansoura University to attract all interested students in computer science in general, categorizing them into circles meant for different fields.
 
 ![CAT Logo](img/team.jpg)
