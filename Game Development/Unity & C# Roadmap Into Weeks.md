@@ -72,5 +72,17 @@ Task:  Build a 3D FPS Game with enemy AI.
 Tower Defense [playlist](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)\
 Task:  Build a Tower Defense Game.
 
+## 3D Game Art (Blender)
+
+#### Week7:
+Intro To Blender [playlist](https://www.youtube.com/playlist?list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V)\
+Task:  After watching the following playlist, create any static game asset of your choice. 
+
+#### Week8:
+Blender Animation and Simulation [playlist](https://youtube.com/playlist?list=PL-BTVXXeho5SFUrYlj_nL8rHjOdmt_uLF&si=J2h7aN592KpUOVjo)\
+Task:   Follow the playlist below to create a 3d model of a Rocket, and animate it to lift off with fire simulation.
+
+
+
 
 
