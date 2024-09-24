@@ -82,6 +82,9 @@ Task:  After watching the following playlist, create any static game asset of yo
 Blender Animation and Simulation [playlist](https://youtube.com/playlist?list=PL-BTVXXeho5SFUrYlj_nL8rHjOdmt_uLF&si=J2h7aN592KpUOVjo)\
 Task:   Follow the playlist below to create a 3d model of a Rocket, and animate it to lift off with fire simulation.
 
+#### Week12:
+Blender Sculpting and Retopology [playlist](https://www.youtube.com/playlist?list=PL-BTVXXeho5TXgzvHUpjjWT4VLLMVWvVP)\
+Task:   Using Blender, Create a 3d model of a character of your choice using Sculpting and Retopology.
 
 
 
