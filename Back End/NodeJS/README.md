@@ -418,7 +418,7 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=yIhRWW9vB5s">VivaCode (MVC in Express)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (MVC in Express)</a> [21:22]</li>
-                    <li><a href="https://www.youtube.com/watch?v=S_1ykoqSAu0">Emam Academy (express-validator)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=9DQuFEar2og">Code with Fadi (express-validator)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=68ssWH3cffc">Muhammed Essa (Environment Variables Part 1)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=Mi-2qc_3gA4">Index Academy (Environment Variables Part 2)</a></li>
                 </ul>
@@ -454,6 +454,7 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 English</h6>
                 <ul>
                     <li><strong>Blog Website:</strong> <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD">The Net Ninja</a> [1:5]</li>
+                    <li><strong>Shopping Cart:</strong> <a href="https://www.youtube.com/playlist?list=PL78sHffDjI75uMmHCqxil_YROcHl5ONNj">Easy Learning</a> [1:27]</li>
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Choose one project from the above, follow along with the tutorials and upload your code on GitHub</p>
@@ -482,6 +483,7 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 English</h6>
                 <ul>
                     <li><strong>Blog Website:</strong> <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD">The Net Ninja</a> [6:10]</li>
+                    <li><strong>Shopping Cart:</strong> <a href="https://www.youtube.com/playlist?list=PL78sHffDjI75uMmHCqxil_YROcHl5ONNj">Easy Learning</a> [28:53]</li>
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Choose one project from the above, follow along with the tutorials and upload your code on GitHub</p>
@@ -496,23 +498,28 @@ _By the end of this level, the learner should learn_
                     <li>File Uploads</li>
                     <li>Sessions and Session Stores</li>
                     <li>Hashing Vs. Encryption</li>
+                    <li>Session-Based Authentication</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=j9ibqDLmKZs">Youssef Abbas (File Upload)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=4p8lvUk_PZw">Takhareef Mobarmeg (File Upload)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=rblbMjrcVqg">Khalid Elshafie (File Upload)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=XbpAGY6ZzHY">Emam Academy (Sessions)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLy2vwCvAbFKSmjvT1NsUEu6N58kf8qGFt">Ethraa Barmajy (Hashing, Encryption, Salts and Bcrypt in Node.js)</a></li>
+                    <li>Resource missing for session stores (See English)</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLy2vwCvAbFKSmjvT1NsUEu6N58kf8qGFt">Ethraa Barmajy (Password Security)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=YYHtHbJnVEU">Index Academy (Bcrypt in Node.js)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Session-Based Authentication)</a></li> [28:31]
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=wIOpe8S2Mk8">PedroTech (File Uploads)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=IPAvfcodcI8">WittCode (Sessions)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=IJ1nHIgSOQA">Anson the Developer (Session Stores)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=T9MsNRI5T-A">Anson the Developer (Session Stores)</a></li>
                     <li><a href="https://www.npmjs.com/package/express-session#compatible-session-stores">NPM Documentations (Session Stores)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=qgpsIBLvrGY">Studying With Alex (Encryption, Hashing and Salting)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=AzA_LTDoFqY">Sam Meech-Ward (Hashing with bcrypt)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=qgpsIBLvrGY">Studying With Alex (Password Security)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=AzA_LTDoFqY">Sam Meech-Ward (Bcrypt in Node.js)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=TDe7DRYK8vU">The Full Stack Junkie (Session-Based Authentication)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
                 <p>
@@ -537,7 +544,7 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="hthttps://www.youtube.com/watch?v=zAJs2T1xAFE">Amr Mohamed (CSR & SSR)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=zAJs2T1xAFE">Amr Mohamed (CSR & SSR)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=rq7DvjN1Gco">Tarmeez (Intro to APIs)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=4dz4qDMwmCM">Tarmeez (JSON Recap)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=aanOygFD4Fo">pragma (Sessions vs. Tokens)</a></li>
@@ -554,7 +561,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=7Q17ubqLfaM">Web Dev Simplified (JWT Part 1)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=mbsmsi7l3r4">Web Dev Simplified (JWT Part 2)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=2PPSXonhIck">Code Realm (Sessions vs. Tokens)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=b8ZUb_Okxro">Code With Antony (Apply REST with TypeScript & JWT)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=b8ZUb_Okxro">Code With Antony (Apply REST with TypeScript)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLScKXITqpQsNkn3vJqAOPR1fvBa_ZqpRrSWh133LvP4apftEMg/viewform">Level 2: Week 6 Quiz</a>
@@ -616,14 +623,15 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
-                    <li>Authentication using <code>passport.js</code></li>
                     <li>OAuth2.0 and Third Party Authentication</li>
+                    <li>Authentication using <code>passport.js</code></li>
                     <li>API Security</li>
                     <li>Rate Limiting and Controlling Traffic</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/watch?v=86qNjL7I00w">Almadrasa (OAuth 2.0 Intro & Workflow)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ6BVx8IuvTdrxiRQhDHmPK">Algorithm Academy (Local, OAuth2.0 Strategies)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=GsqkTEvnC8s">Code With Zeyad (Local Strategy)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=a0g8rI4j4qc">Ahmed Elemam (API Security)</a></li>
@@ -631,7 +639,10 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/watch?v=t4-416mg6iU">Java Brains (OAuth 2.0 Intro)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=CPbvxxslDTU">InterSystems Learning Services (OAuth 2.0 Workflow)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK">Zach Gollwitzer (Local, JWT Strategy)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL62km_yqC3ZHlvkKVmR2f3W6SEzh8pRIf">Akilesh Rao (Google, JWT Strategy)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x">The Net Ninja (OAuth2.0 Strategies)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=YYe0FdfdgDU">freeCodeCamp (API Security)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=VZZLiVccwKk">Raddy (Rate Limiting)</a></li>
@@ -646,16 +657,19 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
+                    <li>SMTP</li>
                     <li>Sending Emails in Node.js</li>
                     <li>Sending SMS Messages with Twilio API</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/watch?v=W3xCWR5WjvY">DeepWave Technology (SMTP)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=AGErsRWd-6Y">Youssef Abbas (Sending Emails)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/watch?v=PJo5yOtu7o8">PowerCert Animated Videos (SMTP)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=nF9g1825mwk">Traversy Media (Sending Emails)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=vs4in-UFdX0">AyyazTech (Sending SMS)</a></li>
                 </ul>
