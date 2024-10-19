@@ -152,7 +152,7 @@ or<br>
 - [Mit Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)<br>
 
 **Arabic**
-- [Linear Algebra In Arabic](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D](https://www.youtube.com/watch?v=tGnnO04YtPA&list=PLQkyODvJ8ywu5cwBgKm_BPQ-bIUknhjA6)
+- [Linear Algebra In Arabic](https://www.youtube.com/watch?v=tGnnO04YtPA&list=PLQkyODvJ8ywu5cwBgKm_BPQ-bIUknhjA6)<br>
 
 ### 3.**Infrential Statistics**
 - [Coursera: Inferential stats 1](https://www.coursera.org/specializations/statistics-with-python)
