@@ -2,3 +2,6 @@
 	path = Cloud Computing & DevOps/Cloud-Computing-RoadMap
 	url = https://github.com/KareemEl-Giushy/Cloud-Computing-RoadMap.git
 	branch = main
+[submodule "Data Science/Full roadmap"]
+	path = Data Science/Full roadmap
+	url = https://github.com/mhmdkardosha/CAT-Reloaded-2025-Data-Science-Roadmap
