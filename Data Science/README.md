@@ -645,11 +645,13 @@ In this stage, you now have strong basics about machine learning algorithms and 
 <h2 id=advanced-b> 2.5. Advanced B Level</h2>
 
 In this stage, you will enter the Deep Learning and NLP World. It's divided into three phases:
+
 - Phase 1: Basic concepts of Deep Learning (NN, CNN, RNN, Backpropagation, Optimizers, etc.)
 - Phase 2: Transformers and LLMs.
 - Phase 3: NLP fields.
 
 ### 2.5.1. Phase 1: Basic Concepts of Deep Learning
+
 <table>
     <thead>
         <tr>
@@ -785,6 +787,7 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
 </table>
 
 ### 2.5.2. Phase 2: Transformers and LLMs
+
 <table>
     <thead>
         <tr>
@@ -857,5 +860,6 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
 --------------------------------------------------------------------------------------------------------------------------
 
 If you need to ask any questions or clarifications for some topic, don't hesitate to ask us:
+
 - [Mohamed Kardosha](https://github.com/mhmdkardosha): Data Science circle **Head**.
 - [Doaa Helal](https://github.com/Doaa-Helal): Data Science circle **Vice-Head**.
