@@ -117,7 +117,7 @@ ___
 2. **Use LinkedIn and make connections with people from your field**
 
 **Feel free to contact us:**
-* [Abdalazem Saleh](https://www.linkedin.com/in/abdalazem-saleh-580772245/)
+* [Ahmed Fathy](https://www.linkedin.com/in/ahmed-fathy-a8471a22a)
   
 
  
