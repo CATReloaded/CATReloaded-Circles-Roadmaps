@@ -1,212 +1,937 @@
-### .Net Roadmap 2024 by [Shahd Faris El-Badrawy](https://www.linkedin.com/in/shahd-faris-35896121a/)
+<h1 > Entry Level </h1>
 
-# Level 1: C# Beginner
+<p><strong>Objective:</strong>
 
-### First, dive into the language you'll work with: C#
+Cover the basics of web development, including HTML, CSS, JavaScript, and browser tools, and introduce version control with Git and GitHub.</p>
 
-## Beginner
+<table style="  width: 100%; border-collapse: collapse;font-family: Arial, sans-serif; ">
+  <thead>
+    <tr style="background-color: #492d81; color: white">
+      <th style="padding: 10px; text-align: center">Week</th>
+      <th style="padding: 10px; text-align: center">Content</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Week 1</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>Browser Developer Tools</li>
+          <li>Internet Basics</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://www.youtube.com/watch?v=q3yFo-t1ykw">Abdelrahman Gamal (HTML Crash Course)</a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=Z-5QVutAEW4">Abdelrahman Gamal (CSS Crash Course)</a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=_IKTGQosYMo">Elzero Web School (Chrome Dev Tools)</a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=_IKTGQosYMo">Internet Basics</a>
+          </li>
+        </ul>
+        <h6>🌏 English</h6>
+        <ul>
+          <li>
+            <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">The Net Ninja (HTML & CSS
+              Crash Course)</a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=fxplz32rgEQ">Koding 101 (Chrome Dev Tools)</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Week 2</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>Version Control (Git & GitHub)</li>
+          <li>JS</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://www.youtube.com/watch?v=Q6G-J54vgKc">Big Data Arabic (Git & GitHub)</a>
+          </li>
+        </ul>
+        <h6>🌏 English</h6>
+        <ul>
+        <li>
+            <a href="https://youtu.be/hdI2bqOjy3c?si=5MYoiZW-SD9rbw8L">
+Traversy Media
+</a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=RGOj5yH7evk">freeCodeCamp (Git & GitHub)</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <h1>  Beginner Level </h1>
 
-- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
-- [ITI](https://www.youtube.com/watch?v=yqUeKsXwfRE&list=PL5RGzfpIj4jEhPZGKf7cRTp_k4-PzcEmZ&index=3)
+<p><strong>Objective:</strong>
 
-## Intermediate (OOP)
 
-- [Issam Abd Elnabi](https://youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l) (OOP videos only)
-- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQumtM4rQc77yjbkZcGOTX5)
-
-## Advanced
-
-- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY)
-- [Issam Abd Elnabi](https://youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-- [TimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ)
-- [Highly Recommended, but make it as a second source](https://www.youtube.com/playlist?list=PLOeFnOV9YBa43HKvIhBUMK6UhSjP2kizx)
-
-## async/await Task
-
-- [Gavin Lon](https://www.youtube.com/playlist?list=PL4LFuHwItvKb5A9W1myICdC-GJU4_6cKE)
-- [C# Async/Await/Task Explained (Deep Dive)](https://youtu.be/il9gl8MH17s?si=I4wjYWyZle-4K0yT)
-- [**8 await async mistakes that you SHOULD avoid in .NET**](https://www.youtube.com/watch?v=lQu-eBIIh-w)
-
-### Optional Deep Dives
-- [Async demystified - Karel Zikmund](https://www.youtube.com/watch?v=TgUYcZV-foM&t=0s)
-- [LTS Webinar “Performing Asynchronous...” by Jeffrey Richter](https://www.youtube.com/watch?v=T9UTfymRZXU&t=0s)
-- [Performing Asynchronous I/O Bound Operations by Jeffrey Richter (Demo at 41:55)](https://www.youtube.com/watch?v=hB0K1JWFoqs&t=0s)
-- [Stealing Time with the .NET ThreadPool by Adam Krieger](https://www.youtube.com/watch?v=NnZCcvAdV_4&t=0s)
-
-## Additional Resources
-- [Video with nice notes](https://youtu.be/N2qewr8yeuI?si=St9p4XIhymyNHDjm)
-- **Books:**
-  - Illustrated C# 7
-  - C# in a Nutshell (reference)
+Focuses on C#   fundamentals
+Explores object-oriented programming, generics, collections, and asynchronous programming
+Introduces SOLID principles, SQL, LINQ, and Entity Framework Core</p>
+    <details>
+      <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
+      <div style="margin-left: 20px">
+        <ul>
+          <li><a href="#week1">Week 1</a></li>
+          <li><a href="#week2">Week 2</a></li>
+          <li><a href="#week3">Week 3</a></li>
+          <li><a href="#week4">Week 4</a></li>
+          <li><a href="#week5">Week 5</a></li>
+          <li><a href="#week6">Week 6</a></li>
+          <li><a href="#week7">Week 7</a></li>
+          <li><a href="#week8">Week 8</a></li>
+          <li><a href="#week9">Week 9</a></li>
+          <li><a href="#week10">Week 10</a></li>
+          <li><a href="#week11">Week 11</a></li>
+          <li><a href="#week12">Week 12</a></li>
+        </ul>
+      </div>
+    </details>
+    <table >
+        <table>
+          <table style="
+              width: 100%;
+              border-collapse: collapse;
+              font-family: Arial, sans-serif;
+            ">
+            <thead>
+              <tr style="background-color: #492d81; color: white">
+                <th style="padding: 10px; text-align: center">Week</th>
+                <th style="padding: 10px; text-align: center">Content</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td id="week1">Week 1</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>C# basics</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                  <li>
+                      <a href="https://youtube.com/playlist?list=PLfHpC6JZ316dbrFn-jAwMBZwMqkcAabWB&si=365JRHhKXDbOO_Pb">
+Piece of Cake Dev  </a>[1:19]
+                    </li>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI&si=hpsYMiM-s_FYrq03">Passionate
+                        Coders </a>
+                    </li>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l&si=xLclh6EEpi3vhYde">Issam
+                        Abdelnabi</a>
+                    </li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC&si=aSiNr8sGyRzaBT1b">
+                        Caleb Curry</a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr id="week2">
+                <td>Week 2</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>OOP</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                  <li>
+                      <a href="https://youtube.com/playlist?list=PLfHpC6JZ316f6YXKyux0dHjJXA0Kg38p7&si=GC0ePTwaVyRl6i2P"> Piece of Cake Dev</a><b></b> [1:16]
+                    </li>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLsV97AQt78NQumtM4rQc77yjbkZcGOTX5&si=Tt9g0qv_-93IyS0O">Passionate
+                        Coders </a><b></b>
+                    </li>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l&si=xLclh6EEpi3vhYde">Issam
+                        Abdelnabi</a>
+                    </li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC&si=aSiNr8sGyRzaBT1b">
+                        Caleb Curry</a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr id="week3">
+                <td>Week 3</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>Generics</li>
+                    <li>Collections</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLfHpC6JZ316ciHMql4eXK1zfzuttajevf&si=o-yK2YlR8m6zghOn">
+                        Piece of Cake Dev</a>[1:7]
+                    </li>
+                    <li>
+                      <a href="https://youtu.be/xE6bS6EfKAc?si=jV_K7r5jTSzlw-n6">Issam
+                        Abdelnabi</a>
+                    </li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLVlQHNRLflP8DCUdve6NEAfu8T6M9127i&si=NSLy58zYfkffX2ZI">
+                        Naresh i Technologies</a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr  id="week4">
+                <td>Week 4</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>Delegates</li>
+                    <li>Events</li>
+                    <li>Anonymous Methods & Lambda Expressions</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY&si=P38msZaLLIGpK9Zp">
+                        Passionate Coders</a>
+                      [1 : 4]
+                    </li>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLfHpC6JZ316dwb3MN8W6XuBuyaTA8RVaW&si=8emviHGi7AM-p8LY">Piece
+                        of Cake Dev
+                      </a>
+                      [2 & 5]
+                    </li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtu.be/nhJ63BnlP5I?si=n8nn5V6eyJ4gInDn">
+                        Rainer Stropek</a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr  id="week5">
+                <td>Week 5</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>Asynchronous Programming</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY&si=P38msZaLLIGpK9Zp">
+                        Passionate Coders</a>
+                      [5 : 6]
+                    </li>
+                     <li>
+                      <a href="https://youtu.be/xX_V6rgVa0Q?si=CypRzTSUIZgpci1e">Kudvenkat.Arabic</a>
+                    </li>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l&si=xLclh6EEpi3vhYde">Issam
+                        Abdelnabi
+                      </a>
+                    </li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtu.be/FIZVKteEFyk?si=ovnQa0fxiEa90UNb">
+                        Rainer Stropek</a> [1]
+                    </li>
+                      <li>
+                      <a href="https://youtu.be/_fPNcQrB1JA?si=u6hY_nNizgheA8oZ">
+                       Tural Suleymani</a> [1]
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr  id="week6">
+                <td>Week 6</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>SOLID Principles</li>
+                    <li>Bootstrap</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq&si=21B1bnrUzCpdDFhI">
+                        Passionate Coders
+                      </a>
+                      [1 : 5]
+                    </li>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu&si=5mULtLdUI9f7Hx9b">
+                        Issam Abdelnabi
+                      </a>
+                    </li> <li>
+                      <a href="https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV&si=qu33hQRojb9ulRSv">
+                         Omar Ahmed
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://youtu.be/EzHbZjXDdKc?si=yyOL0n8ekb7vYmGq">
+                        Abdelrahman Gamal
+                      </a> [1]
+                    </li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtu.be/HoA6aZPR5K0?si=_122DepC_-WBOwhQ">
+                        Geekific</a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr  id="week7">
+                <td>Week 7</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>SQL</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li> 
+                      <a href="https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=kEh-mb3yRKkhbb7n">
+                        Mohamed El Desouki
+                      </a>
+                      [1 : 23]
+                    </li> <li>
+                      <a href="https://youtube.com/playlist?list=PLAowHBw9BCw5b56-SfY7tgndHbGcQycp2&si=UcStONvfyhF0DBJa">
+                        catch Error
+                      </a>
+                    </li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL08903FB7ACA1C2FB&si=Njplc1zXN5V9uyH-">
+                        kudvenkat</a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              </tr>
+              <tr id="week8">
+                <td>Week 8</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>SQL</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=kEh-mb3yRKkhbb7n">
+                        Mohamed El Desouki
+                      </a>
+                      [24 : 44]
+                    </li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL08903FB7ACA1C2FB&si=Njplc1zXN5V9uyH-">
+                        kudvenkat</a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              </tr>
+              </tr>
+              <tr  id="week9">
+                <td>Week 9</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>LINQ</li>
+                    <li>Singleton,Adapter pattern</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa&si=J01bzfNEzYLb6GoQ">
+                        ITI
+                      </a>
+                      [1 : 2]
+                    </li>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR&si=t1vJxEVVvQnmUxWX">
+                        Passionate Coders
+                      </a>
+                      [1 : 3]
+                    </li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLVlQHNRLflP_-XQtkI8-EJagXRzqf7mgG&si=SfR7_MHTypVRIcwD">
+                        Naresh i Technologies</a>
+                    </li>
+                    <li>
+                      <a href="https://youtu.be/wA3keqCeKtM?si=21TMg0rmQ89PS2s6">
+                        Geekific</a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr  id="week10">
+                <td>Week 10</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>LINQ</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa&si=J01bzfNEzYLb6GoQ">
+                        ITI
+                      </a>
+                      [2 : 4]
+                    </li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLVlQHNRLflP_-XQtkI8-EJagXRzqf7mgG&si=SfR7_MHTypVRIcwD">
+                        Naresh i Technologies</a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              </tr>
+              <tr  id="week11">
+                <td>Week 11</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>EF Core</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp&si=h0stidMFBlPc41">
+                        DevCreed
+                      </a>
+                      [1 : 37]
+                    </li>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv&si=BNXRAZ9ZXb2ILVUf">
+                        Issam Abdelnabi
+                      </a>
+                    </li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PLQB-TSatJvw4T7mQneItRgsemyjMMYRNk&si=O1e6EopYZu0KpjYc">
+                        Coding Tutorials</a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              </tr>
+              </tr>
+              <tr  id="week12">
+                <td>Week 12</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>EF Core</li>
+                    <li>Proxy Pattern</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp&si=h0stidMFBlPc41">
+                        DevCreed
+                      </a>
+                      [54 : 70]
+                    </li>
+                    <li> <a href="https://youtu.be/ZdQ9-j65rJM?si=XjhaT0DcmPxklnpb">
+                        DevGeeks Academy </a>[1]
+                    </li><a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv&si=BNXRAZ9ZXb2ILVUf">
+                      Issam Abdelnabi
+                    </a></li>
+                  </ul>
+                  <h6>🌏 English</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtu.be/TS5i-uPXLs8?si=mSH0rkWCSIKvzV_N">
+                        Geekific</a> [1]
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table>
+      </table>
+      
+---
+<h1> Intermediate Level</h1>
+<p>
+<strong>Objective :</strong>
+Dives into design patterns,Covers the Model-View-Controller (MVC) architectural pattern, building RESTful APIs ,Explores the Repository pattern and authentication & authorization
+</p>
+<details>
+  <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
+  <div style="margin-left: 20px">
+    <ul>
+      <li><a href="#week21">Week 1</a></li>
+      <li><a href="#week22">Week 2</a></li>
+      <li><a href="#week23">Week 3</a></li>
+      <li><a href="#week24">Week 4</a></li>
+      <li><a href="#week25">Week 5</a></li>
+      <li><a href="#week26">Week 6</a></li>
+      <li><a href="#week27">Week 7</a></li>
+      <li><a href="#week28">Week 8</a></li>
+      <li><a href="#week29">Week 9</a></li>
+      <li><a href="#week210">Week 10</a></li>
+      <li><a href="#week211">Week 11</a></li>
+      <li><a href="#week212">Week 12</a></li>
+    </ul>
+  </div>
+</details>
 
 ---
 
-# Level 2: Database
-
-### Next step: How to deal with databases (DBMS)
-
-## SQL Server
-
-- [Issam AbdelNabi](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
-- [الدسوقي](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
-
-## Query Language in C# (LINQ)
-
-- [Issam](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6)
-- [FreeCodeCamp](https://www.youtube.com/watch?v=5l2qA3Pc83M&t=3849s)
-
-## ORM framework for the .NET platform (EF Core)
-
-- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
-- [Issam](https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)
-
----
-
-# Level 3: .NET Beginner
-
-### Now, you are able to start your first step towards your desired framework: .NET
-
-### Understanding .NET
-
-- [.Net vs .Net Core](https://youtu.be/hTt-Je4PKmI?si=1GxOikf_P4653vYo)
-- [Dealing with Different Versions](https://www.youtube.com/watch?v=vdhFw1VSowg)
-
-### SOLID Principles
-
-- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq)
-- [Issam](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu)
-
-### Design Patterns
-
-- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR)
-
-### ASP.NET Core for Beginners
-
-- [Very Important Topics](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) (What’s behind the scenes)
-- [DI and Life Cycles by Tim Corey](https://www.youtube.com/watch?v=Hhpq7oYcpGE)
-
-### MVC
-
-- [Intro](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC)
-- [Small CRUD Project](https://www.youtube.com/playlist?list=PL62tSREI9C-c-Zw9Pafbd7VQTfZMtn8yQ)
-
-### Web API
-
-- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-c_yZ0a7Yui1U22Tv4mBjSF)
-- ITI
-- [Complete API Project](https://youtu.be/9zJn3a7L1uE?si=Pei_jQrRE77Y9gek)
-
-### Repository Pattern
-
-- [Repository Pattern](https://www.youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73)
-
-### Pagination, Filtration & Sorting
-
-- [Adding Filtering, Sorting, and Pagination to a REST API | .NET 7](https://www.youtube.com/watch?v=X8zRvXbirMU)
-
-### Automapper
-
-- [Automapper Template](https://www.notion.so/af906e5017314d808aa8a169087c2ba8?pvs=21)
-- [Mohamad Lawand](https://youtu.be/87fhsf8gfDg?si=U9s0d-mvCvoE9hbM)
-- [Medium Article](https://medium.com/@supino0017/automapper-for-object-mapping-in-net-8-5b20a034de8c)
-- [Simplify Object Mapping in .NET with AutoMapper](https://medium.com/@josiahmahachi/simplify-object-mapping-in-net-with-automapper-b7fd1569fe2b)
-
-# .NET Intermediate
-
-### Authentication and Authorization
-
-- [Slides for Authentication](https://docs.google.com/presentation/d/1sE1_I9W7crs45CwTb-k_LYmAxpDLBuA_9OpgaFHmcEQ/edit?usp=sharing)
-- [Video for Building Base](https://drive.google.com/file/d/1dZMO8TglmubrF4vni0WR2p8j6Y58l-vB/view)
-- [Authorization Slides](https://docs.google.com/presentation/d/1wE7vIXLSdLOtK-JzVRt7RLT7AIHr_Am1PvZOwyHq3es/edit#slide=id.g2ebf29dfe68_1_0)
-
-### Identity
-
-#### Prerequisites
-
-- [Options Pattern](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options)
-- [Auth Step by Step](https://youtu.be/-KyTOEiMfQQ?si=FLsLIVw_OzJrlb7y) (Basics)
-- [Bearer Authentication](https://youtu.be/H781NNEfSD0?si=M0YIe-0GF6k4j29v)
-
-### Normal Authentication without Identity Provider
-
-- [User Sign-Up, Verify/Confirm Email & Forgot/Reset Password with a .NET 6 Web API](https://youtu.be/2Q9Uh-5O8Sk?si=gtxqHPEbI519Vn-C)
-
-### Authentication and Authorization Using Identity
-
-#### Resources
-
-- [ASP.NET Core API with JWT Authentication](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
-- [Mohamed Lawand](https://youtu.be/oWPiBHh3eNc?si=5NmGx7_EniZUKYwc)
-
-#### Refresh Tokens
-
-- [JWT Refresh Tokens in .NET 6](https://www.youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W)
-- [Mohamed Lawand](https://youtu.be/oWPiBHh3eNc?si=5NmGx7_EniZUKYwc)
-
-### Caching
-
-- [Memory Cache](https://www.youtube.com/watch?v=2jj2wH60QuE)
-
-### Unit Testing
-
-- [Unit Testing](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A)
-
----
-
-# Utility Topics
-
-### Storing Images
-
-- [Microsoft Documentation](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads)
-- Will record session to explain this topic.
-
-# .NET Advanced
-
-### Advanced Concepts
-
-- [Shiv Kumar](https://www.youtube.com/playlist?list=PLJ0hAqAAdnpD5ohNkTH_TMnes0tDa6cua)
-- [**This book is really important**](https://t.co/CT6zavsO83)
-
-### Authentication
-
-- [All Types of Authentication](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4yaz-uIi5T4ZW3QQGHJQXi)
-
-### SignalR
-
-- [SignalR](https://www.youtube.com/playlist?list=PLOeFnOV9YBa7nzzuXnThdfsyY06AuCP5V)
-
-### EF Core
-
-- [Entity Framework Core, Milan Jovanović](https://www.youtube.com/playlist?list=PLYpjLpq5ZDGtE9kCEhIiK2C9tMZaTdNcN)
-
-### Useful Libraries
-
-- [Useful Libraries](https://www.youtube.com/playlist?list=PL2E-vlKoo_v3D8NNqyLUbkfu3e1rmYRDh)
-
-### Deployment
-
-- [Deployment](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC)
-
----
-
-## Playlist with Nearly All the Topics
-
-- [tutorialsEU - C#](https://www.youtube.com/playlist?list=PLSr9CPTtmP9js0n4XOmI4vfKeVvlS32PA)
-
-## Deep Dive in .NET
-
-- [CodingTutorialsAreGo](https://www.youtube.com/@CodingTutorialsAreGo/playlists)
-- [Gavin Lon](https://www.youtube.com/@GavinLon/playlists)
-
----
-
-## Books, you can start with 
-
-- Pro ASP.NET Core
-- ASP.NET Core in Action
-- Building Web APIs with ASP.NET Core
-
----
-> If you have any suggestions, feel free to contact me [here](https://t.me/shahd_elbadrawy).
-
-> If you have any questions, I will be happy to help, so do this please.
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <thead>
+    <tr style="background-color: #492d81; color: white">
+      <th style="padding: 10px; text-align: center">Week</th>
+      <th style="padding: 10px; text-align: center">Content</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr id="week21">
+      <td>Week 1</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>Design Patterns</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR&si=-wST1eOr8dMkMkET">Passionate Coders</a> [4:8] & [14:16]
+          </li>
+        </ul>
+        <h6>🌏 English</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc&si=lUHxIPCGaVkLiHGO">Geekific</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week22">
+      <td>Week 2</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>MVC</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 1: Day 2]
+          </li>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
+          </li>
+        </ul>
+        <h6>🌏 English</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO&si=8KeuWSlIT-BckixF">Teddy Smith</a>
+          </li>
+          <li>
+            <a href="https://youtube.com/playlist?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v&si=wWDTyIFrpEhZiIIT">kudvenkat</a>
+          </li>
+          <li>
+            <a href="https://youtu.be/hZ1DASYd9rk?si=8ND_UZK944B1gU93">DotNetMastery</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week23">
+      <td>Week 3</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>MVC</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 3: Day 4]
+          </li>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
+          </li>
+        </ul>
+        <h6>🌏 English</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO&si=8KeuWSlIT-BckixF">Teddy Smith</a>
+          </li>
+          <li>
+            <a href="https://youtube.com/playlist?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v&si=wWDTyIFrpEhZiIIT">kudvenkat</a>
+          </li>
+          <li>
+            <a href="https://youtu.be/hZ1DASYd9rk?si=8ND_UZK944B1gU93">DotNetMastery</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week24">
+      <td>Week 4</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>MVC</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 5: Day 6]
+          </li>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
+          </li>
+        </ul>
+        <h6>🌏 English</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO&si=8KeuWSlIT-BckixF">Teddy Smith</a>
+          </li>
+          <li>
+            <a href="https://youtube.com/playlist?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v&si=wWDTyIFrpEhZiIIT">kudvenkat</a>
+          </li>
+          <li>
+            <a href="https://youtu.be/hZ1DASYd9rk?si=8ND_UZK944B1gU93">DotNetMastery</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week25">
+      <td>Week 5</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>MVC</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 7]
+          </li>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
+          </li>
+        </ul>
+        <h6>🌏 English</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO&si=8KeuWSlIT-BckixF">Teddy Smith</a>
+          </li>
+          <li>
+            <a href="https://youtube.com/playlist?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v&si=wWDTyIFrpEhZiIIT">kudvenkat</a>
+          </li>
+          <li>
+            <a href="https://youtu.be/hZ1DASYd9rk?si=8ND_UZK944B1gU93">DotNetMastery</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week26">
+      <td>Week 6</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>API</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh&si=kMALO_VXyPWocJ0h">Passionate Coders</a> [1:4]
+          </li>
+        </ul>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week27">
+      <td>Week 7</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>API</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh&si=kMALO_VXyPWocJ0h">Passionate Coders</a> [5:10]
+          </li>
+        </ul>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week28">
+      <td>Week 8</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>API</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh&si=kMALO_VXyPWocJ0h">Passionate Coders</a> [11:12]
+          </li>
+        </ul>  <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week29">
+      <td>Week 9</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>API</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh&si=kMALO_VXyPWocJ0h">Passionate Coders</a> [13:14]
+          </li>
+        </ul>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week210">
+      <td>Week 10</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>Repository Pattern</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://www.youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73">DevCreed</a> [1:11]
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week211">
+      <td>Week 11</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>Identity</li>
+          <li>Jwt Tokens</li>        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+           <li>
+          <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-BYuvJ9w4HPk6CCECX">ITI </a> Day 9 part 2 & 3
+        </li>
+          <li>
+            <a href="https://youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd&si=ayc9RZ5_odOifkF0">DevCreed</a> [1:11]
+          </li>
+        </ul>
+        <h6>🌏 English</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PL82C6-O4XrHcjpGzpxAVqumv2PaYGIJfz&si=NOOkAJkzjdKkuL56">Teddy Smith</a> 
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week212">
+      <td>Week 12</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>Jwt Refresh Tokens</li>
+                    <li>API Versioning and Documentation</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+            <a href="https://www.youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W">DevCreed</a> [1:12]
+          </li>
+        </ul>
+        <h6>🌏 English</h6>
+        <ul>
+              <li>
+            <a href="https://youtu.be/i6kkKBsHEJs?si=3gPprG2dpcd1hd9B">Code Maze</a>
+          </li>
+          <li>
+            <a href="https://youtu.be/lml_j5ujjeQ?si=eQ-0O1g4ppvT481c">Code Maze</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+<h1> Advanced Level </h1>
+
+<p>Objective:
+
+Dive into advanced  topics, backend optimizations, and advanced database techniques.</p>
+
+ <details>
+      <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
+      <div style="margin-left: 20px">
+        <ul>
+          <li><a href="#week31">Week 1</a></li>
+          <li><a href="#week32">Week 2</a></li>
+          <li><a href="#week33">Week 3</a></li>
+       </ul>
+      </div>
+    </details>
+
+
+<table style="  width: 100%; border-collapse: collapse;font-family: Arial, sans-serif; ">
+  <thead>
+    <tr style="background-color: #492d81; color: white">
+      <th style="padding: 10px; text-align: center">Week</th>
+      <th style="padding: 10px; text-align: center">Content</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr id="week31">
+      <td>Week 1</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+            <li>Background Jobs </li>
+            <li>Cancellation Token  </li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <h6>🌏 Arabic</h6>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PL62tSREI9C-ccQuNXXAty3Vfxi0QcqCJP&si=rCLiaiilbNv1QqdE">DevCreed</a> [ 1 : 4 ]
+          </li>
+            </ul>
+        <h6>🌏 English</h6>
+        <ul>
+             <li>
+            <a href="https://youtu.be/39gIPekzpjs?si=GJLv6WdSGj2Fm0UJ">Rahul Nath </a> [1]
+          </li>
+          <li>
+            <a href="https://youtu.be/ip3Z4ZcAgA8?si=MWh2rh3cgvsBgrBe">
+IAmTimCorey</a> [1]
+          </li>
+             </ul>
+      </td>
+    </tr>
+    <tr id="week32">
+      <td>Week 2</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>In-Memory Caching</li>
+          <li>SignalR</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <ul>
+          <li>
+            <a href="https://youtu.be/MSUTojuUEX4?si=bKLlz2WpIK0KpH1o">tutorialsEU</a>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a href="https://youtu.be/zDDnt1Ez2hc?si=-Cuku4w9P2lDxsvK">ITI</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr id="week33">
+      <td>Week 3</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li>Advanced Entity Framework Core</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLLGdqRi7N09Yv1kSFXi40dnEAJriaE8nJ&si=XhH9HKuAyUpeFO9w">Code It Up  AMBITIONED</a>
+          </li>
+        </ul>
+        <ul>
+        </ul>
+      </td>
+  </tbody>
+</tab
