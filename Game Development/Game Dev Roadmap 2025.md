@@ -10,7 +10,7 @@
 - [C# Basics Playlist](https://youtu.be/pSiIHe2uZ2w?si=U52PBzzwdkdZIKd1)
 
 ### Task
-- **[Task description here]**
+- [C# Problems](https://drive.google.com/file/d/1vq_-dLM8OHch2ze-ALMiYHCZ7tdqICHc/view?usp=sharing)
 
 ---
 
@@ -21,7 +21,7 @@
 - [OOP Playlist](https://youtube.com/playlist?list=PLnzqK5HvcpwQfXeFaGHRYQfyQrJjOy43u&si=QaFo5RSJhuSVctnY)
 
 ### Task
-- **[Task description here]**
+- [OOP System](https://drive.google.com/file/d/1oJ-Ya5HF26yYf1ktg_2a3HrzZa-X1GO6/view?usp=sharing)
 
 ---
 # Game Design
@@ -102,7 +102,7 @@
   - **Die**
 
 ---
-
+# Advance Game Design
 ## Week 8: 
 
 ### Resources
