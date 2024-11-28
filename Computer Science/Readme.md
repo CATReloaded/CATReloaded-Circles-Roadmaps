@@ -1,170 +1,405 @@
-# CS Roadmap
+# CS Roadmap: A Beginner’s Guide
 
-|Content|
-| :------------:|
-|[Introduction](#introduction)|
-|[Missions](#missions)
-|[Main Topics](#main-topics)|
-|[Core Level](#core-level)|
-|[Intermidiate Level](#intermidiate-level)|
-|[Advanced Level](#advanced-level)|
-|[General Knowledge](#general-knowledge)|
-|[Preparing for Software Engineering Interviews](#preparing-for-software-engineering-interviews)|
-|[Contact Us](#contact-us)|
+## **Table of Contents**
 
-## Introduction
-The Roadmap has been designed to cover the fundamental topics in Computer Science. It contains different levels and targets all CS students. Now detect your current level and let's start ..
+1. [Introduction](#introduction)
+2. [A Glimpse into Computer Science: Let's Explore!](#a-glimpse-into-computer-science-lets-explore)
+3. [Core Computer Science Fundamentals](#core-computer-science-fundamentals)
+   - [Programming Fundamentals](#programming-fundamentals)
+   - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
+   - [Data Structures and Algorithms](#data-structures-and-algorithms)
+   - [Databases](#databases)
+   - [Operating Systems](#operating-systems)
+   - [Networking](#networking)
+   - [System Analysis and Design](#system-analysis-and-design)
+   - [Software Engineering](#software-engineering)
 
-## Missions
+---
 
-1- Studying and Mastering CS Basic Knowledge such as Programming, Efficiency and Systems
+## **Introduction**
 
-2- First Step to your Tech Field by understanding the foundation of Software Systems
+Welcome to the **Computer Science Basics Roadmap**! Whether you're a student just starting your journey in computer science or someone looking to solidify your foundational knowledge, this roadmap is designed to guide you through the essential topics that form the backbone of the field.
 
-3- Preparing for Software Engineering Interviews by Practicing Problem Solving and System Design
+Understanding the basics is crucial, as they provide the framework for tackling more advanced concepts and real-world challenges. From programming fundamentals to core theoretical subjects & everything you need to build a strong foundation in computer science.
 
- ## Main Topics
+Think of this as your go-to guide for mastering the essentials with practical application to help you apply what you learn. Let's embark on this exciting journey together!
 
-  - [Core Level](#core-level)
-    - [Programming Language](#programming-language)
-    - [Object Oriented Design](#object-oriented-design)
-    - [Problem Solving (with Data Structures And Algorithms)](#problem-solving-with-data-structures-and-algorithms)
-   
-  - [Intermidiate Level](#intermidiate-level)
-    - [Databases](#databases)
-    - [Operating Systems](#operating-systems)
-    
-  - [Advanced Level](#advanced-level)
-    - [Networks](#networks)
-    - [Design Patterns](#design-patterns)
+---
 
- 
- ## Core Level
- 
- ### **Programming Language**
- 
-> اي لغة برمجة ممكن تتعلمها، ممكن تختار في البداية C++ لأنها أشهر اللغات في الـ Problem Solving وهتلاقي فيها كومينتي كبير يساعدك،
-> المهم لما تتختار لغة تتعلمها كويس وتفهم اللغات الأساسية فيها
-> ممكن لو مش حابب تاخد C++ تاخد اللغة الي هتاخدها ف التراك الي ناوي تذاكره وتطبق بها نفس المسائل الي في الكورس بتاعنا بس ممكن تعاني من نقص عدد الناس الي بتساعدك 
-                                                                                                                                                                                                       
-You can learn python, c#, c++, Java .. anything! but choose **one language only**
+## **A Glimpse into Computer Science: Let's Explore!**
 
-### **C++**
-Emglish Content (Main Resource for practice)
-- [Mastering 4 critical SKILLS using C++ 17](https://www.udemy.com/share/103Gal3@CakGEqnmMphLgBFbTzyXzrZJqaAJxHIZ2ggZc_6jEx5Y05LMaT9Mm_MUTUKMrZE-/)
-  
-Arabic Content (helpful resources for explanation)
-- [C++ 4kids & beginners Mostafa Saad Ibrahim](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
-- [El-Zero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
-- [Adel Naseem](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3)
-- [El-Desoqy](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
+Dr. Mostafa Saad Ibrahim ❤️, a PhD graduate in Computer Vision from Simon Fraser University and Senior Applied Scientist at Nvidia, is an expert in AI and competitive programming. With experience at top companies like Google and Microsoft, he founded the "Arabic Competitive Programming" YouTube channel to teach problem-solving to Arabic speakers and has inspired countless students .. We will hear from him about the importance of the basics!
 
-Functions & Recursion
-- [Function](https://www.youtube.com/watch?v=6m-RTOsvp7E&list=PLBkwGJXcrCATmqJ-xKYBtZIoMTVpHz6p7&pp=iAQB)
-- [Recursion](https://www.youtube.com/watch?v=t0cHKEof1S8&list=PLBkwGJXcrCATvPBkCUoJzURlO3MIeHZji&pp=iAQB)
-- [Bactracking "for advanced"](https://www.youtube.com/watch?v=lmhlsBwRKGo&list=PLBkwGJXcrCAS-s51m2n1ed_xbyqI_cEio&pp=iAQB)
+1. [سلسلة حاسبات لإرشاد الطلبة](https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB)  
+   _The most important Guide a student needs during his university studies._
 
-STL 
-- [Mohammed Mogdi](https://www.youtube.com/playlist?list=PLw2JSXGww1OS2iElMxLGO2TiG88Ggy1rv)
-- [Adel Nassim](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp)
- ### **Object Oriented Design**
-> هنا احنا عاوزين نفهم الأول الـ concepts الأساسية  
-فتمام اختار الفيديوز المناسبة بالنسبة لك في الشرح 
-1. [Object Oriented Programming](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v) 
-2. [UML](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
-   
->  المهم إنك تكون عارف تنفذ الـ 3 مشاريع دول في الحقيقة أنا أفضل يوصلوا 6 مشاريع لكن ع الأقل 3 مشاريع
-1. [Mini-Project - Hospital](https://youtu.be/Lu3z4rfU-2s)
-2. [Mini-Project - library](https://youtu.be/zzuhhAuW5FY)
-3. [AskMe](https://youtu.be/xNu6L_pidUo)
-4. [EducationalManagementSystem](https://youtu.be/hsEGVVu7_lE?si=utxjbP1oieQLYMcV)
-5. [OnlineBookReader](https://youtu.be/Rk8vrmSpFII?si=hlSwtzXZu9r0OdlZ)
- 
- Recommended(next step): [Head First Object Oriented Analysis and Design Book](https://www.oreilly.com/library/view/head-first-object-oriented/0596008678/)
+2. [Online Talks](https://www.youtube.com/playlist?list=PLPt2dINI2MIaEnp3dSwZEGL7_o03Js9oG)  
+   _Online Talks with students in different topics in CS field & here doctor listens and answers the questions of students of different ages.._
 
- 
-### **Problem Solving (with Data Structures and Algorithms)**
-1. [Mastering 4 critical Skills in Data Structure](https://www.udemy.com/share/104xGm3@7_JmGD8P04YlFpR2V70MjjAb8cFJWiM9MMPWUWc_PlUg_Fn6UdqKJUlOYZ48VlDT/)
-2. [Mastering critical SKILLS in Algorithms using C++: Part 1](https://www.udemy.com/share/105tHC3@0ZUvAjO1tPcpyB6xiQBVqmq7V408AJltpLq1JGG90ySb-h9ZKYglh89uZe14vWnp/)
-3. [Mastering critical SKILLS in Algorithms using C++: Part 2](https://www.udemy.com/share/106jYM3@o4I15Z7615XQgjRlzfmH4K0_wb9zoQJ6g3Ttxz-JN3GGkUJSHDncKsWGt-rgs2pi/)
+Engineer Mohamed Moshrif, with over 20 years of experience in top companies like **Google, Microsoft, Amazon**, and **Booking**, is a software engineering expert. He shares valuable insights through YouTube, offering free courses on **dream jobs** and **distributed systems**, making him a trusted resource for anyone in the tech field, **Please do not listen to his disagreements with others and take knowledge and only what is beneficial from him**.
 
-#### **Data Structure** (helpful resources)
-1. [Mega Code "for linear data structures"](https://www.youtube.com/watch?v=SbDUW7_G3Xc&list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
-2. Big (O)
-   - [Soucre 1](https://www.youtube.com/watch?v=WRhEwrDoLSc&t=575s)
-   - [Source 2](https://www.youtube.com/watch?v=wEbdQeVwLlo&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=1&pp=iAQB)
-   - [Source 3](https://www.youtube.com/watch?v=o5zf5oVHtn0&list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk&index=2&pp=iAQB)
-   - [Source 4](https://youtu.be/sOYBdcsMePE?si=S3caxiuWGWUM5BvB)
-4. Pointers
-   - [Source 1](https://www.youtube.com/watch?v=uplty7GJ9qg&pp=ygUUMiBwb2ludGVycyB0ZWNobmlxdWU%3D)
-5. 
- ## Intermidiate Level
-### **Databases**
-1- [Database Lessons (first 5 videos)](https://www.youtube.com/playlist?list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
+3. [Mohamed Moshrif Tech Videos](https://www.youtube.com/playlist?list=PL_559gpeEG3N_Omp88v0g2V-dfLqDPWZA)  
+   _Videos selected by [Mohamed Nabil](https://github.com/mnbil0680)._
 
-2- [CC471 - Database Systems](https://www.youtube.com/playlist?list=PLiRL7CfiWlYG7rPyYpynLWU_0qcAqOPJS)  
-Recommended (next step): [Fundamentals of Database "Ramez El-Masry"](https://www.auhd.edu.ye/upfiles/elibrary/Azal2020-01-22-12-28-11-76901.pdf)
+---
 
-### **Operating Systems** 
-1- [Operating System Concepts](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)<br>
-2- [Memory Management 1](https://www.youtube.com/watch?v=cjZqwsxLVtQ&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=5)<br>
-3- [Memory Management 2](https://www.youtube.com/watch?v=EWof2WGvFCw&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=6)<br>
-4- [Virtual Memory](https://www.youtube.com/watch?v=1p1XXdLt_9g&list=PLkpYqKNqc_CvCqERss2WBKWE3fb1jEmKE&index=7)
+## **Core Computer Science Fundamentals**
 
-OR 
-- [CC373 - Operating Systems](PLiRL7CfiWlYG0YdUPcaY7R6CjCGrNIZB0) 
+## **Programming Fundamentals**
 
-if you prefer books
-1. [OPERATING SYSTEMS THREE EASY PIECES Entry](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+#### **Topics Covered:**
 
-## Advanced Level
- ### **Networks** 
-  1. Network basics & HTTP
-        - [How does the INTERNET work?](https://youtu.be/x3c1ih2NJEg)
-        - [How The Web Works - The Big Picture](https://youtu.be/hJHvdBlSxug)
-        - [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
-        - [HTTP Crash Course & Exploration from Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
-   
-  2. More deep content 
-        - [Computer Netwroks](https://youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp&si=wOKLI53FibBY0AKe)
-     
-### **Design Patterns**
- 
-1- [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
- 
- Recommended : [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
+- _Fundamentals: Data Types, Variables, Loops, Control Flow, Functions, Recursive Functions, Arrays, Related stuff_
 
-## General Knowledge 
+- _Advanced Topics: Pointers, STL, Bugs, Headers, and Includes, Files, Streams, Exception Handling, Compilation Process, Debugging_
 
-- [Linux Command Line](https://www.youtube.com/playlist?list=PL8pYI62gCNsWTppELEUCpforC4avEiLox)<br>
-- [Git and GitHub](https://youtu.be/Q6G-J54vgKc?si=Ybxu8hq2V33G8tFZ)<br>
-- [APIs](https://www.youtube.com/watch?v=GZvSYJDk-us)<br>
-- [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)<br>
+---
 
-## Preparing for Software Engineering Interviews
-**SWE Interviews Guide**
+- _Data Types, Variables, Control Flow._
 
-[Tech Interviews Handbook](https://www.techinterviewhandbook.org/)
+  - [C++ 4kids & beginners Mostafa Saad Ibrahim (First 10 Vedios](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
 
-**Coding Interviews** : For all Positions (Intern, Fresh Graduate, Junior, Senior)
- 
- - [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)
- 
- - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
- 
-**System Design Interviews** : For Seniors
+- _Loops, Array, Strings._
 
-- [System Design Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
+  - [Training SVU for Newcomers](https://www.youtube.com/playlist?list=PLj1uh4JbO1ozayg013jEqqLovM7dfuF0y)
 
-- [System Design Interview - An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+- _Functions._
 
-**Behavioral Interview**
+  - [C++ Functions - Lectures by Hedaya](https://www.youtube.com/playlist?list=PLBkwGJXcrCATmqJ-xKYBtZIoMTVpHz6p7)
 
-- [Common Behavioral Interview Questions For Software Engineers](https://medium.com/the-crazy-coder/common-behavioral-interview-questions-for-software-engineers-cdfaf99d07e8)
+- _Recusion._
 
+  - [C++ Recursion (Detailed) by Hedaya](https://www.youtube.com/playlist?list=PLBkwGJXcrCATvPBkCUoJzURlO3MIeHZji)
 
-## Contact us
-Feel free to contact us
-- [Shahd Faris El-Badrawy (CAT Reloaded CS Head 24)](https://www.linkedin.com/in/shahd-faris-35896121a/)
-- [Ahmed El-Khoriby (contributer with many resources and ideas)]()
-- [Mohammed Yasser (CAT Reloaded CS vice 24)](https://www.linkedin.com/in/mohamad-yasser-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- _Time Complixty._
+
+  - [Competitive Programming - AAST (First 2 Vedios)](https://youtube.com/playlist?list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk)
+
+- _Related stuff: Sorting, built in Functions, STL, Frequency Arrays, Cumulative Sum, Coordinate Compression, Maximum Sub-Array Sum, and Scheduling._
+
+  - [Competitive Programming - AAST by Muhammad Magdi (From 3 -> 10)](https://youtube.com/playlist?list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk)
+
+- _More Practical On STL._
+
+  - [Standard Template Library (STL) Full Tutorial Using C++ In Arabic](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
+
+- _Pointers, intro to classes._
+  - [دورة الداتا والالجورزمس: محاضرة مجانية 2 - مراجعة كلاسيز وبوينترز](https://www.youtube.com/watch?v=zaGyD_BY8XQ&list=PLPt2dINI2MIaEnp3dSwZEGL7_o03Js9oG&index=13&t=9140s)
+- _Exception Handling._
+
+  - [C++ - Exception Handling In C++](https://www.youtube.com/playlist?list=PLPt2dINI2MIZPFq6HyUB1Uhxdh1UDnZMS)
+
+- _Bugs, Headers, and Includes, Files, Streams, Compilation Process, Debugging._
+  - [C++ (Intensive) - برمجة الحاسوب](https://www.youtube.com/playlist?list=PLPt2dINI2MIZPFq6HyUB1Uhxdh1UDnZMS)
+    - _Vedios: 26, 27, 30 -> 37_
+
+---
+
+## **Object-Oriented Programming (OOP)**
+
+#### **Topics Covered:**
+
+_Introduction to OOP, Classes and Objects, Encapsulation, Abstraction, Inheritance, Polymorphism, Multiple Inheritance, Interface, Abstract Classes vs Interfaces, Composition vs Inheritance_
+
+> - You can't study OOP with C++ alone because some important concepts, like **interfaces**, aren't fully covered. You need to either learn another language that includes these concepts or study C++ alongside a language that covers them. Other OOP topics not fully represented in C++ include **abstract classes**, **polymorphism (in a more advanced way)**, and **multiple inheritance**.
+> - To cover all OOP concepts, I recommend learning **Java** or **C#**, as both languages provide full support for **interfaces**, **abstract classes**, **polymorphism**, and **multiple inheritance** (in C#). **Python** is also a good option.
+
+- _JAVA_
+
+  - [OOP - بالعربي by Omar Ahmed](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v)
+  - [Programming 2 - Object Oriented Programming with JAVA](https://www.youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk) _More theoretical_
+  - [Object-Oriented Programming JAVA in Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) _More practical_
+
+- _Python_
+
+  - [Object Oriented Programming - شرح البرمجة كائنية التوجه](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1)
+
+- _C# Recommended_
+
+  - [Mastering C#.NET (Only OOP Vedios)](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+
+- _C++_
+  - First: [Programming 2 - Object Oriented Programming with C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
+  - Second: [C++ Object-Oriented _Design_ and Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) _Recommended_
+
+### **Excellent Articles**
+
+- Take a look & read OOP Articles! [مدونة الطبراني](https://tabarani.tk/articles)
+
+## Projects
+
+> At least 3 Projects!
+
+- [Mini-Project - Hospital](https://youtu.be/Lu3z4rfU-2s)
+- [Mini-Project - library](https://youtu.be/zzuhhAuW5FY)
+- [AskMe](https://youtu.be/xNu6L_pidUo)
+- [EducationalManagementSystem](https://youtu.be/hsEGVVu7_lE?si=utxjbP1oieQLYMcV)
+- [OnlineBookReader](https://youtu.be/Rk8vrmSpFII?si=hlSwtzXZu9r0OdlZ)
+
+## **Books** if prefered
+
+- 1- OO Thought Process
+- 2- Head First OO Analysis & Design
+
+## Next Step:
+
+- Delve into OO analysis and design - Solid Principles - Design Patterns and Apply them in your track projects.
+
+---
+
+## **Data Structures and Algorithms**
+
+#### **Topics Covered:**
+
+_Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Queue, Binary Tree, Binary Search Tree, Binary Heap, AVL Tree, Letter Tree (Trie), Hash Table_
+
+- _Prerequisites._
+
+  - [دورة الداتا والالجورزمس: محاضرة مجانية 2 - مراجعة كلاسيز وبوينترز](https://youtu.be/zaGyD_BY8XQ?si=k3Migkpr3ezAwYwL)
+
+- _Static & Dynamic memory Allocation._
+
+  - [C++ Data Structures - تراكيب البيانات (First 3 Vedios)](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt)
+
+- _Linear Data Structures Visually:._
+
+  - [Mega Code](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
+
+- _STL._
+
+  > It Is A MUST To Know It Before Non Linear Data Structures
+
+  - First: [Competitive Programming - AAST by Muhammad Magdi (From 5 -> 8)](https://youtube.com/playlist?list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk)
+  - Second: [Standard Template Library (STL) Full Tutorial Using C++ In Arabic](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
+
+- _Vector._
+
+  - [محاضرة مجانية - دورة الداتا والالجورزمس - فيكتور 1](https://www.youtube.com/watch?v=hKzd0NqiKRw)
+  - [محاضرة مجانية - دورة الداتا والالجورزمس - فيكتور 2](https://www.youtube.com/watch?v=_95k4JDn2J4)
+
+- _Asymptotic Complexity._
+  - _Theoretical_
+    - [Algorithms - Spring 2021 by Ahmed Salah ELDin](https://www.youtube.com/playlist?list=PLpfYfulQlEPzTlSF6sdnMj3XdxgQdT06w)
+  - _Practical_
+    - [Asymptotic Complexity 1 (Arabic)](https://www.youtube.com/watch?v=SmxZQpW_zA4)
+    - [Asymptotic Complexity 1 (Arabic)](https://www.youtube.com/watch?v=krRT_US9Ll0)
+    - [Complexity Analysis (1 / 2) by Muhammad Magdi](https://www.youtube.com/watch?v=wEbdQeVwLlo)
+    - [Complexity Analysis (2 / 2) by Muhammad Magdi](https://www.youtube.com/watch?v=o5zf5oVHtn0)
+- _2 pointers technique & Sliding window._
+
+  - [Two Pointers Technique by Ahmed Gamal](https://www.youtube.com/watch?v=uplty7GJ9qg)
+  - [Two pointers technique (Arabic)](https://www.youtube.com/watch?v=n-Xwrr8RFQ0)
+
+- _Linked Lists (SLL & DLL)._
+
+  - _Mega Code_
+    - [linked list Mega Code](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
+  - _WilliamFiset_
+    - [Linked Lists Introduction](https://www.youtube.com/watch?v=-Yn5DU0_-lw)
+    - [Doubly Linked List Code](https://www.youtube.com/watch?v=m-8ZBO2ywaU)
+  - for Technical Interviews
+    - [Linked Lists for Technical Interviews - Full Course](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
+
+- _Stack & Queue._
+
+  - _Mega Code_
+    - [linked list Mega Code](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
+  - _WilliamFiset_
+    - [Stack](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsC0FVi9Rshi-5fFU1QwcFQ1)
+    - [Queue](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAWrxWRTHJrsgBrbwqGzt-z)
+
+- _Binary Tree._
+
+  - []()
+
+---
+
+## **Databases**
+
+#### **_A Comprehensive Roadmap for MASTERING Databases_**
+
+> - **Note:** The two sources complement each other, and it's essential to go through both before starting.
+> - **Tip:** Before diving into your track, make sure you’ve covered at least the first two phases of the learning path.
+
+- ### Learning Path by [Sayed Alesawy](https://www.linkedin.com/in/sayed-alesawy/) (Lead Software Engineer at Instabug)
+
+  - [Learning Path](https://x.com/sayed_alesawy/status/1795550660999442580)
+
+- ### Recources by [Ahmed Ayman](https://www.linkedin.com/in/ahmedaymanbfcai/) (~3 years of experience in the software field)
+
+  - [Recources](https://x.com/AHMED_BFCAI_20/status/1767298354051158324)
+
+---
+
+## **Operating Systems**
+
+### **Overview**
+
+> - **Note:** This is a very comprehensive course designed for >undergraduates, offered by Ain Shams University and created by >**Dr. Ahmed Salah**.
+> - The course integrates resources from top international >universities such as **Berkeley**, **UMass**, **Stanford**, and **MIT**, ensuring a rich learning experience.
+>
+> #### **Tips for Success:**
+>
+> - Take your time studying this course thoroughly; it’s designed >to build a strong foundation. **Avoid rushing** through the >material.
+> - Before starting your track, ensure you’ve:
+> - Completed at least the lecture content.
+> - Gained a solid understanding of the basics.
+
+---
+
+### **What the Course Includes**
+
+1. **Lectures:**
+
+   - Comprehensive explanations of core topics, laying the groundwork for understanding Operating Systems.
+
+2. **Sections:**
+
+   - Hands-on, interactive problem-solving sessions designed to reinforce concepts learned in lectures.
+
+3. **Assignments (Sheets):**
+
+   - Practice problems to help solidify your knowledge and prepare for exams.
+
+4. **Project:**
+   - A major project where you’ll:
+     - Build an **Operating System** using **C**.
+     - Solve challenging problems related to OS concepts.
+     - Apply theoretical knowledge to practical scenarios, integrating what you’ve learned throughout the course.
+     - Include this project in your CV to showcase your skills for internship or job opportunities!
+
+---
+
+### **Resources**
+
+- **Video Playlists**:
+
+  - [Operating Systems | Lectures | Fall 2024](https://www.youtube.com/playlist?list=PLpfYfulQlEPyavmKP24AhTtdzD2OZ-qgk)
+  - [Operating Systems | Sections](https://www.youtube.com/playlist?list=PLmEgjtU1dGftDXEVVoSlasGzfeWOsHobS)
+  - [Operating Systems | Problem Sessions](https://www.youtube.com/playlist?list=PLpfYfulQlEPyqVD4VVw3HtdLb8DGBqIKb)
+  - [Operating Systems | FALL 2024 | PROJECT](https://www.youtube.com/playlist?list=PLpfYfulQlEPxcG4On42egRf8k-0IZEdqQ)
+  - [Operating Systems - Revision](https://www.youtube.com/playlist?list=PLpfYfulQlEPzG9UYlnYITAOpW1ZEH2NUi)
+
+- **Supplementary Material**:
+  - [Google Drive for Materials (including text book)](https://drive.google.com/drive/folders/1ExkmYfMLUcBO6_cWhPPPZ-9H597VmbHb)
+
+---
+
+#### **Additional Notes**
+
+- This course is perfect for students aiming to deepen their understanding of **Operating Systems** concepts.
+- Dedicate enough time for the **project**; it’s a critical component that ties all theoretical knowledge together with practical application.
+- If you're short on time, you can alternatively take this course:
+  - [Operating Systems - by Dr. Ahmed Hagag](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
+
+---
+
+## **Networking**
+
+### **Overview**
+
+> - **Note:** This is a comprehensive course , offered by Ain Shams University and created by **Prof. Ayman M. Bahaa-Eldin** a professor at the Computer and Systems Engineering Department.
+> - The course is based on the renowned textbook _Computer Networking: A Top Down Approach_ (8th Edition, Pearson) by Kurose & Ross.
+> - #### _Some missing slides and Chapter 6 are thoroughly explained by Droos Tech Online, which will help clarify those concepts further_.
+>
+> #### **Tips for Success:**
+>
+> - Take your time to study each module carefully; this course is designed to build a solid foundation in networking.
+> - Before starting your track, ensure you’ve:
+>   - Completed at least 5 chapters.
+>   - Gained a good grasp of basic networking concepts.
+
+---
+
+### **What the Course Includes ?**
+
+This course on computer networking is built around a top-down approach, focusing on the Internet’s architecture and protocols, starting from the application layer down to the physical layer. It covers essential networking principles, including reliable communication, path determination, and security fundamentals like cryptography.
+
+---
+
+### **Resources**
+
+- **Video Playlists:**
+
+  - [Computer Networking | Lectures](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp)
+  - [Computer Networking by Droos Tech Online](https://www.youtube.com/playlist?list=PLYljoJMAPFLHrCVfzuMLkJOZHhCgfSXG-)
+
+- **Supplementary Material:**
+  - [Powerpoint Slides](https://gaia.cs.umass.edu/kurose_ross/ppt.php) _(Recommended)_
+  - [Dr Ayman's Slydes](https://drive.google.com/drive/folders/1jYleCLMeSqTCS2VbGxwfGXA5CqFFaP92)
+
+---
+
+### **Textbook:**
+
+This course is based on _Computer Networking: A Top Down Approach (8th Edition)_ by J.F. Kurose and K.W. Ross, a widely adopted textbook used in universities around the world for introductory networking courses.
+
+- [Find more information about the textbook](https://gaia.cs.umass.edu/kurose_ross/index.php)
+
+---
+
+## **System Analysis and Design**
+
+### **Overview**
+
+> **Note:** It’s recommended to study **SAAD (Systems Analysis and Design)** before **SWE (Software Engineering)** because SAAD provides essential foundational concepts like system modeling, requirements gathering, and process design, which are crucial for understanding and developing software systems effectively before diving into the engineering and implementation-focused aspects of SWE.
+
+---
+
+### **What the Course Includes ?**
+
+This course focuses on understanding user requirements, analyzing system needs, and designing solutions. Key topics include project management, use case analysis, process modeling, system design, and information system implementation, with hands-on experience in developing user-centered systems.
+
+---
+
+### **Resources**
+
+- **Video Playlists:**
+
+  - [Systems Analysis & Design by Dr. Alshaimaa A. Tantawy](https://www.youtube.com/playlist?list=PLMzaNeHCFdm-0QIV9CuFZpIi_4-nKH4Xi)
+  - there is no slides .. check the textbook or take notes/screenshots with the vedios !
+
+---
+
+### **Textbook:**
+
+The course uses _Systems Analysis and Design_ by Wixom & Roth (5th Edition, 2012), which covers the entire systems development life cycle, including methods for analyzing, designing, and building information systems. Topics include requirements gathering, use case analysis, process modeling, and system implementation.
+
+- [textbook](https://www.nguyenthihoi.com/TAI%20LIEU%20CHO%20SINH%20VIEN/Systems_Analysis_Design_UML_5th%20ed.pdf)
+
+---
+
+## **Software Engineering**
+
+> _Notes_:
+>
+> 1. You only need to focus on the first 8 chapters of the Software Engineering book for now. These chapters will cover the foundational concepts you'll need before diving deeper into your track. The remaining chapters can be explored later when you're ready for more advanced topics.
+> 2. The primary & only study material is the slides provided in the resources (first 8 Chapters). Your focus should be on understanding these slides thoroughly. If needed, refer to additional sources for clarification, but make sure to grasp the key concepts from the slides first.
+> 3. There's no single source that covers all the content you'll need for the course. You'll have to refer to various resources until you've reviewed everything that's required. This approach will help you gain a deeper understanding of the material and fill in any gaps.
+
+### **What the Course Includes ?**
+
+Software Engineering focuses on the systematic design, development, testing, and maintenance of software systems to ensure they meet user requirements and are reliable, scalable, and maintainable. It teaches principles like modular design, agile methodologies, and quality assurance, essential for building robust systems. Studying SWE is crucial for learning how to manage complex projects, work effectively in teams, and deliver high-quality software solutions. in development, it provides the foundation for creating scalable architectures, writing efficient code, and collaborating with other stakeholders, making it integral to succeeding in the tech industry.
+
+---
+
+### **Resources**
+
+- **Video Playlists:**
+
+  - [Software Engineering by HTI CS](https://www.youtube.com/playlist?list=PLCXxeGQt1gBy4KBPhXgf-JWMZrv6aHXB1)
+  - [CS251 Software Engineering by Amr S. Ghoneim](https://www.youtube.com/playlist?list=PLsnvpvHuTUbC-yJkvcf-Stp_kLwfesnn-)
+  - You’ll need to search for additional content and explanations, as there are no clear Arabic resources available for this textbook. Be sure to explore multiple sources to ensure comprehensive understanding or read directly from the textbook.
+
+- **Supplementary Material:**
+  - [Powerpoint Slides](https://software-engineering-book.com/slides/)
+
+---
+
+### **Textbook:**
+
+The **Software Engineering, Tenth Edition** textbook, provides an in-depth exploration of software engineering methods, tools, and techniques. It includes new chapters on systems engineering, resilience engineering, and systems of systems, broadening its scope. The book is designed for both introductory (our focus) and advanced courses, offering a comprehensive resource for students and professionals looking to understand and apply software development principles.
+
+- [Find more information about the textbook](https://software-engineering-book.com/)
+
+---
