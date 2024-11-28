@@ -429,6 +429,7 @@ It includes the following topics:
                     <h3>🚀 Base resources</h3>
                     <li><a href="https://app.datacamp.com/learn/skill-tracks/sql-fundamentals">SQL Fundamentals</a>: 26-hours DataCamp skill track (requires subscription).</li>
                     <h3> 💡 Alternative resources</h3>
+                    <li><a href="https://cs50.harvard.edu/sql/2024/">CS50 | Introduction to Databases with SQL</a>: 10-hours comperhensive course (Free).</li>
                     <li><a href="https://www.udacity.com/course/sql-for-data-analysis--ud198">Udacity | SQL For Data Analysis</a>: Udacity course (Free).</li>
                     <li><a href="https://www.youtube.com/watch?v=kb-_GbpH3sQ">Big Data | SQL For Data Analysis Arabic</a>: 10-hours YouTube video (Free).</li>
                 </ul>
