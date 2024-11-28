@@ -479,7 +479,7 @@ It includes the following topics:
                     <h3> 💡 Alternative resources</h3>
                     <li><a href="https://www.3blue1brown.com/topics/linear-algebra">3Blue1Brown | Essence of Linear Algebra</a>:  Free course (recommended).</li>
                     <li><a href="https://www.khanacademy.org/math/linear-algebra">Khan Academy | Linear Algebra</a>: Free course.</li>
-                    <li><a href="https://youtube.com/playlist?list=PL49CF3715CB9EF31D&si=TRVsXm-kF8ijaB24">MIT OpenCourseWare | Linear Algebra</a>: You can watch this along the way while you learning ML because it's a massive playlist full of ideas.</li>
+                    <li><a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/">MIT OpenCourseWare | Linear Algebra</a>: You can watch this along the way while you learning ML because it's a massive playlist full of ideas (recommened but intensive).</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ">Linear Algebra Arabic course</a>: YouTube playlist (Free).</li>
                 </ul>
             </td>
