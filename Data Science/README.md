@@ -673,7 +673,6 @@ In this stage, you will enter the Deep Learning and NLP World. It's divided into
                     <h3>🚀 Resources</h3>
                     <li><a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning">Andrew Ng | Neural Networks and Deep Learning</a>: 20-hours Coursera course (you can apply for a financial aid).</li>
                     <li><a href="https://youtu.be/VMj-3S1tku0?si=xN0gneCmzYAOewI9">Andrej Karpathy | Neural Network from scratch</a>: You will do the practical work by building a small framework that builds neural networks from scratch.</li>
-                    <li><a href="https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras">Introduction to Deep Learning with Keras</a>: 4-hours DataCamp course (requires subscription).</li>
                     <h3> 💡 Alternative resources</h3>
                     <li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">3Blue1Brown | Neural Networks</a>: YouTube playlist (recommended).</li>
                     <li><a href="https://www.youtube.com/playlist?list=PL6-3IRz2XF5X-lzMZdmkvGAx1a3kIm7_I">Hesham Asem | Deep Learning Arabic course</a>: YouTube playlist (Free).</li>
