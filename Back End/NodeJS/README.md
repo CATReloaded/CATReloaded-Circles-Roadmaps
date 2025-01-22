@@ -9,7 +9,7 @@ Topics are ordered and organized according to the vision of the planner, this or
 
 ## Content
 
-### Level 0
+# Beginner
 
 #### Objectives
 _By the end of this level, the learner should know_
@@ -17,10 +17,12 @@ _By the end of this level, the learner should know_
 * How frontend code works
 * Version Control Systems
 * What are relational and non-relational databases
-* Basic Data Structures and Algorithms
-* Basic Knowledge with Operating Systems
+* **JavaScript**: Syntax, Features, OOP, Asynchronous Programming
+* **NodeJS**: Development, Packages, Modules, Processes, `http` module
+* **Express**: Basics, Middlewares
+* **MongoDB**: CRUD Operations, Integration with `express`
 
-#### Plan
+### Plan
 <table>
     <thead>
         <tr>
@@ -75,6 +77,10 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=_Q07-8e3UbI">Giraffe Academy (What is a database?)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=ZS_kXvOeQ5Y">Academind (SQL vs NoSQL Databases)</a></li>
                 </ul>
+                <h6>📃 Article</h6>
+                <ul>
+                <li><a href="https://medium.com/opensight-ch/git-semantic-versioning-and-conventional-commits-564aece418a0">git -Semantic versioning and conventional commits</a></li>
+                </ul>
                 <h5>📃 Task</h5>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSckNevVyZjGskPr5SM5otcZrEgdHdWsCBfvJV1ka7lt4uhuOA/viewform">Level 0: Week 2 Quiz</a>
             </td>
@@ -101,30 +107,8 @@ _By the end of this level, the learner should know_
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLScB8MEoJEWOpbGW9VVFquEbY0E7aFZtHSEuE7w4NGCoG9dZcg/viewform">Level 0: Week 3 Quiz</a>
             </td>
         </tr>
-    </tbody>
-</table>
-
-
-### Level 1
-
-#### Objectives
-_By the end of this level, the learner should learn_
-* **JavaScript**: Syntax, Features, OOP, Asynchronous Programming
-* **NodeJS**: Development, Packages, Modules, Processes, `http` module
-* **Express**: Basics, Middlewares
-* **MongoDB**: CRUD Operations, Integration with `express`
-
-#### Plan
-<table>
-    <thead>
         <tr>
-            <th>Phase</th>
-            <th>Content</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <th>Week 1</th>
+            <th>Week 4</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -146,7 +130,7 @@ _By the end of this level, the learner should learn_
             </td>
         </tr>
         <tr>
-            <th>Week 2</th>
+            <th>Week 5</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -169,7 +153,7 @@ _By the end of this level, the learner should learn_
             </td>
         </tr>
         <tr>
-            <th>Week 3</th>
+            <th>Week 6</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -195,7 +179,7 @@ _By the end of this level, the learner should learn_
             </td>
         </tr>
         <tr>
-            <th>Week 4</th>
+            <th>Week 7</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -227,7 +211,7 @@ _By the end of this level, the learner should learn_
             </td>
         </tr>
         <tr>
-            <th>Week 5</th>
+            <th>Week 8</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -254,7 +238,7 @@ _By the end of this level, the learner should learn_
             </td>
         </tr>
         <tr>
-            <th>Week 6</th>
+            <th>Week 9</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -286,7 +270,7 @@ _By the end of this level, the learner should learn_
             </td>
         </tr>
         <tr>
-            <th>Week 7</th>
+            <th>Week 10</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -306,12 +290,17 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR">Academind</a> [1:6]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw">Dave Gray</a> [1:5]</li>
                 </ul>
+                <h6>THE GOOD STUFF </h6>
+                <ul><li><a href = "https://medium.com/@ibrahimlanre1890/node-js-architecture-understanding-node-js-architecture-5fb32879b994">Node.js Architecture: Understanding Node.js Architecture</li>
+                <li><a href="https://www.youtube.com/watch?v=YSyFSnisip0">How nodeJS works</a></li>
+                <li><a href="https://medium.com/@vats24dev/understanding-the-difference-between-npm-and-npx-848d335e031b">Difference between npm & npx </a></li>
+                </ul>
                 <h5>📃 Task</h5>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZEB1nt4JeGP5RkW8Q78aN8MhmhNyX4O13PO9wRteNagfSlA/viewform">Level 1: Week 7 Quiz</a>
             </td>
         </tr>
         <tr>
-            <th>Week 8</th>
+            <th>Week 11</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -335,32 +324,20 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw">Dave Gray (Express.js)</a> [6:9]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw">Dave Gray (MongoDB & Mongoose)</a> [13:15]</li>
                 </ul>
+                <h6>📃 docs</h6>
+                <ul><li><a href="https://mongoosejs.com/docs/index.html">Mongoose documentation</a></li></ul>
                 <h5>📃 Task</h5>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkxmlid4Y34YoaN9SPeBfYw4xasi-PtY7sY1gxFc3IgnQBtQ/viewform">Level 1: Week 8 Quiz</a>
             </td>
         </tr>
         <tr>
             <th>Final Project</th>
-            <td>
-                <h5>🎯 Required</h5>
-                Implement a <strong>URL Shortener</strong> web application using what you have learnt in Express and MongoDB.
-                <br>
-                The way a URL shortener works is that the user enters a long URL through some form and submits, then the web application generates a short URL which redirects them into the desired URL.
-                <h5>🫵 Criteria</h5>
-                <ul>
-                    <li>The application runs locally without any crashes</li>
-                    <li>The user is able to enter a long URL and get a short one which auto-redirects to the target website</li>
-                    <li>Previously shortened URLs are listed in the homepage as a reference for user</li>
-                    <li>No need for authentication or routes protection in this project</li>
-                </ul>
-                <h5>📃 Task</h5>
-                <a href="https://github.com/cat-backend-nodejs/url-shortener">Starter Code & Description</a>
-            </td>
+            <td></td>
         </tr>
     </tbody>
 </table>
 
-### Level 2
+# Intermediate
 
 #### Objectives
 _By the end of this level, the learner should learn_
@@ -370,7 +347,7 @@ _By the end of this level, the learner should learn_
 * **API Documentation**: Rules, using Swagger & Postman
 * **Unit Testing**: Test-Driven Development, Using tools like `jest` and `supertest`
 
-#### Plan
+### Plan
 <table>
     <thead>
         <tr>
@@ -397,9 +374,14 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/watch?v=30LWjhZzg50">freeCodeCamp (TypeScript)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=Be7X6QJusJA">Express JS with TypeScript</li>
+                    or
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI">The Net Ninja (TypeScript Syntax & Compiling)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=qy8PxD3alWw">Colt Steele (How to use TypeScript with Express App)</a></li>
                 </ul>
+                <h6>📃 Documentation</h6>
+                <ul><li><a href="https://www.typescriptlang.org/docs/handbook/intro.html">TypeScript documentation</a></li></ul>
                 <h5>📃 Task</h5>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYHFMMbVj5a_FZfIQ8JTeCBOIWdyex2TlEdYMcRne3DPL9OA/viewform">Level 2: Week 1 Quiz</a>
             </td>
@@ -647,6 +629,8 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=YYe0FdfdgDU">freeCodeCamp (API Security)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=VZZLiVccwKk">Raddy (Rate Limiting)</a></li>
                 </ul>
+                <h6>📃 docs</h6>
+                <ul><li><a href="https://www.passportjs.org/packages/">Passport Strategies</a></li></ul>
                 <h5>📃 Task</h5>
                 <p>Implement OAuth2.0 Authentication with Passport.js using two third-party providers</p>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-K-FvNw70nHSq6BGWGPir8lbvrloSEfIaC0eNX9S3FyNlfg/viewform">Level 2: Week 9 Quiz</a>
@@ -672,6 +656,9 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=PJo5yOtu7o8">PowerCert Animated Videos (SMTP)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=nF9g1825mwk">Traversy Media (Sending Emails)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=vs4in-UFdX0">AyyazTech (Sending SMS)</a></li>
+                </ul>
+                <h6>📃 docs</h6><ul><li><a href="https://www.nodemailer.com/about/">nodemailer documentation</a></li>
+                <li><a href="https://www.twilio.com/docs/messaging">twilio SMS documentation</a></li>
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Implement simple user registration system with Email Confirmation</p>
@@ -714,26 +701,12 @@ _By the end of this level, the learner should learn_
         <tr>
             <th>Final Project</th>
             <td>
-                <h5>🎯 Required</h5>
-                Dr. Hossam teaches programming, but he is tired of manually collecting tasks from students and grading them one by one. He asks you if you can make an application for him where students make an account and upload their tasks. Only Dr. Hossam can add new tasks and give them grades. Can you make a <strong>Task Grading Hub</strong> for him?
-                <h5>🫵 Criteria</h5>
-                <ul>
-                    <li>The application runs locally without any crashes.</li>
-                    <li>The application is built on REST API, and uses JWTs for Authentication.</li>
-                    <li>Admin Routes are protected, and users can't submit tasks without being logged in.</li>
-                    <li>The users upload the task in a form of PDF file.</li>
-                    <li>Server-Side Validation is provided to user input.</li>
-                    <li>API is well documented using Swagger, Postman or any other tool.</li>
-                    <li>Unit tests are implemented, inclusive and work fine.</li>
-                </ul>
-                <h5>📃 Task</h5>
-                <a href="https://github.com/cat-backend-nodejs/task-grading-hub">Project Description</a>
             </td>
         </tr>
     </tbody>
 </table>
 
-### Level 3
+# Advanced
 
 #### Objectives
 _By the end of this level, the learner should learn_
@@ -744,7 +717,7 @@ _By the end of this level, the learner should learn_
 * **Task Scheduling**: `node-schedule`
 * **Browser Automation**: E2E Testing and Web Scraping using `puppeteer`
 
-#### Plan
+### Plan
 <table>
     <thead>
         <tr>
@@ -863,14 +836,19 @@ _By the end of this level, the learner should learn_
                         <li><a href="https://www.youtube.com/playlist?list=PLOLrQ9Pn6caxigVJw2jHwIpH7gdb1zrmu">Very Academy (Database Design)</a></li>
                         <li><a href="https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_">Database Star (Database Design)</a></li>
                         <li><a href="https://www.youtube.com/watch?v=_n-Ai30C1qs">Kindson The Tech Pro (PostgreSQL inside Node.js)</a></li>
-                        <li><a href="https://node-postgres.com/">Official Documentations (PostgreSQL inside Node.js)</a></li>
                         <li><a href="https://www.youtube.com/watch?v=9JrnEO3W2Ys">Jesse Pinkman (SQL Server inside Node.js)</a></li>
-                        <li><a href="https://www.npmjs.com/package/mssql">NPM Documentations (SQL Server inside Node.js)</a></li>
                         <li><a href="https://www.youtube.com/watch?v=ZRYn6tgnEgM">Coding With Mike (SQLite inside Node.js)</a></li>
-                        <li><a href="https://www.npmjs.com/package/sqlite3">NPM Documentations (SQLite inside Node.js)</a></li>
                         <li><a href="https://www.youtube.com/watch?v=EN6Dx22cPRI">Traversy Media (MySQL inside Node.js)</a></li>
-                        <li><a href="https://www.npmjs.com/package/mysql">NPM Documentations (MySQL inside Node.js)</a></li>
                     </ul>
+                </p>
+                <h6>📃 docs</h6>
+                <p>
+                <ul>
+                <li><a href="https://node-postgres.com/">Official Documentations (PostgreSQL inside Node.js)</a></li>
+                <li><a href="https://www.npmjs.com/package/mssql">NPM Documentations (SQL Server inside Node.js)</a></li>
+                 <li><a href="https://www.npmjs.com/package/sqlite3">NPM Documentations (SQLite inside Node.js)</a></li>
+                 <li><a href="https://www.npmjs.com/package/mysql">NPM Documentations (MySQL inside Node.js)</a></li>
+                </ul>
                 </p>
                 <h5>📃 Task</h5>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLScr65VkChXh3OyNcwSk7IGV-m7rQQc4jWJJwDla6CKHO-jpPw/viewform">Level 3: Week 2 Quiz</a>
@@ -1085,38 +1063,68 @@ _By the end of this level, the learner should learn_
         <tr>
             <th>Final Project</th>
             <td>
-                <h5>🎯 Required</h5>
-                <p>Mr. Samer is a seasoned entrepreneur who is looking to build an online marketplace platform. He wants to create a platform where users can buy and sell various products, while also providing real-time communication between buyers and sellers. Can you help Mr. Samer build this <strong>Online Marketplace</strong> with GraphQL, Socket.IO, and PayPal Integration?</p>
-                <h5>🫵 Criteria</h5>
-                <ul>
-                    <li>The application runs locally without any crashes.</li>
-                    <li>The application is built on a GraphQL API, utilizing the Apollo Server library.</li>
-                    <li>Real-time communication between buyers and sellers is implemented using Socket.IO.</li>
-                    <li>PayPal Integration is implemented for secure and convenient payment processing.</li>
-                    <li>User authentication and authorization are implemented using JWTs.</li>
-                    <li>Server-side validation is provided for user input and uploaded product data.</li>
-                    <li>API is well-documented using Swagger, Postman, or any other tool.</li>
-                    <li>Unit tests are implemented to ensure functionality and reliability.</li>
-                </ul>
-                <h5>📃 Project: Online Marketplace</h5>
             </td>
         </tr>
     </tbody>
 </table>
 
+# General advanced
 
-### Level 4
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Resource</th>
+  </tr>
+  <tr>
+    <td><strong>More About Database Systems</strong></td>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g">Intro To Database Systems - CMU</a> <br>
+       <a href="https://www.youtube.com/watch?v=NLycrsJ1jI8&list=PLSE8ODhjZXjYa_zX-KeMJui7pcN1rIaIJ&pp=iAQB">Advanced Database Systems - CMU</a> <br>
+      <a href="https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf">Designing Data-Intensive Applications book</a> <br>
+       <a href="https://www.youtube.com/watch?v=Ipj7H_vCi6Q&list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ&pp=iAQB">Designing Data Intensive Applications Arabic</a> <br>
+       <a href="https://www.oreilly.com/library/view/high-performance-mysql/9781492080503/">High Performance MySQL book</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Design Patterns & SOLID Principle</strong></td>
+    <td>
+       <a href="https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing">Head First Design Pattern 2nd Edition</a> <br>
+       <a href="https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL">SOLID Principle in Arabic</a> <br>
+       <a href="https://www.youtube.com/watch?v=-UQND--CVew&list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj&ab_channel=DevGeeksAcademy">Design Patterns in Arabic</a> <br>
+       <a href="https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc">Design Pattern in English</a> <br>
+       <a href="https://refactoring.guru/design-patterns">Refactoring GURU website</a> 
+    </td>
+  </tr>
+  <tr>
+    <td><strong>System  Design</strong></td>
+    <td>
+       <a href="https://www.youtube.com/watch?v=v0XVtHy86lM&list=PLTRDUPO2OmIkAcnzgg0hi7SpiKVwGro-y">System design(Ahmed Elemam) in Arabic</a> <br>
+       <a href="https://manara.tech/">Manara system design content</a> <br>
+       <a href="https://youtu.be/hmkF77F9TLw?si=UIsx6gsuUdA8sl1X">Microservice Architecture and System Design with Python & Kubernetes in  Arabic</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Distributed Systems</strong></td>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB">Distributed Systems University of Cambridge - Martin Kleppmann</a> <br>
+      <a href="https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf">Lecture Notes</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CI/CD</strong></td>
+    <td> <a href="https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn">Continuous Integration And Continuous Delivery</a></td>
+  </tr>
+  <tr>
+    <td><strong>Containers</strong></td>
+    <td>
+       <a href="https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org">Docker in English (freeCodeCamp)</a> <br>
+       <a href="https://www.youtube.com/watch?v=PrusdhS2lmo&t=3014s">Docker and intro to Kubernetes in Arabic (Big Data)</a> <br>
+       <a href="https://www.youtube.com/watch?v=tHP5IWfqPKk&list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR">Docker Practical Course - Arabic</a>
+    </td>
+  </tr>
+   <tr>
+    <td><strong>Web Application Security</strong></td>
+    <td> <a href="https://www.oreilly.com/library/view/web-application-security/9781492053101/">Web Application Security Book</a></td>
+  </tr>
+</table>
 
-#### Objectives
-_By the end of this level, the learner should learn_
-* **Hosting**: Linux operating system, SSH protocol, VPS hosting
-* **Web Security**: Avoiding Attacks and designing security layers
-* **Architecture**: Microservices, Nodejs Design Patterns
-* **Automation**: Tasks and pipelines
-* **System Design**: Fundamentals of designing complex software
-* **Software Engineering**: SDLC, Agile Workflow, DevOps Workflow
-* **Containers**: Concept, Intro to Kubernetes
-
-#### Plan
-
-TO BE DETERMINED
