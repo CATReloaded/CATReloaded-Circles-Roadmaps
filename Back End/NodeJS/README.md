@@ -756,7 +756,7 @@ _By the end of this level, the learner should learn_
                             SQL Server
                             <ul>
                                 <li><a href="https://www.youtube.com/watch?v=N-WPYk417yE">Korsat X Parmaga (Crash Course)</a></li>
-                                <li><a href="https://www.youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA">ITI (Full Course)</a></li>
+                                <li><a href="https://www.youtube.com/watch?v=nUiuyejbemc&list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_">ITI (Full Course)</a></li>
                                 <li><a href="https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj">Metigator (Full Course)</a></li>
                             </ul>
                         </li>
