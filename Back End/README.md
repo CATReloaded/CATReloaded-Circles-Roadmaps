@@ -9,6 +9,7 @@ Hey folks, we've got four roadmaps for four cool sub-circles (Programming Langua
 - [NodeJS](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps-2024/tree/main/Back%20End/NodeJS)
 - [DotNet](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps-2024/tree/main/Back%20End/DotNet)
 - [Python **NEW**](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps/tree/2025/Back%20End/Django)
+- [Java **NEW**](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps/tree/main/Back%20End/Java)
 
  ---
  #### ✨ Special thanks to
