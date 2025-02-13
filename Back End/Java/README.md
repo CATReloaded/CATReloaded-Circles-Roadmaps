@@ -735,7 +735,7 @@ Topics:
 
 Resources:
 
-- [Introduction to Raw Socket Programming and Implementing the Simplest Chat Service (Zkrallah)](https://medium.com/@muhammad.heshamyt/introduction-to-raw-socket-programming-and-implementing-the-simplest-chat-service-java-17a014703f5fv)
+- [Raw Socket Programming Simplest Chat Service (Zkrallah)](https://medium.com/@muhammad.heshamyt/introduction-to-raw-socket-programming-and-implementing-the-simplest-chat-service-java-17a014703f5f)
 - [Socket.io Documentation](https://socket.io/docs/v4/)
 - [Socket.io Wiki Documentation](https://github.com/mrniko/netty-socketio/wiki)
 - [Using WebSocket to Build an Interactive Web Application Documentation](https://spring.io/guides/gs/messaging-stomp-websocket)
