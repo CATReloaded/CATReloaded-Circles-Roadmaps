@@ -51,7 +51,6 @@ Resources:
 
 Task: Set up a GitHub repository and upload the student management system.
 
-Bonus: Learn about Date Formatting.
 
 ## Week 2: Basic HTML, CSS, and JS for the Front-end
 
@@ -68,10 +67,12 @@ Resources:
 - [JavaScipt Basics (Mosh)](https://youtu.be/W6NZfCO5SIk?si=B2J2hKqugXf_sTS1)
 - [Build a Simple Portfolio Front-end (WEB CIFAR)](https://youtu.be/ZFQkb26UD1Y?si=UR4FNhijugBQzV_u)
 - [Build a Simple To-Do List Front-end (Web Dev Simplified)](https://youtu.be/W7FaYfuwu70?si=PJpssoprYNyUQp69)
+- [HTML (W3Schools)](https://www.w3schools.com/html/)
+- [HTML (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS (W3Schools)](https://www.w3schools.com/css/)
+- [CSS (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 Task: Build a simple front-end for a website of your choice (portfolio, to-do list app, blog, etc).
-
-Bonus: Learn about Regex (Regular Expressions).
 
 
 ## Week 3: Basics of Web Development
@@ -89,13 +90,12 @@ Resources:
 - [OSI Layers (Metwally Labs)](https://youtu.be/A31bxOyj5mk?si=BbKU-ebPy2sD7LqB)
 - [What is a REST API?](https://www.youtube.com/watch?v=-mN3VyJuCjM)
 - [HTTP Internals (Zkrallah)](https://medium.com/@muhammad.heshamyt/http-internals-and-building-your-own-http-client-from-scratch-part-i-d62b1028408d)
+- [HTTP (W3Schools)](https://www.w3schools.com/whatis/whatis_http.asp)
 - [HTTP Messages (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
 
 Task: <br>
 1- Write a document explaining how a REST API works and how clients and servers communicate through HTTP. <br>
 2- Build a simple HTTP client program that performs GET, POST requests to some online fake API. <br>
-
-Bonus: Learn about Postman API.
 
 Note: Do not stop learning computer networking after this week. Computer networking is from the fundamentals of computer science, specially in backend.
 
@@ -113,13 +113,22 @@ Resources:
 
 - [Java Basics Crash Course (FreeCodeCamp.org)](https://www.youtube.com/watch?v=GdzRzWymT4c&t=25s)
 - [Java Beginners (Playlist by Bro Code)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc)
+- [Java Full Course (Bro Code)](https://youtu.be/xTtL8E4LzTQ?si=f5XUrAWFc48pBtWZ)
+- [Java Full Course for Beginners (Mosh)](https://youtu.be/eIrMbAQSU34?si=yEjqspQ1uJD70-ZN)
+- [Learn Java Programming From Scratch in Arabic (Adel Nasim)](https://youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN&si=Hw90CDyq2B46rg6d)
+- [Java Tutorial for Beginners (Telusko)](https://youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5&si=9k93Zqoex6Ph0ED3)
 - [Java Basics (GeeksForGeeks)](https://www.geeksforgeeks.org/java/)
+- [Java (W3Schools)](https://www.w3schools.com/java/)
 
 
 Task: <br>
 1- Write simple programs like calculating the sum of numbers or finding the largest number in an array. <br>
 2- Implement basic binary search in Java. <br>
 3- Try to solve some Leetcode easy questions using Java. <br>
+
+Bonus: Learn about Date Formatting.
+
+Note: You should not know everything about Java for now, meaning that you don't have to watch those very long playlist to the end. Just get comfortable with the Java programming language.
 
 
 ## Week 5: Object-Oriented Programming (OOP)
@@ -134,15 +143,19 @@ Topics:
 
 Resources:
 
-- [Java OOP Concepts (GeeksforGeeks)](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 - [Introduction to OOP (Mosh)](https://youtu.be/pTB0EiLXUC8?si=Cwy9pzQIeTAqdvuI)
 - [Introduction to OOP (FreeCodeCamp.org)](https://youtu.be/SiBw7os-_zI?si=odVcb7Cx78TxrR0X)
-- [OOP in Java (Adel Naseem)](https://youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv&si=okMB2Lf0kXE6I6No)
+- [Java OOP (Caleb Curry)](https://youtu.be/Af3s3KsxStY?si=jtlpGQglYU8lBIUh)
+- [OOP in Java (Telusko)](https://youtube.com/playlist?list=PLsyeobzWxl7oa1WO9n4cP3OY9nOtUcZIg&si=gtQYoSdGku9q2GBz)
+- [OOP in Java (Adel Nasim)](https://youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv&si=okMB2Lf0kXE6I6No)
+- [Java OOP Concepts (GeeksforGeeks)](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 
 
 Task: <br>
 1- Create a basic student management system with classes for Student and Course. <br>
 2- Shapes Task <br>
+
+Bonus: Learn about Regex (Regular Expressions).
 
 Note: Do not stop learning OOP after this week. OOP is from the fundamentals of computer science. You should be learning OOP all the time, specially in Java.
 
@@ -160,11 +173,14 @@ Resources:
 - [Maven in 10 minutes](https://www.youtube.com/watch?v=bBqxC43ASsM)
 - [Introduction to Maven](https://www.youtube.com/watch?v=bSaBmXFym30)
 - [Maven Tutorial (6:12~)](https://www.youtube.com/watch?v=Xatr8AZLOsE)
+- [Java Files (Coding With John)](https://www.youtube.com/watch?v=ScUJx4aWRi0)
+- [Java Collections](https://www.youtube.com/watch?v=viTHc_4XfCA)
+- [Java Collections (Jakob Jenkov)](https://youtube.com/playlist?list=PLL8woMHwr36HmQfxqqqxns5GexTNmxFqK&si=HlEog2YHkpN8wanx)
 - [Apache Maven Tutorial (Baeldung)](https://www.baeldung.com/maven#introduction-3)
 - [Maven (GeeksForGeeks)](https://www.geeksforgeeks.org/apache-maven/)
 - [Java Files (W3Schools)](https://www.w3schools.com/java/java_files.asp)
-- [Java Files (Coding With John)](https://www.youtube.com/watch?v=ScUJx4aWRi0)
-- [Java Collections](https://www.youtube.com/watch?v=viTHc_4XfCA)
+- [Java Collections (GeeksForGeeks)](https://www.geeksforgeeks.org/collections-in-java-2/)
+- [Java Collections Tutorial (GeeksForGeeks)](https://www.geeksforgeeks.org/java-collection-tutorial/)
 
 Task: Create a Java application to manage a library system using ArrayList.
 
@@ -187,6 +203,9 @@ Resources:
 - [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service)
 - [What is Spring Boot? (Telusko)](https://youtu.be/L0v_3MzC1io?si=-Zd_KV1llMlKtvm-)
 - [Spring Boot Tutorial (Amigoscode)](https://www.youtube.com/watch?v=9SGDpanrc8U)
+- [The Ultimate Guide to Spring Boot (Devtiro)](https://youtu.be/Nv2DERaMx-4?si=2Cz-Yj2_3hIwUrtx)
+- [Spring Boot Tutorial Crash Course (Marco Codes)](https://youtu.be/QuvS_VLbGko?si=tSfV_0Z77qhFGE0W)
+- [Spring Boot Tutorial (GeeksForGeeks)](https://www.geeksforgeeks.org/spring-boot/)
 
 Task: Create a simple REST API to manage books.
 
@@ -212,6 +231,7 @@ Resources:
 - [PostgreSQL Tutorial (FreeCodeCamp.org)](https://www.youtube.com/watch?v=SpfIwlAYaKk)
 - [SQLZoo Interactive Quizes](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [PostgreSQL Tutorials (Neon)](https://neon.tech/postgresql/tutorial)
+- [Advanced SQL Tutorial (Mode Analytics)](https://mode.com/sql-tutorial)
 
 Task: <br>
 1- Create a database for the book management system. <br>
@@ -339,7 +359,8 @@ Bonus: Learn about CORS.
 Topics:
 * Unit testing with JUnit and Mockito
 * Integration testing with testcontainers
-* API Documentation
+* API documentation
+* Swagger and Postman API
 
 Resources:
 
@@ -348,10 +369,11 @@ Resources:
 - [Unit vs Int Testing Intro (Dan Vega)](https://youtu.be/pNiRNRgi5Ws?si=-SMzaUukHOHGe-97)
 - [Spring Boot Unit Testing (Teddy)](https://youtube.com/playlist?list=PL82C6-O4XrHcg8sNwpoDDhcxUCbFy855E&si=mGi5nqRWf7j4My9c)
 - [Spring Boot Testing (Amigoscode)](https://www.youtube.com/watch?v=Geq60OVyBPg)
+- [Setup Swagger 2 in Spring Boot (KB Tutorials)](https://youtu.be/WlCG1_H6_HQ?si=Syn0tB8GQlh7zQ1H)
 
 Task: Write unit tests for services and controllers, and integration tests for the database layer.
 
-Bonus: Learn about Swagger.
+Bonus: Learn about Postman API.
 
 
 ## Week 14: Filters & Interceptors, Lombok, Pagination & Filtering, File Uploads
