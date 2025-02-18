@@ -53,7 +53,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=fxplz32rgEQ">Koding 101 (Chrome Dev Tools)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSccZkQkxZGI7U0Ub3G4gkdeB1kQS543r0Ke8oc1GxQGPsUqaA/viewform">Level 0: Week 1 Quiz</a>
+                <a href="https://forms.gle/g1bgk6kduHUki6xv5">Week 1 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -82,7 +82,7 @@ _By the end of this level, the learner should know_
                 <li><a href="https://medium.com/opensight-ch/git-semantic-versioning-and-conventional-commits-564aece418a0">git -Semantic versioning and conventional commits</a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSckNevVyZjGskPr5SM5otcZrEgdHdWsCBfvJV1ka7lt4uhuOA/viewform">Level 0: Week 2 Quiz</a>
+                <a href="https://forms.gle/eEcJfwxYEZBfmW3H6">Week 2 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -104,7 +104,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=27r4Bzuj5NQ">ByteByteGo (DNS Server)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScB8MEoJEWOpbGW9VVFquEbY0E7aFZtHSEuE7w4NGCoG9dZcg/viewform">Level 0: Week 3 Quiz</a>
+                <a href="https://forms.gle/bYFyoUTTXbFYCNYS8">Week 3 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc">The Net Ninja</a> [1:2]</li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCDpqhlsepyeFsjBNd3BeZdB2ERplwpBZQBq74-uvDasfnSA/viewform">Level 1: Week 1 Quiz</a>
+                <a href="https://forms.gle/p2rowFehgxx76KDq9">Week 4 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -149,7 +149,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://youtu.be/JloLGV9DmtQ?feature=shared">The Net Ninja (Control Flow)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlj9g0KJvTnP7N6E0ypGrtDZIL-9gXeQMFXrh_iqBKU-Bb0g/viewform">Level 1: Week 2 Quiz</a>
+                <a href="https://forms.gle/wjaqqHgfNezf3TxE9">Week 5 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -175,7 +175,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=j-9_15QBW2s">Colt Steele (Hoisting)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeK8u8yH1-Uw_aSEsfZtnPqUznvEeQMgei5W27iJMAEGqo3dQ/viewform">Level 1: Week 3 Quiz</a>
+                <a href="https://forms.gle/ZNz4mtFdoa1Ap9BDA">Week 6 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -207,7 +207,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=vKJpN5FAeF4">Fireship (Closure)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScKZsGeKQBp2GHEBSXsVpH-Jkl-m6NaDk5Yah8opg8ZpTIklQ/viewform">Level 1: Week 4 Quiz</a>
+                <a href="https://forms.gle/9X1E8kXRj6avm7Dk9">Week 7 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -234,7 +234,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=KeBxopnhizw">freeCodeCamp (Modules)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2IiaD-oypcYGGMBujU2My9ghu7rS_xi1HWZIUv-esLryM8Q/viewform">Level 1: Week 5 Quiz</a>
+                <a href="https://forms.gle/scwzsdir3Nbjvd7P9">Week 8 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -266,7 +266,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=blBoIyNhGvY">Dave Gray (Error Handling)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSecUunHN2jEN-lxtrs0Aqg5TE-_8Xgd4WXcTl_VspY77__JaA/viewform">Level 1: Week 6 Quiz</a>
+                <a href="https://forms.gle/yoHneyVm76EhGHnX8">Week 9 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -296,7 +296,7 @@ _By the end of this level, the learner should know_
                 <li><a href="https://medium.com/@vats24dev/understanding-the-difference-between-npm-and-npx-848d335e031b">Difference between npm & npx </a></li>
                 </ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZEB1nt4JeGP5RkW8Q78aN8MhmhNyX4O13PO9wRteNagfSlA/viewform">Level 1: Week 7 Quiz</a>
+                <a href="https://forms.gle/jua1frYCWjPf5uvH9">Week 10 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -327,7 +327,7 @@ _By the end of this level, the learner should know_
                 <h6>📃 docs</h6>
                 <ul><li><a href="https://mongoosejs.com/docs/index.html">Mongoose documentation</a></li></ul>
                 <h5>📃 Task</h5>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkxmlid4Y34YoaN9SPeBfYw4xasi-PtY7sY1gxFc3IgnQBtQ/viewform">Level 1: Week 8 Quiz</a>
+                <a href="https://forms.gle/JNJdJ9Qp4DFdDnJk6">Week 11 Quiz</a>
             </td>
         </tr>
         <tr>
