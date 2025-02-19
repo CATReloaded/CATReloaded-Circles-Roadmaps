@@ -13,7 +13,7 @@ Created and Prepared By [Mohamed Zkrallah](https://github.com/muhammadzkralla).
 - AI-Assisted Learning: Feel free to use AI to explore topics further but avoid relying on it to complete tasks or write code for you.
 - Time Interval: Some topics can not be finished in just one week, try to learn as much as you can and get back later.
 - Self-Learning & Research: As you progress to the advanced level, expect to do more self-learning and independent research. Not everything will be spoon-fed with resources. Developing the ability to learn on your own, read documentation, and experiment with implementations is crucial.
-- Quick Tip: I beleive in learning by building. Build what you want to learn and learn from what you build. Do not just study theory, but implement what you have learned in a project or even a simple program.
+- Quick Tip: I believe in learning by building. Build what you want to learn and learn from what you build. Do not just study theory, but implement what you have learned in a project or even a simple program.
 
 
 ---
@@ -49,9 +49,8 @@ Resources:
 - [Git and Github (Big Data)](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 
 
-Task: Set up a GitHub repository and upload the student management system.
+Task: Setup your GitHub account and upload your first repository.
 
-Bonus: Learn about Date Formatting.
 
 ## Week 2: Basic HTML, CSS, and JS for the Front-end
 
@@ -68,10 +67,12 @@ Resources:
 - [JavaScipt Basics (Mosh)](https://youtu.be/W6NZfCO5SIk?si=B2J2hKqugXf_sTS1)
 - [Build a Simple Portfolio Front-end (WEB CIFAR)](https://youtu.be/ZFQkb26UD1Y?si=UR4FNhijugBQzV_u)
 - [Build a Simple To-Do List Front-end (Web Dev Simplified)](https://youtu.be/W7FaYfuwu70?si=PJpssoprYNyUQp69)
+- [HTML (W3Schools)](https://www.w3schools.com/html/)
+- [HTML (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS (W3Schools)](https://www.w3schools.com/css/)
+- [CSS (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 Task: Build a simple front-end for a website of your choice (portfolio, to-do list app, blog, etc).
-
-Bonus: Learn about Regex (Regular Expressions).
 
 
 ## Week 3: Basics of Web Development
@@ -89,13 +90,12 @@ Resources:
 - [OSI Layers (Metwally Labs)](https://youtu.be/A31bxOyj5mk?si=BbKU-ebPy2sD7LqB)
 - [What is a REST API?](https://www.youtube.com/watch?v=-mN3VyJuCjM)
 - [HTTP Internals (Zkrallah)](https://medium.com/@muhammad.heshamyt/http-internals-and-building-your-own-http-client-from-scratch-part-i-d62b1028408d)
+- [HTTP (W3Schools)](https://www.w3schools.com/whatis/whatis_http.asp)
 - [HTTP Messages (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
 
 Task: <br>
 1- Write a document explaining how a REST API works and how clients and servers communicate through HTTP. <br>
 2- Build a simple HTTP client program that performs GET, POST requests to some online fake API. <br>
-
-Bonus: Learn about Postman API.
 
 Note: Do not stop learning computer networking after this week. Computer networking is from the fundamentals of computer science, specially in backend.
 
@@ -113,13 +113,22 @@ Resources:
 
 - [Java Basics Crash Course (FreeCodeCamp.org)](https://www.youtube.com/watch?v=GdzRzWymT4c&t=25s)
 - [Java Beginners (Playlist by Bro Code)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc)
+- [Java Full Course (Bro Code)](https://youtu.be/xTtL8E4LzTQ?si=f5XUrAWFc48pBtWZ)
+- [Java Full Course for Beginners (Mosh)](https://youtu.be/eIrMbAQSU34?si=yEjqspQ1uJD70-ZN)
+- [Learn Java Programming From Scratch in Arabic (Adel Nasim)](https://youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN&si=Hw90CDyq2B46rg6d)
+- [Java Tutorial for Beginners (Telusko)](https://youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5&si=9k93Zqoex6Ph0ED3)
 - [Java Basics (GeeksForGeeks)](https://www.geeksforgeeks.org/java/)
+- [Java (W3Schools)](https://www.w3schools.com/java/)
 
 
 Task: <br>
 1- Write simple programs like calculating the sum of numbers or finding the largest number in an array. <br>
 2- Implement basic binary search in Java. <br>
 3- Try to solve some Leetcode easy questions using Java. <br>
+
+Bonus: Learn about Date Formatting.
+
+Note: You should not know everything about Java for now, meaning that you don't have to watch those very long playlist to the end. Just get comfortable with the Java programming language.
 
 
 ## Week 5: Object-Oriented Programming (OOP)
@@ -134,15 +143,19 @@ Topics:
 
 Resources:
 
-- [Java OOP Concepts (GeeksforGeeks)](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 - [Introduction to OOP (Mosh)](https://youtu.be/pTB0EiLXUC8?si=Cwy9pzQIeTAqdvuI)
 - [Introduction to OOP (FreeCodeCamp.org)](https://youtu.be/SiBw7os-_zI?si=odVcb7Cx78TxrR0X)
-- [OOP in Java (Adel Naseem)](https://youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv&si=okMB2Lf0kXE6I6No)
+- [Java OOP (Caleb Curry)](https://youtu.be/Af3s3KsxStY?si=jtlpGQglYU8lBIUh)
+- [OOP in Java (Telusko)](https://youtube.com/playlist?list=PLsyeobzWxl7oa1WO9n4cP3OY9nOtUcZIg&si=gtQYoSdGku9q2GBz)
+- [OOP in Java (Adel Nasim)](https://youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv&si=okMB2Lf0kXE6I6No)
+- [Java OOP Concepts (GeeksforGeeks)](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 
 
 Task: <br>
 1- Create a basic student management system with classes for Student and Course. <br>
 2- Shapes Task <br>
+
+Bonus: Learn about Regex (Regular Expressions).
 
 Note: Do not stop learning OOP after this week. OOP is from the fundamentals of computer science. You should be learning OOP all the time, specially in Java.
 
@@ -160,11 +173,14 @@ Resources:
 - [Maven in 10 minutes](https://www.youtube.com/watch?v=bBqxC43ASsM)
 - [Introduction to Maven](https://www.youtube.com/watch?v=bSaBmXFym30)
 - [Maven Tutorial (6:12~)](https://www.youtube.com/watch?v=Xatr8AZLOsE)
+- [Java Files (Coding With John)](https://www.youtube.com/watch?v=ScUJx4aWRi0)
+- [Java Collections](https://www.youtube.com/watch?v=viTHc_4XfCA)
+- [Java Collections (Jakob Jenkov)](https://youtube.com/playlist?list=PLL8woMHwr36HmQfxqqqxns5GexTNmxFqK&si=HlEog2YHkpN8wanx)
 - [Apache Maven Tutorial (Baeldung)](https://www.baeldung.com/maven#introduction-3)
 - [Maven (GeeksForGeeks)](https://www.geeksforgeeks.org/apache-maven/)
 - [Java Files (W3Schools)](https://www.w3schools.com/java/java_files.asp)
-- [Java Files (Coding With John)](https://www.youtube.com/watch?v=ScUJx4aWRi0)
-- [Java Collections](https://www.youtube.com/watch?v=viTHc_4XfCA)
+- [Java Collections (GeeksForGeeks)](https://www.geeksforgeeks.org/collections-in-java-2/)
+- [Java Collections Tutorial (GeeksForGeeks)](https://www.geeksforgeeks.org/java-collection-tutorial/)
 
 Task: Create a Java application to manage a library system using ArrayList.
 
@@ -187,6 +203,9 @@ Resources:
 - [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service)
 - [What is Spring Boot? (Telusko)](https://youtu.be/L0v_3MzC1io?si=-Zd_KV1llMlKtvm-)
 - [Spring Boot Tutorial (Amigoscode)](https://www.youtube.com/watch?v=9SGDpanrc8U)
+- [The Ultimate Guide to Spring Boot (Devtiro)](https://youtu.be/Nv2DERaMx-4?si=2Cz-Yj2_3hIwUrtx)
+- [Spring Boot Tutorial Crash Course (Marco Codes)](https://youtu.be/QuvS_VLbGko?si=tSfV_0Z77qhFGE0W)
+- [Spring Boot Tutorial (GeeksForGeeks)](https://www.geeksforgeeks.org/spring-boot/)
 
 Task: Create a simple REST API to manage books.
 
@@ -212,6 +231,7 @@ Resources:
 - [PostgreSQL Tutorial (FreeCodeCamp.org)](https://www.youtube.com/watch?v=SpfIwlAYaKk)
 - [SQLZoo Interactive Quizes](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [PostgreSQL Tutorials (Neon)](https://neon.tech/postgresql/tutorial)
+- [Advanced SQL Tutorial (Mode Analytics)](https://mode.com/sql-tutorial)
 
 Task: <br>
 1- Create a database for the book management system. <br>
@@ -299,6 +319,7 @@ Topics:
 
 Resources:
 
+- [Spring Core Documentation](https://docs.spring.io/spring-framework/reference/core.html)
 - [Spring IoC Documentation](https://docs.spring.io/spring-framework/reference/core/beans.html)
 - [Dependency Injection (Yehia Tech)](https://youtu.be/ttza41X-O6k?si=gC4w2oNyL-0HUNTf)
 - [Spring Beans and DI (Maaike)](https://www.youtube.com/watch?v=aS9SQITRocc)
@@ -306,6 +327,7 @@ Resources:
 - [Dependency Injection in Spring Boot (Telusko)](https://youtu.be/9EoAXpjnsxM?si=3nXAy7l-UgAuiosv)
 - [Autowire in Spring Boot (Telusko)](https://youtu.be/ET39IFffr24?si=HWPLKUybWdwse9jF)
 - [Spring Configuration (Code Java)](https://www.youtube.com/watch?v=xP04pANWBxE)
+- [Introduction to Spring Framework (GeeksforGeeks)](https://www.geeksforgeeks.org/introduction-to-spring-framework/)
 
 Task: Apply what you understood to the Student Management System or revisit what you already did for dependency injection.
 
@@ -324,10 +346,13 @@ Resources:
 - [Spring Exceptions Documentation](https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller/ann-exceptionhandler.html)
 - [Spring ControllerAdvice Documentation](https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller/ann-advice.html)
 - [Spring Validation Documentation](https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller/ann-validation.html)
+- [Spring Validation Form Input Documentation](https://spring.io/guides/gs/validating-form-input)
 - [Java Exceptions (Coding With John)](https://youtu.be/1XAfapkBQjk?si=C3_nKYdqbD0TmqNj)
 - [Validation in Spring Boot (Java Techie)](https://youtu.be/gPnd-hzM_6A?si=RA7QdMFwXyiPaWYd)
 - [Spring Exception Handling (CodeSnippet)](https://youtu.be/IdHHwZg3v58?si=twwo-oeASqVKvxmY)
 - [Spring Input Validation (Fast & Simple Dev)](https://youtu.be/LItERTUC9y4?si=89VXDylJC7LmtE-W)
+- [Spring Validation (Baeldung)](https://www.baeldung.com/spring-boot-bean-validation)
+- [Spring Validation (GeeksforGeeks)](https://www.geeksforgeeks.org/spring-mvc-handling-form-validation-with-spring-validator/)
 
 Task: Add validation to the Student Management System and create custom error messages for invalid inputs.
 
@@ -339,7 +364,8 @@ Bonus: Learn about CORS.
 Topics:
 * Unit testing with JUnit and Mockito
 * Integration testing with testcontainers
-* API Documentation
+* API documentation
+* Swagger and Postman API
 
 Resources:
 
@@ -348,10 +374,12 @@ Resources:
 - [Unit vs Int Testing Intro (Dan Vega)](https://youtu.be/pNiRNRgi5Ws?si=-SMzaUukHOHGe-97)
 - [Spring Boot Unit Testing (Teddy)](https://youtube.com/playlist?list=PL82C6-O4XrHcg8sNwpoDDhcxUCbFy855E&si=mGi5nqRWf7j4My9c)
 - [Spring Boot Testing (Amigoscode)](https://www.youtube.com/watch?v=Geq60OVyBPg)
+- [Setup Swagger 2 in Spring Boot (KB Tutorials)](https://youtu.be/WlCG1_H6_HQ?si=Syn0tB8GQlh7zQ1H)
+- [Testing in Spring Boot (Baeldung)](https://www.baeldung.com/spring-boot-testing)
 
 Task: Write unit tests for services and controllers, and integration tests for the database layer.
 
-Bonus: Learn about Swagger.
+Bonus: Learn about Postman API.
 
 
 ## Week 14: Filters & Interceptors, Lombok, Pagination & Filtering, File Uploads
@@ -376,7 +404,7 @@ Resources:
 - [Pagination in Spring Boot (Teddy)](https://youtu.be/HJw8p4SIJSs?si=XnPFyoRk56kAKTyP)
 - [Pagination and Sorting in Spring Boot (Java Techie)](https://youtu.be/Wa0GQwWwzJE?si=OaVGNiEQeosIwwnr)
 - [How to Define a Spring Boot Filter (GeeksforGeeks)](https://www.geeksforgeeks.org/how-to-define-a-spring-boot-filter/)
-- [How to Define a Spring Boot Interceptors (GeeksforGeeks)](https://www.geeksforgeeks.org/spring-boot-interceptor/)
+- [How to Define a Spring Boot Interceptor (GeeksforGeeks)](https://www.geeksforgeeks.org/spring-boot-interceptor/)
 - [Pagination and Sorting in Spring Data JPA (Baeldung)](https://www.baeldung.com/spring-data-jpa-pagination-sorting)
 - [Spring Boot File Upload & Download (GeeksforGeeks)](https://www.geeksforgeeks.org/spring-mvc-implementing-file-uploads-and-downloads/)
 
@@ -425,7 +453,7 @@ Task: <br>
 3- Configure role-based access control (e.g., allow only admins to delete resources). <br>
 4- Test the secured endpoints using Postman. <br>
 
-Bonus: Learn about Lombok.
+Bonus: Learn about REST Client in Spring Boot.
 
 Note: I recommend the first part of Lazy Programmer's playlist for this week.
 
@@ -439,6 +467,7 @@ Topics:
 
 Resources:
 - [Spring Security Documentation](https://docs.spring.io/spring-security/reference/index.html)
+- [Spring Security OAuth2 Documentation](https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html)
 - [Spring Boot Security Documentation](https://docs.spring.io/spring-boot/reference/web/spring-security.html#web.security)
 - [Spring Security (Lazy Programmer) (start from end to start)](https://youtube.com/playlist?list=PLOktGWstEblrgb_rNddv3HGaazetE3t1A&si=AjT0vZs2OOBOVoq1)
 - [Spring Security Basics (Java Brains)](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
@@ -468,10 +497,15 @@ Topics:
 
 Resources:
 
+- [Spring Email Documentation](https://docs.spring.io/spring-framework/reference/integration/email.html)
+- [Spring Boot Email Documentation](https://docs.spring.io/spring-boot/reference/io/email.html)
+- [Send SMS in Your Spring Boot App Documentation](https://www.twilio.com/en-us/blog/sms-spring-boot-app)
 - [Setup Gmail SMTP Server](https://youtu.be/kTcmbZqNiGw?si=rHu155NGP6VkaAZ9)
 - [Sending E-mails in Spring Boot](https://youtu.be/ugIUObNHZdo?si=V65zzbeGJxMLy7eP)
-- [Spring Email (Baeldung)](https://www.baeldung.com/spring-email)
 - [SMS via Twilio in Spring Boot (Amigoscode)](https://youtu.be/OuBttmaPlhM?si=ZzRaiO3Ufw-VvogN)
+- [Spring Email (Baeldung)](https://www.baeldung.com/spring-email)
+- [Spring Email (GeeksForGeeks)](https://www.geeksforgeeks.org/spring-boot-sending-email-via-smtp/)
+- [Spring SMS with Twilio (GeeksForGeeks)](https://www.geeksforgeeks.org/spring-boot-sending-sms-with-twilio/)
 
 Task: <br>
 1- Configure a Gmail SMTP and write the email sending service. <br>
@@ -487,6 +521,7 @@ Topics:
 * Hibernate ORM
 * Joins & relationships
 * Aggregate functions
+* Database Normalization
 
 Resources:
 
@@ -498,9 +533,16 @@ Resources:
 - [Aggregate Functions in SQL (Bro Code)](https://youtu.be/9HXJUGT-06w?si=rorP_uXiUKYTbPsG)
 - [Aggregate Functions in SQL (Becoming a Data Scientist)](https://youtu.be/jcoJuc5e3RE?si=G2_n7MxtfF8koxPX)
 - [Advanced Aggregate Functions in SQL (Becoming a Data Scientist)](https://youtu.be/nNrgRVIzeHg?si=Nav2epckJhLvgRYS)
+- [Database Normalization (Decomplexify)](https://www.youtube.com/watch?v=GFQaEYEc8_8&list=WL&index=2&t=1s)
 - [Advanced SQL Tutorial (Mode Analytics)](https://mode.com/sql-tutorial)
 - [SQL Aggregate Functions (W3Schools)](https://www.w3schools.com/sql/sql_count_avg_sum.asp)
 - [SQLZoo Interactive Quizes](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [SQL Joins (W3Schools)](https://www.w3schools.com/sql/sql_join.asp)
+- [SQL Joins (GeeksForGeeks)](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)
+- [Database Relationships (GeeksForGeeks)](https://www.geeksforgeeks.org/types-of-relationship-in-database/)
+- [Aggregate Functions (W3Schools)](https://www.w3schools.com/sql/sql_aggregate_functions.asp)
+- [Aggregate Functions (GeeksForGeeks)](https://www.geeksforgeeks.org/aggregate-functions-in-sql/)
+- [Database Normalization (GeeksForGeeks)](https://www.geeksforgeeks.org/introduction-of-database-normalization/)
 
 Task: Solve SQL problems on HackerRank or Leetcode.
 
@@ -511,53 +553,53 @@ Note: It's important to understand the difference between `JPA`, `Hibernate`, an
 
 ## Week 19: Building an E-Commerce Website Backend
 
-### **Project Overview**  
-In this project, you will build the backend of an **E-Commerce website** using **Spring Boot**. The backend should expose **REST APIs** for managing users, products, orders, and authentication. You will also implement **security features**, including **JWT authentication** and **email verification**, and enhance the system with pagination, filtration, file uploads, input validation, and exception handling.  
+### **Project Overview**
+In this project, you will build the backend of an **E-Commerce website** using **Spring Boot**. The backend should expose **REST APIs** for managing users, products, orders, and authentication. You will also implement **security features**, including **JWT authentication** and **email verification**, and enhance the system with pagination, filtration, file uploads, input validation, and exception handling.
 
-### **Objectives**  
-- Develop a **RESTful API** for an e-commerce platform.  
-- Implement **user authentication and authorization** using **Spring Security & JWT**.  
-- Implement **email verification** using **SMTP**.  
-- Support **product pagination and filtering**.  
-- Enable **file uploads** for product images.  
-- Implement **input validation and exception handling**.  
-- Write **unit tests** for key functionalities.  
-- Use **Spring Data JPA** with **PostgreSQL**.  
+### **Objectives**
+- Develop a **RESTful API** for an e-commerce platform.
+- Implement **user authentication and authorization** using **Spring Security & JWT**.
+- Implement **email verification** using **SMTP**.
+- Support **product pagination and filtering**.
+- Enable **file uploads** for product images.
+- Implement **input validation and exception handling**.
+- Write **unit tests** for key functionalities.
+- Use **Spring Data JPA** with **PostgreSQL**.
 
-### **Entities & Relationships**  
-- **User** (Can be a customer or admin)  
-- **Product** (Sold by the e-commerce platform)  
-- **Category** (Each product belongs to a category)  
-- **Order** (Contains multiple products)  
-- **OrderItem** (A product inside an order, with quantity and price)  
-- **Cart** (Each user has a shopping cart)  
+### **Entities & Relationships**
+- **User** (Can be a customer or admin)
+- **Product** (Sold by the e-commerce platform)
+- **Category** (Each product belongs to a category)
+- **Order** (Contains multiple products)
+- **OrderItem** (A product inside an order, with quantity and price)
+- **Cart** (Each user has a shopping cart)
 
-### **Endpoints**  
+### **Endpoints**
 
-#### **Authentication & User Management**  
-- Register a new user `POST /auth/register`  
-- Verify email `GET /auth/verify-email?token={token}`  
-- Log in `POST /auth/login`  
-- Refresh JWT token `POST /auth/refresh-token`  
-- Get the current user's profile `GET /users/me`  
-- Update user details `PUT /users/{userId}`  
+#### **Authentication & User Management**
+- Register a new user `POST /auth/register`
+- Verify email `GET /auth/verify-email?token={token}`
+- Log in `POST /auth/login`
+- Refresh JWT token `POST /auth/refresh-token`
+- Get the current user's profile `GET /users/me`
+- Update user details `PUT /users/{userId}`
 
-#### **Product & Category Management**  
-- Create a new product `POST /products`  
-- Retrieve all products with pagination & filtering `GET /products?page={page}&size={size}&category={category}`  
-- Retrieve a product by ID `GET /products/{productId}`  
-- Update a product `PUT /products/{productId}`  
-- Delete a product `DELETE /products/{productId}`  
-- Upload product images `POST /products/{productId}/upload-image`  
-- Create a new category `POST /categories`  
-- Retrieve all categories `GET /categories`  
+#### **Product & Category Management**
+- Create a new product `POST /products`
+- Retrieve all products with pagination & filtering `GET /products?page={page}&size={size}&category={category}`
+- Retrieve a product by ID `GET /products/{productId}`
+- Update a product `PUT /products/{productId}`
+- Delete a product `DELETE /products/{productId}`
+- Upload product images `POST /products/{productId}/upload-image`
+- Create a new category `POST /categories`
+- Retrieve all categories `GET /categories`
 
-#### **Shopping Cart & Order Management**  
-- Add a product to cart `POST /cart/{userId}/add/{productId}`  
-- View cart items `GET /cart/{userId}`  
-- Remove a product from cart `DELETE /cart/{userId}/remove/{productId}`  
-- Place an order `POST /orders/{userId}/checkout`  
-- Retrieve all orders of a user `GET /orders/{userId}`  
+#### **Shopping Cart & Order Management**
+- Add a product to cart `POST /cart/{userId}/add/{productId}`
+- View cart items `GET /cart/{userId}`
+- Remove a product from cart `DELETE /cart/{userId}/remove/{productId}`
+- Place an order `POST /orders/{userId}/checkout`
+- Retrieve all orders of a user `GET /orders/{userId}`
 - Retrieve order details `GET /orders/{orderId}`
 
 Bonus: Create a simple front-end that uses your API.
@@ -580,6 +622,7 @@ Resources:
 - [MongoDB in 30 Minutes (Web Deve Simplified)](https://youtu.be/ofme2o29ngU?si=WsX9BaUFTSDtssP0)
 - [Getting Started with Spring Data MongoDB Documentation](https://spring.io/guides/gs/accessing-data-mongodb)
 - [Getting started with MongoDB and Spring Boot Documentation](https://www.mongodb.com/en-us/resources/products/compatibilities/spring-boot)
+- [Spring Data JPA Documentation](https://docs.spring.io/spring-data/mongodb/reference/)
 - [MongoDB in Spring Boot Low-Level Tutorial (Telusko)](https://youtu.be/6QnY7Ri_ORw?si=nz5H9eT1YB97WyIC)
 - [MongoDB in Spring Boot Tutorial (Amigoscode) (26:23~)](https://youtu.be/ssj0CGxv60k?si=Oy2txu2KsYq9nYbY)
 - [MongoDB in Spring Boot Tutorial (Programming Techie) (~15:00)](https://youtu.be/GvPhube6Mls?si=Bc6yBEQ8fsZTo2RV)
@@ -617,6 +660,7 @@ Resources:
 - [CompletableFuture Guide (GeeksforGeeks)](https://www.geeksforgeeks.org/completablefuture-in-java/)
 - [Parallelism vs Concurrency (GeeksforGeeks)](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)
 - [CompletableFuture Guide (Baeldung)](https://www.baeldung.com/java-completablefuture)
+- [How To Do @Async in Spring (Baeldung)](https://www.baeldung.com/spring-async)
 
 Task: <br>
 1- Create a method that performs a long-running task asynchronously using CompletableFuture. <br>
@@ -735,7 +779,7 @@ Topics:
 
 Resources:
 
-- [Introduction to Raw Socket Programming and Implementing the Simplest Chat Service (Zkrallah)](https://medium.com/@muhammad.heshamyt/introduction-to-raw-socket-programming-and-implementing-the-simplest-chat-service-java-17a014703f5fv)
+- [Raw Socket Programming Simplest Chat Service (Zkrallah)](https://medium.com/@muhammad.heshamyt/introduction-to-raw-socket-programming-and-implementing-the-simplest-chat-service-java-17a014703f5f)
 - [Socket.io Documentation](https://socket.io/docs/v4/)
 - [Socket.io Wiki Documentation](https://github.com/mrniko/netty-socketio/wiki)
 - [Using WebSocket to Build an Interactive Web Application Documentation](https://spring.io/guides/gs/messaging-stomp-websocket)
