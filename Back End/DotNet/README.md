@@ -33,10 +33,7 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
           </li>
           <li>
             <a href="https://www.youtube.com/watch?v=_IKTGQosYMo">Elzero Web School (Chrome Dev Tools)</a>
-          </li>
-          <li>
-            <a href="https://www.youtube.com/watch?v=_IKTGQosYMo">Internet Basics</a>
-          </li>
+            </li>
         </ul>
         <h6>🌏 English</h6>
         <ul>
@@ -588,8 +585,8 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
-            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 1: Day 2]
+         <li>
+            <a href="https://www.youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP">Coding-Future</a> [1 : 20]
           </li>
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
@@ -619,9 +616,7 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
-            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 3: Day 4]
-          </li>
+         <a href="https://www.youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP">Coding-Future</a> [21 : 36]
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
           </li>
@@ -650,8 +645,8 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
-            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 5: Day 6]
+         <li>
+         <a href="https://www.youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP">Coding-Future</a> [39:43] & 50 & [53:56] , [60:68]
           </li>
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
@@ -674,15 +669,16 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
     <tr id="week25">
       <td>Week 5</td>
       <td>
-        <h5>📚 Topics</h5>
         <ul>
+        <h5>📚 Topics</h5>
           <li>MVC</li>
+          <li>Identity</li>
         </ul>
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
-            <a href="https://drive.google.com/drive/u/0/folders/1CazlYIq1Y36xHU-uvJ9w4HPk6CCECX">ITI</a> [Day 7]
+         <li>
+         <a href="https://www.youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP">Coding-Future</a>  [69 : 85]
           </li>
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
