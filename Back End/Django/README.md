@@ -22,31 +22,40 @@ The Roadmap has been designed to cover the fundamental and advanced topics in Ba
 
 ### Week 1: Python Fundamentals
 - **Topics**: Variables, data types, control flow, functions.
-- **Resources**:  
-  - [Python Basics - Codecademy](https://www.codecademy.com/learn/learn-python)
-  - [Control Flow - Real Python](https://realpython.com/python-conditional-statements/)
+- **Resources**:  Choose What you like:
+  - [Python Basics - Codecademy](https://www.codecademy.com/learn/learn-python) - [Control Flow - Real Python](https://realpython.com/python-conditional-statements/)
 
-   **or**
   - [python playlist - Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+  - [Python for Everybody (Lesson 1 to 7)](https://www.py4e.com/lessons)
+  - [Python playlist - Codezilla (from 1 to 12)](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
+  - [Python Course - Freecodecamp (first two hours)](https://www.youtube.com/watch?v=eWRfhZUzrAc)
 - **Task**: 
 
-### Week 2: HTML/CSS Basics
-- **Topics**: HTML structure, CSS styling, basic responsive design.
-- **Resources**:  
-  - [HTML & CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+### Week 2: Continuing Python Fundamentals
+- **Topics**: Files, Lists, Dictionaries, Tuples, and more.
+- **Resources**: Choose what you like:
+  - [Python for Everybody (Lesson 8 to 12)](https://www.py4e.com/lessons)
+  - [Python playlist - Codezilla (from 13 to 27)](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
+  - [Python Course - Freecodecamp (rest of the video)](https://www.youtube.com/watch?v=eWRfhZUzrAc)
 
-  **or**
 
-  - [HTML & CSS - SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&pp=ygURaHRtbCBjcmFzaCBjb3Vyc2U%3D)
+### Week 3: HTML/CSS and Git and GitHub basics
+- **Topics**: HTML structure, CSS styling, basic responsive design, version control, creating repositories, using GitHub for code collaboration.
+- **Resources**:  Choose What you like for each:
+  1. **HTML and CSS**:
+      - [HTML & CSS Crash Course - Codezilla](https://youtu.be/aHzw_8wWl48?si=p7FOMHU7fUhRqD22)
+      - [HTML & CSS - SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&pp=ygURaHRtbCBjcmFzaCBjb3Vyc2U%3D)
+      - [HTML & CSS Crash Course - Net Ninga](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+      - [HTML & CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+  
+  2. **Git and GitHub**:
+      - [Git & github- Big Data بالعربى](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUPYmlnIGRhdGEgZ2l0aHVi)
+      - [Git & GitHub  - JavaScript Mastery](https://www.youtube.com/watch?v=S7XpTAnSDL4&t=35s&pp=ygULZ2l0ICZnaXRodWI%3D)
+      - [GIT — Semantic versioning and conventional commits](https://medium.com/opensight-ch/git-semantic-versioning-and-conventional-commits-564aece418a0)
+      - [Git and GitHub course - Almadrasa](https://almdrasa.com/tracks/programming-foundations/courses/git-github/)
+      - [Git and GitHub course - Freecodecamp](https://youtu.be/RGOj5yH7evk?si=wX0iRRefBW1PgR5s)
+      - [Git and GitHub course - Ghareeb Elshaikh](https://youtu.be/fDkR0TDR9dI?si=HN-ElwkDqqRrVu5w)
 - **Task**: 
-
-### Week 3: Git and GitHub Basics
-- **Topics**: Version control, creating repositories, using GitHub for code collaboration.
-- **Resources**:  
-  - [Git & github- Big Data بالعربى](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUPYmlnIGRhdGEgZ2l0aHVi)
-  - [Git & GitHub  - JavaScript Mastery](https://www.youtube.com/watch?v=S7XpTAnSDL4&t=35s&pp=ygULZ2l0ICZnaXRodWI%3D)
-  - [GIT — Semantic versioning and conventional commits](https://medium.com/opensight-ch/git-semantic-versioning-and-conventional-commits-564aece418a0)
-- **Task**:
 
 ### Week 4: Algorithm Basics
 - **Topics**: Basic data structures and sorting algorithms.
