@@ -1,5 +1,7 @@
 # Media Roadmaps 🎨🎥📸📝🎬🎙️
 
+![Media Logo](./img/Media-01.png)
+
 **So, do you want to be legendary and creative?**
 
 If you’re looking to master media skills and stand out, this is your shortcut. No more random searches—just structured roadmaps, each dedicated to a specific field, guiding you from beginner to pro.
