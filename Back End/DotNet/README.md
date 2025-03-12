@@ -928,6 +928,25 @@ IAmTimCorey</a> [1]
         </ul>
         <ul>
         </ul>
+      </td> <tr id="week44">
+      <td>Week 4</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li> Configuration in ASP.NET Core [only first 46 minutes and 40 seconds] </li>
+          <li>  Structured Logging </li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <ul>
+          <li>
+            <a href="https://youtu.be/5GlgHV_12-k?si=mkasth2V_jFhbB7_">Rahul Nath</a>
+          </li>
+           <li>
+            <a href="https://youtu.be/_iryZxv8Rxw?si=fRF8EvTH_Egv6OrE">IAmTimCorey</a>
+          </li>
+        </ul>
+        <ul>
+        </ul>
       </td>
   </tbody>
 </tab
