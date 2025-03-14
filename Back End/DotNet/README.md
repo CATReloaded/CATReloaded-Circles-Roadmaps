@@ -933,16 +933,19 @@ IAmTimCorey</a> [1]
       <td>
         <h5>📚 Topics</h5>
         <ul>
-          <li> Configuration in ASP.NET Core [only first 46 minutes and 40 seconds] </li>
-          <li>  Structured Logging </li>
+          <li> Configuration in ASP.NET Core </li>
+          <li>  Structured Logging  [only first 46 minutes and 40 seconds]  </li>
+          <li>  Options pattern  </li>
         </ul>
         <h5>🗂️ Resources</h5>
         <ul>
           <li>
             <a href="https://youtu.be/5GlgHV_12-k?si=mkasth2V_jFhbB7_">Rahul Nath</a>
           </li>
-           <li>
+        <li>
             <a href="https://youtu.be/_iryZxv8Rxw?si=fRF8EvTH_Egv6OrE">IAmTimCorey</a>
+          </li>  <li>
+            <a href="https://youtu.be/SizJCLcjbOA?si=wrVpJl0L39HMr9wP">Rahul Nath</a>
           </li>
         </ul>
         <ul>
