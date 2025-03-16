@@ -111,7 +111,7 @@
 ## Week 9: 
 
 ### Resources
-- [FPS Playlist 1]([https://youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U&si=Iki9KVUKtawZVIPy](https://youtube.com/playlist?list=PLPV2KyIb3jR7dFbE2UQYu7QWMdUgDnlnk&si=1WasW_RjBx9G6XAN))
+- [FPS Playlist 1](https://youtube.com/playlist?list=PLPV2KyIb3jR7dFbE2UQYu7QWMdUgDnlnk&si=W150KeKdbJwUAt25)
 - [FPS Playlist 2](https://youtube.com/playlist?list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&si=fNMIzyalkrqS9F8I)
 - [Enemy AI E01:E04 (1)](https://youtube.com/playlist?list=PL0WgRP7BtOewNtJdJNE-YjlpcU-wl1lAi&si=e4mZxX4EdupRrxnj)
 - [Enemy AI from 12:14 (2)](https://youtube.com/playlist?list=PL0WgRP7BtOexM4HPofmi9ta9TlQr77J12&si=YwuSecrhjcePfUXM)
@@ -122,8 +122,8 @@
 ## Week 10: 
 
 ### Resources
-- [Video 1]([[https://youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U&si=Iki9KVUKtawZVIPy](https://youtube.com/playlist?list=PLPV2KyIb3jR7dFbE2UQYu7QWMdUgDnlnk&si=1WasW_RjBx9G6XAN)](https://youtu.be/BXc11tl2YtI?si=ttzQutsvTyGoKSta))
-- [Video 2]([https://youtube.com/playlist?list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&si=fNMIzyalkrqS9F8I](https://youtu.be/3pBuqncIg5k?si=sN1YtnG-Z7r-ua4K))
+- [Video 1](https://youtu.be/BXc11tl2YtI?si=qXlP6Z19rUpd9Jl8)
+- [Video 2](https://youtu.be/3pBuqncIg5k?si=sN1YtnG-Z7r-ua4K)
  
 ### Task
 -  Create a **3D Flappy Bird game**
