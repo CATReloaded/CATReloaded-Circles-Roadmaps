@@ -12,7 +12,6 @@
 ### Task
 - [C# Problems](https://drive.google.com/file/d/1vq_-dLM8OHch2ze-ALMiYHCZ7tdqICHc/view?usp=sharing)
 
----
 
 ## Week 2: Object-Oriented Programming (OOP)
 
@@ -34,13 +33,12 @@
 ### Task
 - Create a **3D endless level cube** as referenced in the playlist.
 
----
 
 ## Week 4:
 
 ### Resources
 - [Playlist](https://youtube.com/playlist?list=PLX2vGYjWbI0QBJUI5wI3lBTaz85k37dwo&si=0VGt7KwvlHJba9n1)
-- OR [Video](https://youtu.be/ihvBiJ1oC9U?si=ZxQHLSUvtCE-vyMo)
+- [Video](https://youtu.be/ihvBiJ1oC9U?si=ZxQHLSUvtCE-vyMo)
 
 ### Task
 - Develop a **Flappy Bird game** with a functioning menu.
@@ -59,7 +57,6 @@
 ### Task
 - Watch resources and summarize notes on the key takeaways.
 
----
 
 ## Week 6: Pixel Art and 2D Art
 
@@ -81,7 +78,6 @@
   - **Obstacles**
   - A **Game Character**
 
----
 
 ## Week 7: Animation
 
@@ -111,5 +107,33 @@
 ### Task
 - Build a **2D platformer game**:
   - Include **two levels**, a **pause menu**, and both **start and end screens**.
+
+## Week 9: 
+
+### Resources
+- [FPS Playlist 1]([https://youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U&si=Iki9KVUKtawZVIPy](https://youtube.com/playlist?list=PLPV2KyIb3jR7dFbE2UQYu7QWMdUgDnlnk&si=1WasW_RjBx9G6XAN))
+- [FPS Playlist 2](https://youtube.com/playlist?list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&si=fNMIzyalkrqS9F8I)
+- [Enemy AI E01:E04 (1)](https://youtube.com/playlist?list=PL0WgRP7BtOewNtJdJNE-YjlpcU-wl1lAi&si=e4mZxX4EdupRrxnj)
+- [Enemy AI from 12:14 (2)](https://youtube.com/playlist?list=PL0WgRP7BtOexM4HPofmi9ta9TlQr77J12&si=YwuSecrhjcePfUXM)
+
+### Task
+-  Build a **3D FPS Game with enemy AI**
+  
+## Week 10: 
+
+### Resources
+- [Video 1]([[https://youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U&si=Iki9KVUKtawZVIPy](https://youtube.com/playlist?list=PLPV2KyIb3jR7dFbE2UQYu7QWMdUgDnlnk&si=1WasW_RjBx9G6XAN)](https://youtu.be/BXc11tl2YtI?si=ttzQutsvTyGoKSta))
+- [Video 2]([https://youtube.com/playlist?list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&si=fNMIzyalkrqS9F8I](https://youtu.be/3pBuqncIg5k?si=sN1YtnG-Z7r-ua4K))
+ 
+### Task
+-  Create a **3D Flappy Bird game**
+
+## Week 11: 
+
+### Resources
+- [Tower Defense](https://youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0&si=-Oq5ma6Q1UB1slxm)
+ 
+### Task
+-  Build a **3D Tower Defense Game**
 
 ---
