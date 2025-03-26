@@ -20,7 +20,6 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
           <li>HTML</li>
           <li>CSS</li>
           <li>Browser Developer Tools</li>
-          <li>Internet Basics</li>
         </ul>
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
@@ -104,6 +103,7 @@ Introduces SOLID principles, SQL, LINQ, and Entity Framework Core</p>
           <li><a href="#week10">Week 10</a></li>
           <li><a href="#week11">Week 11</a></li>
           <li><a href="#week12">Week 12</a></li>
+          <li><a href="#week13">Week 13</a></li>
         </ul>
       </div>
     </details>
@@ -393,12 +393,12 @@ Piece of Cake Dev  </a>[1:19]
                   </ul>
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
-                  <ul>
+                 <ul>
                     <li>
-                      <a href="https://youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa&si=J01bzfNEzYLb6GoQ">
-                        ITI
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=C2SCIEdVzFJi-fvE">
+                        Metigator
                       </a>
-                      [1 : 2]
+                      [1 : 10 ]
                     </li>
                     <li>
                       <a href="https://youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR&si=t1vJxEVVvQnmUxWX">
@@ -430,11 +430,11 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
-                    <li>
-                      <a href="https://youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa&si=J01bzfNEzYLb6GoQ">
-                        ITI
+                 <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=C2SCIEdVzFJi-fvE">
+                        Metigator
                       </a>
-                      [2 : 4]
+                      [11 : 18 ]
                     </li>
                   </ul>
                   <h6>🌏 English</h6>
@@ -457,6 +457,12 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv&si=8gyoMjhPShGQgkhH">
+                        Metigator
+                      </a>
+                      [1 & 2 & 5]
+                    </li>
                     <li>
                       <a href="https://youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp&si=h0stidMFBlPc41">
                         DevCreed
@@ -508,6 +514,36 @@ Piece of Cake Dev  </a>[1:19]
                     <li>
                       <a href="https://youtu.be/TS5i-uPXLs8?si=mSH0rkWCSIKvzV_N">
                         Geekific</a> [1]
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+               </tr>
+                 <tr  id="week13">
+                <td>Week 13</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>Records</li>
+                    <li>Nulls in C#</li>
+                    <li>Attributes</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtu.be/N2qewr8yeuI?si=j-KwY5vcT9Kw7Bq2">
+                         Metigator
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://youtu.be/6-AdjwK43hM?si=HATjAnrhA1vWke48">
+                         Metigator
+                      </a>
+                    </li>           <li>
+                      <a href="https://youtu.be/UkGF0SJzDN4?si=WGsixGxBzsqz1wSa">
+                         Metigator
+                      </a>
                     </li>
                   </ul>
                 </td>
