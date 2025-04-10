@@ -332,7 +332,21 @@ _By the end of this level, the learner should know_
         </tr>
         <tr>
             <th>Final Project</th>
-            <td></td>
+            <td>
+             <h5>🎯 Required</h5>
+                Implement a <strong>URL Shortener</strong> web application using what you have learnt in Express and MongoDB.
+                <br>
+                The way a URL shortener works is that the user enters a long URL through some form and submits, then the web application generates a short URL which redirects them into the desired URL.
+                <h5>🎯 Criteria</h5>
+                <ul>
+                    <li>The application runs locally without any crashes</li>
+                    <li>The user is able to enter a long URL and get a short one which auto-redirects to the target website</li>
+                    <li>Previously shortened URLs are listed in the homepage as a reference for user</li>
+                    <li>No need for authentication or routes protection in this project</li>
+                </ul>
+                <h5>📃 Task</h5>
+                <a href="https://github.com/cat-backend-nodejs/url-shortener">Starter Code & Description</a>
+            </td>
         </tr>
     </tbody>
 </table>
