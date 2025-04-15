@@ -68,6 +68,7 @@ _By the end of this level, the learner should know_
                 <h6>🌏 Arabic</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=Q6G-J54vgKc">Big Data Arabic (Git & GitHub)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=FueXoIewxg0&t=38s&pp=ygUSYmFkciBnaSBhbmQgZ2l0aHVi">Git Unleashed (Git & Github)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=rQKJFlsifR8">GeekHood (What is a database?)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=WWazrq7ZC8E">JobStack (SQL vs NoSQL Databases)</a></li>
                 </ul>
@@ -265,6 +266,13 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=iiADhChRriM">Web Dev Simplified (JSON)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=blBoIyNhGvY">Dave Gray (Error Handling)</a></li>
                 </ul>
+                <h4>JavaScript Under The Hood (Highly recommended)</h4>
+                <ul>
+                <li><a href="https://www.youtube.com/watch?v=DFSuoa3Dpj8&list=PLxADqpeFWjH2h-CxhyXN2OZEVDkXeuckn&pp=0gcJCV8EOCosWNin">JS under the hood (
+Mahmoud Elrefaey)</a></li>
+                 OR
+                 <li><a href="https://www.youtube.com/watch?v=-G9c4CMMUKc&list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB">JS under the hood (
+Traversy Media)</a></li>
                 <h5>📃 Task</h5>
                 <a href="https://forms.gle/yoHneyVm76EhGHnX8">Week 9 Quiz</a>
             </td>
