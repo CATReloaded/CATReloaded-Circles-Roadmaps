@@ -987,5 +987,29 @@ IAmTimCorey</a> [1]
         <ul>
         </ul>
       </td>
+      </td> <tr id="week55">
+      <td>Week 5</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li> HttpClient  </li>
+          <li> Broker and  Broker with External Services  </li>
+          <li> Result pattern</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <ul>
+          <li>
+            <a href="https://youtube.com/playlist?list=PLiG4KxH00ZpnmuSsIrQ3IGTUUfl_Gl1AH&si=uos9cz4-sCXdX_R6">Felipe Gavilan</a>
+          </li>
+          <li>
+            <a href="https://youtu.be/MLBdUmDixw8?si=BBdMVOYo_Bq0xzWj">huzcodes</a>
+          </li>
+          <li>
+            <a href="https://medium.com/@wgyxxbf/result-pattern-a01729f42f8c">Result Pattern - Medium</a>
+          </li>
+        </ul>
+        <ul>
+        </ul>
+      </td>
   </tbody>
 </tab
