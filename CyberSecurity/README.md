@@ -74,7 +74,7 @@ ok, enough talking and let's start the real show.
 2. **Reverse Engineering & Malware Analysis** ( Level 1 & 2 )
 3. **Network Security**
 4. **SOC analyst & DFIR**
-5. **Cryptography**
+5. **Cryptography** ( New 🌟)
 
 ---
 

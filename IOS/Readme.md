@@ -9,7 +9,7 @@ ___
 # 📗 Why should you learn iOS development?
 ![ios](https://www.scnsoft.com/mobile/ios-development.svg)
 
-with over 1.8 billion apple devices all over the world including (📱 iPhone, 📱 iPad, 💻 MacOS 🖥 Apple TV, ⌚ Apple Watch) it has become essential for companies to develop iOS apps for their services.
+with over 2 billion apple devices all over the world including (📱 iPhone, 📱 iPad, 💻 MacOS 🖥 Apple TV, ⌚ Apple Watch, Apple Vision pro ) it has become essential for companies to develop iOS apps for their services.
 
 Before starting with Android you have to know about Git and GitHub. (If you know about them you can skip this section).
 ___
@@ -42,10 +42,11 @@ ___
 ![ios](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/2560px-Swift_logo.svg.png)
 ```Resources:```
 1. Swift Programming Tutorial
-   1. ["Sean Allen"](https://www.youtube.com/watch?v=CwA1VWP0Ldw)
-          you will watch from the beginning of the video to 2:40:26 
+   1. ["Swiftful Thinking"](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB)
+          
     or
-    2. [CodeWithChris](https://www.youtube.com/watch?v=Ulp1Kimblg0)
+    2. [Apple Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+      
 2. OOP
    1. [OOP](https://www.youtube.com/watch?v=fK2lLVqc8UY&list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1)
    2. [OOP With Swift](https://www.youtube.com/watch?v=rKf9vs4ZoJc&t=632s)
@@ -117,7 +118,7 @@ ___
 2. **Use LinkedIn and make connections with people from your field**
 
 **Feel free to contact us:**
-* [Abdalazem Saleh](https://www.linkedin.com/in/abdalazem-saleh-580772245/)
+* [Ahmed Fathy](https://www.linkedin.com/in/ahmed-fathy-a8471a22a)
   
 
  

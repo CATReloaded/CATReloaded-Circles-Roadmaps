@@ -1,44 +1,69 @@
-## [CAT Reloaded Roadmaps 2024](https://catreloaded.org "CAT Reloaded")
+# 🚀 CAT Reloaded Roadmaps
 
 ![CAT Cover](img/cover.png)
 
-▶ What is [CAT Reloaded](https:/catreloaded.org "CAT Reloaded")?
+## 🌐 Welcome to CAT Reloaded Roadmaps Repository!
 
-📌 [CAT Reloaded](https://catreloaded.org "CAT Reloaded") Abbreviation for **C**omputer **A**ssistance **T**eam. It started in **1996** and reloaded again in **2003** so it gained its name **CAT Reloaded** from this matter.  
+### **📅 Roadmaps Overview**
+This repository houses the yearly roadmaps for **CAT Reloaded**, serving as a structured guide for our community’s technical journey. Each roadmap outlines the key technologies, learning paths, and initiatives undertaken by the team for the year.
 
-CAT Reloaded strives to build a vibrant technical community for computer science and IT enthusiasts, emphasizing open source technologies, while equipping students with the technical prowess and personal skills needed to excel in the job market.
-Our mission is to foster a continuous learning environment and empower students for a successful future in technology.
+📌 **Why Roadmaps?**  
+These roadmaps:
+- Provide structured learning paths for students and professionals.
+- Help open-source contributors navigate the latest tech trends.
+- Serve as a knowledge base for future members and developers.
 
----
-
-▶ What do we do in [CAT Reloaded](https://catreloaded.org "CAT Reloaded")?
-
-📌 The team is interested in forming technical circles to form communities that help and participate in learning modern software technology such as **Computer Science**, **Cyber Security**, **Game Development**, **Web Development**, **Mobile Development**, **Data Science**, **Embedded Systems**, and many other fields.
-
----
-
-▶ Want to learn more?
-
-📌 [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded") community in Mansoura, you know more about us and our activities through our social media:
-
-💻[Website](https://catreloaded.org/ "Web site")
-
-💻[GitHub](https://github.com/CATReloaded "Web site")
-
-📱 [Facebook Page](https://www.facebook.com/pg/CATReloaded "Facebook Page")
-
-📱 [Facebook Group](https://www.facebook.com/groups/catreloaded.team "Facebook Group")
-
-📱 [X](https://x.com/CATReloaded "X")
-
-📱 [Linkedin](https://www.linkedin.com/company/cat-reloaded/ "Linkedin")
-
-👓[YouTube](https://www.youtube.com/user/CATReloaded "YouTube")
+| Year  | Roadmap Link |
+|-------|-------------|
+| 2024  | [📜 2024 Roadmap](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps/tree/2024) |
+| 2025  | **[📜 2025 Roadmap](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps/tree/2025) (Current)** |
+| 2026  | [📜 2026 Roadmap](#) (Wait for it) |
 
 ---
 
-▶ How to become a member of CAT Reloaded?
+## **ℹ️ What is CAT Reloaded?**
+📌 **CAT Reloaded** (**C**omputer **A**ssistance **T**eam) is a thriving technical community dedicated to empowering computer science and IT enthusiasts with modern software technologies. Originally founded in **1996**, CAT Reloaded made a comeback in **2003**, earning its name from this rebirth.
+
+🎯 **Mission:**
+- Foster a **continuous learning** environment.
+- Equip students with **technical and personal skills** to thrive in the industry.
+- Build a strong **open-source culture** through collaboration and knowledge sharing.
+
+📌 **We focus on:**
+- 💻 **Computer Science**  
+- 🔒 **Cyber Security**  
+- 🎮 **Game Development**  
+- 🌐 **Web & Mobile Development**  
+- 📊 **Data Science**  
+- 🤖 **Embedded Systems**  
+- & much more!
+
+---
+
+## **🌍 How Do These Roadmaps Help the Open-Source Community?**
+💡 These roadmaps aren’t just for CAT Reloaded members—they are designed to benefit the entire **open-source community** by:
+- 📖 Providing **structured learning** resources for beginners.
+- 👨‍💻 Encouraging **collaborative learning** and knowledge-sharing.
+- 🔧 Enabling **project-based contributions** to real-world applications.
+- 🌍 Serving as a reference for **developers worldwide** looking to enhance their skills.
+
+If you’re an open-source enthusiast, use these roadmaps to level up your expertise or contribute to improving them!
+
+---
+
+## **🔗 Connect with Us**
+Join our ever-growing community and stay updated on our activities through our social channels:
+
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://catreloaded.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CATReloaded)
+[![Facebook Page](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CATReloaded)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CATReloaded)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cat-reloaded/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/CATReloaded)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vap49WE4NVioCIZs3y2p)
+
+🚀 **Join us, contribute, and be part of the next tech revolution!**
+
+## ✍️ How to become a member of CAT Reloaded?
 
 📌 Almost every year we host a recruitment [Event](https://www.facebook.com/events/1427191697864892/) called Hello, World! at Mansoura University to attract all interested students in computer science in general, categorizing them into circles meant for different fields.
-
-![CAT Logo](img/team.jpg)
