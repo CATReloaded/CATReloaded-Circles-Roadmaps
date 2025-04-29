@@ -179,7 +179,7 @@ It includes the following topics:
             <td>
                 <ol>
                     <li>🏆 Complete Keith Galli's NumPy tutorial.</li>
-                    <li>📝 Quiz.</li>
+                    <li>📝Solve <a href="https://drive.google.com/file/d/1IRzTGmUCzz3GJyxAIWAAsykXk_95l5ht/view?usp=sharing">task notebook</a>.</li>
                 </ol>
             </td>
         </tr>
@@ -202,7 +202,7 @@ It includes the following topics:
             <td>
                 <ol>
                     <li>🏆 Complete Corey Schafer's course.</li>
-                    <li>📝 Quiz.</li>
+                    <li>📝Solve <a href="https://drive.google.com/drive/folders/1ES61cauS4qbT-KuC-BabBYv3wBYZ4KAf?usp=sharing">task notebook</a>.</li>
                 </ol>
             </td>
         </tr>
@@ -246,6 +246,7 @@ It includes the following topics:
                 <ol>
                     <li>🏆 Complete Kimberly Fessel's course.</li>
                     <li>💡 Practice and document all that you learned in a notebook.</li>
+                    <li>📝 Solve <a href="https://colab.research.google.com/drive/1PApywZw8dVapY25hvcmHVArfdW-rmNSB?usp=sharing">task notebook</a> (use this <a href="https://www.kaggle.com/datasets/cat-reloaded-data-science/movies?authuser=0">data</a> in your visualizations).</li>
                 </ol>
             </td>
         </tr>
@@ -325,13 +326,13 @@ It includes the following topics:
                     <h3>💡 Alternative resources</h3>
                     <li><a href="https://www.w3schools.com/python/python_regex.asp">Python RegEx documentation</a>.</li>
                     <li><a href="https://youtu.be/K8L6KVGG-7o?si=SZYD07npXZ74qyUD">Corey Schafer | Regular Expressions</a>: 1-hour YouTube video (Free).</li>
-                    <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=K2_7VELcasmhtGc8">Osama Elzero | Regular Expressions Arabic course</a>: YouTube playlist from 95th video to 102th video (Free).</li>
+                    <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=K2_7VELcasmhtGc8">Osama Elzero | Regular Expressions Arabic course</a>: YouTube playlist from <strong>95th</strong> video to <strong>102th</strong> video (Free).</li>
                 </ul>
             </td>
             <td>
                 <ol>
-                    <li>🏆 Complete the Regular Expressions in Python course.</li>
-                    <li>📝 Quiz.</li>
+                    <li>🏆 Complete the Regular Expressions in Python DataCamp course.</li>
+                    <li>📝 Solve <a href="https://drive.google.com/drive/folders/12h8BLm_8ZdzB-eKVQxXwnvRl6NIGCrj0?usp=sharing">task notebook</a> (data included in the folder).</li>
                 </ol>
             </td>
         </tr>
@@ -352,7 +353,7 @@ It includes the following topics:
                 <ol>
                     <li>🏆 Complete the Cleaning Data in Python course.</li>
                     <li>📝 Read the blog and extract your insights from it.</li>
-                    <li>💡 Practicing in a notebook with any dataset.</li>
+                    <li>💡 Practice cleaning in the <a href="https://drive.google.com/drive/folders/1Nxi3h7cxIFDJ1Zr8LajnHYDA2cuLDAK2?usp=sharing">task notebook</a> with Candy dataset (considered one of the best data cleaning practice datasets).</li>
                 </ol>
             </td>
         </tr>
@@ -372,7 +373,6 @@ It includes the following topics:
                 <ol>
                     <li>🏆 Complete the Feature Engineering for Machine Learning in Python course.</li>
                     <li>📝 Read the blog and extract your insights from it.</li>
-                    <li>💡 Practicing in a notebook with any dataset.</li>
                 </ol>
             </td>
         </tr>
@@ -395,7 +395,7 @@ It includes the following topics:
                 <ol>
                     <li>🏆 Complete the Exploratory Data Analysis in Python course.</li>
                     <li>📝 Read the blog and extract your insights from it.</li>
-                    <li>💡 Practicing in a notebook with any dataset.</li>
+                    <li>💡 Practicing Feature Engineering and EDA in the <a href="https://drive.google.com/drive/folders/1PFKCoQA2jak1RTYcsQRg7hYSN_BlHJB4">task notebook</a> (data included in the folder).</li>
                 </ol>
             </td>
         </tr>
@@ -407,15 +407,16 @@ It includes the following topics:
             <td>
                 <ul>
                     <h3>🚀 Base resources</h3>
-                    <li><a href="https://youtu.be/taL3r_JpwBg?si=WP4fGnx8fp47IBgZ">Codezilla | Web Scraping with Python Arabic</a>: 1-hour YouTube video (Free).</li>
-                    <h3> 💡 Alternative resources</h3>
-                    <li><a href="https://app.datacamp.com/learn/courses/web-scraping-with-python">Web Scraping with Python</a>: 4-hours DataCamp course (requires subscription).</li>
+                    <li><a href="https://app.datacamp.com/learn/courses/web-scraping-in-python">Web Scraping in Python</a>: 4-hours DataCamp course (requires subscription).</li>
+                    <li><a href="https://www.youtube.com/watch?v=q0ert5YP968">Codezilla | Web Scraping with Python Arabic</a>: 1-hour YouTube video (Free).</li>
+                    <li><a href="https://youtu.be/mBoX_JCKZTE?si=kUL590DAPkYgLT2N">freeCodeCamp | Scrapy course</a>: 1.5-hour YouTube video (Free).</li>
                 </ul>
             </td>
             <td>
                 <ol>
-                    <li>🏆 Complete Codezilla's Web Scraping with Python course.</li>
-                    <li>💡 Practice and scrape any website.</li >
+                    <li>🏆 Complete DataCamp Web Scraping in Python course.</li>
+                    <li>🏆 Complete freeCodeCamp Scrapy course.</li>
+                    <li>💡 Practice and scrape any website.(eg. <a href="https://sandbox.oxylabs.io/products">Oxylabs</a>)</li>
                 </ol>
             </td>
         </tr>
@@ -437,7 +438,7 @@ It includes the following topics:
             <td>
                 <ol>
                     <li>🏆 Complete the skill track.</li>
-                    <li>💡 Practice problems on HackerRank.</li>`
+                    <li>💡 Practice problems on HackerRank.</li>
                 </ol>
             </td>
         </tr>
@@ -487,7 +488,8 @@ It includes the following topics:
             <td>
                 <ol>
                     <li>🏆 Complete the Imperial College London course.</li>
-                    <li>📝 Quiz.</li>
+                    <li>📝 Solve the <a href="https://forms.gle/Wc2FN1sCvxutkL7V6">MCQ quiz</a>.</li>
+                    <li>💡 Solve the <a href="https://drive.google.com/file/d/1zjhC7xKR8LTJj0pFiG5jjsdYzzTgdqMl/view?usp=sharing">task notebook</a>.</li>
                 </ol>
             </td>
         </tr>
@@ -508,7 +510,8 @@ It includes the following topics:
             <td>
                 <ol>
                     <li>🏆 Complete the Imperial College London course.</li>
-                    <li>📝 Quiz.</li>
+                    <li>📝 Solve the <a href="https://forms.gle/JG14eVXAh4muiLdd8">MCQ quiz</a>.</li>
+                    <li>💡 Solve the <a href="https://colab.research.google.com/drive/1j_bOiw022XFXyoSRvi6ju0dF7B0OQHXn?usp=sharing">task notebook</a>.</li> 
                 </ol>
             </td>
         </tr>
@@ -553,7 +556,8 @@ Now we let's continue the roadmap into weeks.
                 <ol>
                     <li>🏆 Complete Andrew Ng's course.</li>
                     <li>🏆 Complete the DataCamp course.</li>
-                    <li>📝 Quiz.</li>
+                    <li>📝 Solve the <a href="https://drive.google.com/file/d/1e_MAU0DX5CKnftyqsbr5Sh83OsIhxF18/view?usp=sharing">task notebook</a>(consider this <a href="https://drive.google.com/file/d/1E4rJzlOSPSB914-cQFLk3U02E90iF24v/view?usp=sharing">data</a>).</li>
+                    <li>📝 Solve (week 3) <a href="https://drive.google.com/file/d/1GZiVMo2bBkSyveZDTPvbvwnuRsWXortF/view?usp=sharing">task notebook</a>.</li>
                 </ol>
             </td>
         </tr>
@@ -570,7 +574,7 @@ Now we let's continue the roadmap into weeks.
             <td>
                 <ol>
                     <li>🏆 Study the chapter and summarize it.</li>
-                    <li>📝 Quiz on each chapter.</li>
+                    <li>📝 Solve the task, if you find it in this <a href="https://drive.google.com/drive/folders/15U1alOxW0WZUX2UnieNYpJVjPiOf5Sr1?usp=sharing">folder</a>, for each chapter in the book.</li>
                 </ol>
             </td>
         </tr>
