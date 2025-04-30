@@ -511,7 +511,7 @@ It includes the following topics:
                 <ol>
                     <li>🏆 Complete the Imperial College London course.</li>
                     <li>📝 Solve the <a href="https://forms.gle/JG14eVXAh4muiLdd8">MCQ quiz</a>.</li>
-                    <li>💡 Solve the <a href="https://colab.research.google.com/drive/1j_bOiw022XFXyoSRvi6ju0dF7B0OQHXn?usp=sharing">task notebook</a>.</li> 
+                    <li>💡 Solve the <a href="https://colab.research.google.com/drive/1j_bOiw022XFXyoSRvi6ju0dF7B0OQHXn?usp=sharing">task notebook</a>.</li>
                 </ol>
             </td>
         </tr>
@@ -574,7 +574,7 @@ Now we let's continue the roadmap into weeks.
             <td>
                 <ol>
                     <li>🏆 Study the chapter and summarize it.</li>
-                    <li>📝 Solve the task, if you find it in this <a href="https://drive.google.com/drive/folders/15U1alOxW0WZUX2UnieNYpJVjPiOf5Sr1?usp=sharing">folder</a>, for each chapter in the book.</li>
+                    <li>📝 Solve the task, if you find it in this <a href="blank">folder</a>, for each chapter in the book.</li>
                 </ol>
             </td>
         </tr>
@@ -867,3 +867,32 @@ If you need to ask any questions or clarifications for some topic, don't hesitat
 
 - [Mohamed Kardosha](https://github.com/mhmdkardosha): Data Science circle **Head**.
 - [Doaa Helal](https://github.com/Doaa-Helal): Data Science circle **Vice-Head**.
+
+A special thanks goes out to all the contributors who supported the creation of this roadmap and the preparation of its tasks. Deep appreciation as well to the dedicated supervisors for their commitment and hard work throughout the year:
+
+<div style="display: flex; flex-wrap: wrap; gap: 32px;">
+
+<div style="flex: 1 1 250px; min-width: 220px;">
+
+- [Aamal Maher](https://github.com/AamalMaher)  
+- [Ahmed Gwely](https://github.com/AhmedGwely)  
+- [Ahmed Montaser](https://github.com/AhmadMontaser)  
+- [Ahmed Mostafa](https://github.com/AhmedMostafaDev12)  
+- [Ahmed Nabil](https://github.com/ahmednabiled)  
+- [Ahmed Zahran](https://github.com/Ahmed-Zahran02)  
+- [Khaled Helmy](https://github.com/khalledhelmy)  
+
+</div>
+
+<div style="flex: 1 1 250px; min-width: 220px;">
+
+- [Khaled Zakarya](https://github.com/khaledzakarya)  
+- [Nedaa El-Sherbini](https://github.com/nedaaelsherbini)  
+- [Saad Al-Tohamy](https://github.com/saadaltohamy)  
+- [Salwa Mustafa](https://github.com/SalwaMustafa)  
+- [Seif Hafez](https://github.com/seifhafez45)  
+- [Shahd Wael](https://github.com/shahdwael1)  
+- [Tawfik Hammad](https://github.com/tawfikhammad)  
+
+</div>
+</div>
