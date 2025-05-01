@@ -887,7 +887,8 @@ A special thanks goes out to all the contributors who supported the creation of 
 <div style="flex: 1 1 250px; min-width: 220px;">
 
 - [Khaled Zakarya](https://github.com/khaledzakarya)  
-- [Nedaa El-Sherbini](https://github.com/nedaaelsherbini)  
+- [Nedaa El-Sherbini](https://github.com/nedaaelsherbini)
+- [Mennah El-Sheikh](https://github.com/Mennah-Elsheikh)
 - [Saad Al-Tohamy](https://github.com/saadaltohamy)  
 - [Salwa Mustafa](https://github.com/SalwaMustafa)  
 - [Seif Hafez](https://github.com/seifhafez45)  
