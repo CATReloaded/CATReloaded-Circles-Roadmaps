@@ -564,6 +564,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=fgTGADljAeg">Web Dev Simplified (REST APIs with Express)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=7Q17ubqLfaM">Web Dev Simplified (JWT Part 1)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=mbsmsi7l3r4">Web Dev Simplified (JWT Part 2)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=s-4k5TcGKHg">Dave Gray (Refresh Token Rotation and Reuse)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=2PPSXonhIck">Code Realm (Sessions vs. Tokens)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=b8ZUb_Okxro">Code With Antony (Apply REST with TypeScript)</a></li>
                 </ul>
@@ -610,12 +611,17 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li><strong>Ecommerce API:</strong> <a href="https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2">Codezone</a> [5:9]</li>
                     <li><strong>Ecommerce API:</strong> <a href="https://www.youtube.com/playlist?list=PLGhZWewM_75ILwl15d0Cn-W_XHpnKbNHL">Emam Academy</a></li>
+                    <li><strong>Full Ecommerce API:</strong> <a href="https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i">Index Academy</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
                     <li><strong>Ecommerce API:</strong> <a href="https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q">Academind</a></li>
                     <li><strong>Ecommerce API:</strong> <a href="https://www.youtube.com/playlist?list=PLzb46hGUzitBp584kLyn6l3i6yC-rXlmN">Course On Demand</a></li>
                     <li><strong>Ecommerce API with TypeScript:</strong> <a href="https://www.youtube.com/watch?v=BWUi6BS9T5Y">TomDoesTech</a></li>
+                </ul>
+                <h6>GOOD STUFF</h6>
+                <ul>
+                    <li><a href = "https://github.com/omniti-labs/jsend">JSend: rules for how JSON responses should be formatted</li>
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Choose one project from the above, follow along with the tutorials and upload your code on GitHub</p>
@@ -1149,4 +1155,3 @@ _By the end of this level, the learner should learn_
     <td> <a href="https://www.oreilly.com/library/view/web-application-security/9781492053101/">Web Application Security Book</a></td>
   </tr>
 </table>
-
