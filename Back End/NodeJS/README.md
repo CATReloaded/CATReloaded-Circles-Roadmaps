@@ -1147,7 +1147,8 @@ _By the end of this level, the learner should learn_
     <td>
        <a href="https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org">Docker in English (freeCodeCamp)</a> <br>
        <a href="https://www.youtube.com/watch?v=PrusdhS2lmo&t=3014s">Docker and intro to Kubernetes in Arabic (Big Data)</a> <br>
-       <a href="https://www.youtube.com/watch?v=tHP5IWfqPKk&list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR">Docker Practical Course - Arabic</a>
+       <a href="https://www.youtube.com/watch?v=tHP5IWfqPKk&list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR">Docker Practical Course - Arabic</a> <br>
+       <a href="https://github.com/Mohamed-abdalazez/Docker">Docker Arabic Course Summary & Code Examples</a>
     </td>
   </tr>
    <tr>
