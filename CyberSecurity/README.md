@@ -183,7 +183,7 @@ A specialized Android roadmap with essential tools and labs for mobile security 
 | Leader | Period |
 | --- |--- |
 | [Nidal Fikri](https://www.linkedin.com/in/nidal-fikri-kamil/)| 2018-2019 |
-| [Yasser Elsenbary](https://www.linkedin.com/in/yasserelsnbary/)|2019-2020, 2020-2021 |
+| [Yasser Elsenbary](https://www.linkedin.com/in/yasserelsnbary/) / [Ahmed El-Sayed](https://www.linkedin.com/in/ahmed-el-sayed-4430671b6/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|2019-2020, 2020-2021 / 2021 |
 | [Khalid Emad](https://www.linkedin.com/in/khalid-emad/) | 2021-2022 |
 | [Ibrahim Radi](https://www.linkedin.com/in/ibraradi9)| 2022-2023|
 | [Zyad Elsayed](https://www.linkedin.com/in/zyad-abdelbary/)|2023-2024|
