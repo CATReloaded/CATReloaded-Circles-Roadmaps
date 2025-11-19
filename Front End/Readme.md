@@ -243,7 +243,7 @@ Bootstrap is a popular open-source CSS framework that provides pre-designed web 
 
 ## Tutorials
 
-> - [Elzero Web School Bootstrap 4](https://www.youtube.com/watch?v=EzHbZjXDdKc&pp=ygUJYm9vdHN0cmFw)
+> - [Abdelrahman Gamal Bootstrap 4](https://www.youtube.com/watch?v=EzHbZjXDdKc&pp=ygUJYm9vdHN0cmFw)
 > - [Elzero Web School Bootstrap 5 Bondi Design](https://youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ)
 
 <br/>
@@ -794,3 +794,4 @@ Next.js is a React framework that enables server-side rendering (SSR) and static
 
 ### Credit
 - [Ihab Mahmoud - Circle Head](www.linkedin.com/in/ihabmahmoud1)
+
