@@ -1,14 +1,15 @@
 # Spring Boot Roadmap
 
 ## Introduction
-This roadmap is designed to guide you through the fundamentals of Spring Boot and backend development, from beginner to advanced levels. Each stage is thoughtfully structured with specific goals, curated resources, and hands-on tasks to ensure practical learning.
+This roadmap is designed to guide you through the fundamentals of Spring Boot and backend development, from beginner to advanced levels. Each stage is structured with specific goals, resources, and hands-on tasks to ensure practical learning.
 
 Created and Prepared By [Mohamed Zkrallah](https://github.com/muhammadzkralla).
 
 
 ## Criteria
 - Three Levels: Beginner, Intermediate, and Advanced, with a focus on building strong fundamentals before progressing to advanced topics.
-- Practical Approach: Tasks are abstracted for brevity, with more details available in Notion.
+- Practical Approach: Tasks are abstracted for brevity, leaving more space for your creativity and decision making.
+- Total Dependence: This is just a roadmap, not a course, diploma, or anything similar. It's just a logical ordering of topics that I, personally, think is reasonable and easier to understand and adopt Spring Boot as a backend framework faster following this particular order of learning. Totally feel free to study things from different resources, do more tasks, and so on. If you just stick with the roadmap, you will be good enough. If you outsource more resources and tasks, you will be awesome.
 - Bonuses: Bonuses are included for deeper learning. They are not optional, don’t skip them entirely, do them later if you don't have time then. Most bonuses will be already discussed in later weeks.
 - AI-Assisted Learning: Feel free to use AI to explore topics further but avoid relying on it to complete tasks or write code for you.
 - Time Interval: Some topics can not be finished in just one week, try to learn as much as you can and get back later.
@@ -17,6 +18,7 @@ Created and Prepared By [Mohamed Zkrallah](https://github.com/muhammadzkralla).
 
 
 ---
+
 
 # Level 1: Beginner (Weeks 1–10)
 
@@ -309,7 +311,7 @@ Focus:
 
 ---
 
-## Week 11: Spring Core (IoC & DI)
+## Week 11: Spring Core (AOP, IoC, and DI)
 
 Topics:
 * Inversion of Control & IoC Container
@@ -609,6 +611,7 @@ Bonus: Create a simple front-end that uses your API.
 
 Topics:
 * Introduction to NoSQL Databases
+* Spring Data MongoDB
 * MongoDB
 * Mongosh & MongoDBCompass
 * Spring Data MongoDB
@@ -616,13 +619,14 @@ Topics:
 
 Resources:
 
-- [Install MongoDB & mongosh on Windows (Amit Thinks)](https://youtu.be/1LiZRYzgM2o?si=isJpU8C-Nk3-NhEE)
-- [Complete MongoDB Tutorial (The Net Ninja)](https://youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA&si=jOhL8DKF3esJIZmL)
-- [MongoDB in 1 Hour (Bro Code)](https://youtu.be/c2M-rlkkT5o?si=9taMSnuBpjnLA54H)
-- [MongoDB in 30 Minutes (Web Deve Simplified)](https://youtu.be/ofme2o29ngU?si=WsX9BaUFTSDtssP0)
 - [Getting Started with Spring Data MongoDB Documentation](https://spring.io/guides/gs/accessing-data-mongodb)
 - [Getting started with MongoDB and Spring Boot Documentation](https://www.mongodb.com/en-us/resources/products/compatibilities/spring-boot)
 - [Spring Data JPA Documentation](https://docs.spring.io/spring-data/mongodb/reference/)
+- [Install MongoDB & mongosh on Windows (Amit Thinks)](https://youtu.be/1LiZRYzgM2o?si=isJpU8C-Nk3-NhEE)
+- [Complete MongoDB Tutorial (The Net Ninja)](https://youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA&si=jOhL8DKF3esJIZmL)
+- [Switch to NoSQL, move FASTER (Devtiro)](https://youtu.be/nmOYRdOvagU?si=TUBNqpr6rl7vPrnM)
+- [MongoDB in 1 Hour (Bro Code)](https://youtu.be/c2M-rlkkT5o?si=9taMSnuBpjnLA54H)
+- [MongoDB in 30 Minutes (Web Deve Simplified)](https://youtu.be/ofme2o29ngU?si=WsX9BaUFTSDtssP0)
 - [MongoDB in Spring Boot Low-Level Tutorial (Telusko)](https://youtu.be/6QnY7Ri_ORw?si=nz5H9eT1YB97WyIC)
 - [MongoDB in Spring Boot Tutorial (Amigoscode) (26:23~)](https://youtu.be/ssj0CGxv60k?si=Oy2txu2KsYq9nYbY)
 - [MongoDB in Spring Boot Tutorial (Programming Techie) (~15:00)](https://youtu.be/GvPhube6Mls?si=Bc6yBEQ8fsZTo2RV)
@@ -728,6 +732,7 @@ Note: <br>
 * If your project does not require reactive programming, sticking with Spring MVC might be a better choice.
 * Spring WebFlux is a big topic, don't get overwhelmed, learn as much as you can and revisit later.
 * Try to map what you've learned so far to WebFlux and explore alternative approaches for future topics to be applicable to Spring WebFlux.
+
 
 ## Week 23: Caching and Introduction to Redis Cache in Spring Boot
 
@@ -882,7 +887,471 @@ In this project, you will build a **real-time chat application** using **Spring 
 
 # Level 3: Advanced (Weeks 26–35)
 
-Focus: Scaling, microservices, Docker, deployment, and advanced concepts.
+Focus:
+* Introduction to payment Gateways.
+* Firebase RTDB, Cloud Messaging, cloud Storage, Firestore, Authentication, and more.
+* More SQL and NoSQL and introduction to JDBC and more about R2DBC.
+* GraphQL and task scheduling.
+* Introduction to Deployment and Docker.
+* Introduction to Message queues.
+* Introduction to Microservices architecture.
 
 
 ---
+
+## Week 26: Payments and Stripe Payment Gateway
+
+Topics:
+* Payments in Spring Boot
+* Stripe payment gateway
+* Paypal payment
+
+Resources:
+
+- [Stripe Official Documentation](https://stripe.com/docs)
+- [Stripe Payment Gateway Integration with Spring Boot (Java Techie)](https://youtu.be/BczS-wbxgp4?si=22MPN7-1CcD6WvhP)
+- [PayPal Integration with Spring Boot (Bouali)](https://youtu.be/_eTcseS410E?si=qZdhVtkuxg3AS3dM)
+
+Task: <br>
+1- Set up a Stripe account and create API keys. <br>
+2- Integrate Stripe in a Spring Boot application to process payments. <br>
+3- Implement an endpoint for handling one-time payments. <br>
+
+Bonus: Learn about other payment gateways and SDKs like Fawry or Paymob for example.
+
+Note: Stripe is one of the most widely used payment gateways, but it's not the only option available. Companies can choose any payment gateway that best suits their needs. This week focuses specifically on Stripe due to its popularity and extensive documentation. Feel free to learn more about other payment gateways.
+
+
+## Week 27: Building GraphQL Services
+
+Topics:
+* Graphql vs REST
+* Graphql in Spring Boot
+* GraphQL schemas, queries, and mutations
+
+Resources:
+
+- [Spring for GraphQL Documentation](https://docs.spring.io/spring-graphql/reference/index.html)
+- [Spring Boot for GraphQL Documentation](https://docs.spring.io/spring-boot/reference/web/spring-graphql.html)
+- [Building a GraphQL Service Documentation](https://spring.io/guides/gs/graphql-server)
+- [Observing GraphQL in action Documentation](https://spring.io/guides/topicals/observing-graphql-in-action)
+- [What Is GraphQL? REST vs. GraphQL (ByteByteGo)](https://youtu.be/yWzKJPw_VzM?si=Fi7ELyuHuwW2afyp)
+- [GraphQL Explained in 100 Seconds (Fireship)](https://youtu.be/eIQh02xuVw4?si=drV4aeoBSM5Eq6Vx)
+- [Introduction to Spring GraphQL with Spring Boot (Spring Academy)](https://youtu.be/atA2OovQBic?si=bz1j4z5ZU6SuXDfn)
+- [Spring Boot and GraphQL Tutorial (Amigoscode)](https://youtu.be/uNB2N_w_ypo?si=QxaNVf5L6mLquGhs)
+- [Mastering GraphQL & Spring Boot APIs (Java Techie)](https://youtu.be/GJc36OKFQ_M?si=uBdNCPauh4LBsse_)
+- [Master Graphql with Spring Boot (Daily Code Buffer)](https://youtu.be/eD-1KTK7fGc?si=xmZWX2yAcAB9EEA6)
+- [Spring Boot GraphQL Tutorial (Dan Vega)](https://youtu.be/J8vC8RflPPY?si=HycTmHFz1-FCBJVS)
+- [GraphQL Spring Boot (Microservices Lab)](https://youtube.com/playlist?list=PL0mgqHWxwZciKccW2CuDX6NNMOZ7ONaH4&si=Q8wecr7XpLXwW-Cp)
+- [Getting Started with GraphQL (Baeldung)](https://www.baeldung.com/spring-graphql)
+- [Integrate and Call a GraphQL API in a Spring Boot (GeeksforGeeks)](https://www.geeksforgeeks.org/how-to-integrate-and-call-a-graphql-api-in-a-java-spring-boot-application/)
+
+Task: <br>
+1. Set up a GraphQL server using Spring Boot and Spring GraphQL. <br>
+2. Define GraphQL schemas for a simple application (Users and Posts for example). <br>
+3. Implement queries to fetch data and mutations to modify data. <br>
+4. Integrate Spring Data JPA to fetch data from a relational database. <br>
+5. Implement error handling for invalid requests. <br>
+6. Test GraphQL APIs using GraphiQL or Postman. <br>
+
+Bonus: Learn how to avoid the `N + 1` problem in Graphql and relational databases.
+
+Note: <br>
+* I recommend watching Spring Academy's, Amigoscode's, and Java Techie's videos for integrating Graphql in Spring Boot.
+* Most of the video resources mentioned above apply on the same example but each video might introduce a new idea or tool that might not have been mentioned in the the other videos.
+
+
+## Week 28: Introduction to Firebase Services
+
+Topics:
+* Firebase as a BAAS.
+* Firebase Cloud Messaging (FCM)
+* Firebase Cloud Storage
+* Firebase Authentication
+* Firebase Firestore
+* Firebase Real-Time Database (RTDB)
+
+Resources:
+
+- [Firebase Cloud Messaging Documentation](https://firebase.google.com/docs/cloud-messaging)
+- [Firebase Cloud Storage Documentation](https://firebase.google.com/docs/storage)
+- [Firebase Authentication Documentation](https://firebase.google.com/docs/auth)
+- [Firebase Cloud Firestore Documentation](https://firebase.google.com/docs/firestore)
+- [Firebase Real-Time Database Documentation](https://firebase.google.com/docs/database)
+- [Firebase in 100 Seconds (Fireship)](https://youtu.be/vAoB4VbhRzM?si=Tm72eRF_RPg1zXoW)
+- [Spring Boot Firebase Notifications with FCM (Ulter)](https://youtu.be/pbAoRzU7OXY?si=0PUGbt1JNIg9rrZU)
+- [Spring Boot CRUD operations (TheCodeStorm)](https://youtu.be/_qeF0P4Mhc4?si=Kltyx5rGGzBcGxHs)
+- [Ultimate Guide to Firebase Storage Integration (IOCODES)](https://youtu.be/TkoKdO5Knhk?si=j7ZZExy1FQgnAA3j)
+- [Connect Spring Boot REST API with Firebase (Techno Town Techie)](https://youtu.be/auFJziKIVnM?si=wPai9Gjl2CE_mPYh)
+- [Spring Boot CRUD Application (ProgrammingKnowledge)](https://youtube.com/playlist?list=PLS1QulWo1RIYMQcf1y2bqQZbpXLzpKDUL&si=AuTL2sqykNpUD8zb)
+- [File uploading with Spring Boot & FCM (medium)](https://medium.com/@poojithairosha/image-uploading-with-spring-boot-firebase-cloud-storage-e5ef2fbf942d)
+
+Task: <br>
+1- Modify the file uploading service you created before or create a new one that uses Firebase Storage instead of local storage. <br>
+2- Create a Firebase Cloud Messaging (FCM) service that sends push notifications tozz users. <br>
+3- Use Firebase Firebase or Firebase RTDB as a database in a simple CRUD application. <br>
+
+Bonus: Explore other Backend-as-a-Service (BaaS) providers like Supabase and compare them with Firebase. Additionally, check out alternative cloud service providers to understand their offerings.
+
+Note: <br>
+* I recommend reading the Medium article on Firebase Storage for the file uploading service.  
+* Ulter's video provides a great guide on setting up Firebase FCM for push notifications.  
+* There aren't many video resources for Firebase RTDB, so rely on the official documentation or explore other resources online.
+
+## Week 29: Task Scheduling
+
+Topics:
+* Task Scheduling
+* @Scheduled and @EnableScheduling annotations
+* cron
+* Fixed-rate vs. fixed-delay scheduling
+* Handling asynchronous scheduled tasks
+
+Resources:
+
+- [Spring Task Scheduling Documentation](https://docs.spring.io/spring-framework/reference/integration/scheduling.html)
+- [Spring Scheduling Tasks Documentation](https://spring.io/guides/gs/scheduling-tasks)
+- [Spring Boot Quartz Scheduler Documentation](https://docs.spring.io/spring-boot/reference/io/quartz.html)
+- [Automate Like a PRO: How to Use Scheduled in Spring Boot (Devtiro)](https://youtu.be/YhZP6tSDXig?si=roMJLuRFarc_xjsA)
+- [Spring Boot Scheduler (Techno Town Techie)](https://youtu.be/l-40aP9jCok?si=NHu8_KQcDUxFYKEa)
+- [The @Scheduled Annotation in Spring (Baeldung)](https://www.baeldung.com/spring-scheduled-tasks)
+
+Task: <br>
+1- Implement a basic scheduled task that runs every 10 seconds using @Scheduled. <br>
+2- Modify the task to use a cron expression to execute at a specific time of day. <br>
+3- Create a dynamic scheduling system, where tasks can be enabled/disabled based on application settings. <br>
+4- Implement an asynchronous scheduled task using @Async. <br>
+
+Bonus: Learn about the Decorator Design Pattern.
+
+Note: If your application requires more control, consider Quartz Scheduler, which supports distributed job scheduling.
+
+
+## Week 30: More SQL Database, Spring JDBC, More Spring R2DBC.
+
+Topics:
+* JDBC
+* Spring Data JDBC
+* Spring Data R2DBC
+* SQL database
+* Database migrations
+* Transactions
+* Triggers and Indexes
+
+Resources:
+
+- [Spring Data JDBC Documentation](https://docs.spring.io/spring-data/relational/reference/)
+- [Spring JDBC Documentation](https://docs.spring.io/spring-framework/reference/data-access/jdbc.html)
+- [Spring Data Access with R2DBC Documentation](https://docs.spring.io/spring-framework/reference/data-access/r2dbc.html)
+- [Spring Boot SQL Databases Documentation](https://docs.spring.io/spring-boot/reference/data/sql.html)
+- [Java Database Connectivity | JDBC (Telusko)](https://youtu.be/7v2OnUti2eM?si=driNdMEJmHHfNvLW)
+- [Spring Boot JDBC using JdbcTemplate (Telusko)](https://youtu.be/Nc9NmS5kEjU?si=wwIIX40Fhv25LDZo)
+- [JDBC Client and Spring Data JDBC (Dan Vega)](https://youtu.be/qLDrfebeXS0?si=ZEDAItNrrB4mawpb)
+- [Spring Data JDBC Tutorial (Dan Vega)](https://youtu.be/l_T0nQNbFiM?si=yruoqw21NtV_dMtD)
+- [Database Migrations with Flyway in Spring Boot (Devtiro)](https://youtu.be/IuKXPx3WLbg?si=p-jdWmztyO3uI_Br)
+- [Database Transactions in Spring Boot (Devtiro)](https://youtu.be/qhz27TZYsYI?si=So2dAdTybzNsQvAJ)
+- [Spring JDBC (Baeldung)](https://www.baeldung.com/spring-jdbc-jdbctemplate)
+- [Spring – JDBC Template (GeeksforGeeks)](https://www.geeksforgeeks.org/spring-jdbc-template/)
+- [Defining Indexes in JPA (Baeldung)](https://www.baeldung.com/jpa-indexes)
+
+Task: <br>
+1- Implement CRUD Operations using Spring JDBC (JdbcTemplate). <br>
+2- Create one or two database migrations to an old database using Flyway. <br>
+3- Solve More SQL questions on Leetcode and HackerRank. <br>
+
+Bonus: Learn about recursive queries and window functions in SQL.
+
+Note: <br>
+* The "Java Database Connectivity | JDBC (Telusko)" video is for pure JDBC without Spring Boot. It helps to understand JDBC fundamentals.
+* You will need to use JDBC instead of Spring Data JPA in some cases like: avoiding ORM overhead for high-performance applications, using raw SQL queries efficiently without automatic entity mapping (very useful in microservices), and when working with legacy databases that don’t fit well into JPA’s entity model
+
+
+## Week 31: More NoSQL Database and Spring Data MongoDB.
+
+Topics:
+* Advanced MongoDB queries (aggregation, indexing, transactions)
+* Performance optimization with MongoDB
+* Advanced Spring Data MongoDB features (custom queries, projections, auditing)
+
+Resources:
+
+- [Getting Started with Spring Data MongoDB Documentation](https://spring.io/guides/gs/accessing-data-mongodb)
+- [Getting started with MongoDB and Spring Boot Documentation](https://www.mongodb.com/en-us/resources/products/compatibilities/spring-boot)
+- [Spring Data JPA Documentation](https://docs.spring.io/spring-data/mongodb/reference/)
+- [MongoDB Documentation](https://www.mongodb.com/docs/manual/)
+- [MongoDB in 1 Hour (Bro Code)](https://youtu.be/c2M-rlkkT5o?si=9taMSnuBpjnLA54H)
+- [MongoDB in 30 Minutes (Web Deve Simplified)](https://youtu.be/ofme2o29ngU?si=WsX9BaUFTSDtssP0)
+- [MongoDB in Spring Boot Low-Level Tutorial (Telusko)](https://youtu.be/6QnY7Ri_ORw?si=nz5H9eT1YB97WyIC)
+- [MongoDB in Spring Boot Tutorial (Amigoscode) (26:23~)](https://youtu.be/ssj0CGxv60k?si=Oy2txu2KsYq9nYbY)
+- [MongoDB in Spring Boot Tutorial (Programming Techie) (~15:00)](https://youtu.be/GvPhube6Mls?si=Bc6yBEQ8fsZTo2RV)
+- [Switch to NoSQL, move FASTER (Devtiro)](https://youtu.be/nmOYRdOvagU?si=TUBNqpr6rl7vPrnM)
+
+
+Task: <br>
+1- Create a MongoDB-backed Spring Boot application using Spring Data MongoDB. <br>
+2- Implement advanced CRUD operations with support for:
+* Custom queries using @Query
+* Pagination and Sorting
+* Transactions
+* Indexes <br>
+
+2- Use the Aggregation Framework to build advanced reporting queries (e.g. total sales per day, top products, etc.) <br>
+3- Add indexes for optimal query performance (e.g. on email, creation date). <br>
+
+Bonus: Explore other NoSQL databases like Cassandra, Redis, and CouchDB.
+
+
+## Week 32: Docker and Deployment.
+
+Topics:
+* Virtualization vs Containarization
+* Docker and Docker Compose
+* Deployment
+
+Resources:
+
+- [Docker Documentation](https://docs.docker.com/)
+- [Docker in 100 Seconds (Fireship)](https://youtu.be/Gjnup-PuquQ?si=ksebJNQlew7dHRJA)
+- [Docker Containers 101 (NetworkChuck)](https://youtu.be/eGz9DS-aIeY?si=SIPbzhvcsZlWy3rR)
+- [18 Weird and Wonderful ways I use Docker (NetworkChuck)](https://youtu.be/RUqGlWr5LBA?si=PvyXO8bqtKv1gklc)
+- [Docker and Kubernetes (Big Data)](https://youtu.be/PrusdhS2lmo?si=3JTbqXKyshN0DAyb)
+- [Intro to Docker (Typcraft)](https://youtu.be/Ud7Npgi6x8E?si=M0NUXh8HRoI1o2qJ)
+- [Docker Tutorial for Beginners (Fireship)](https://youtu.be/gAkwW2tuIqE?si=GjjDAXTn4ob7BSk4)
+- [Docker Tutorial for Beginners (Mosh)](https://youtu.be/pTFZFxd4hOI?si=V-CklDrrzjFheE8x)
+- [Docker Containers and Kubernetes Fundamentals (FreeCodeCamp.org)](https://youtu.be/kTp5xUtcalw?si=VMTx-DNWzoshL4EQ)
+
+Task: <br>
+1- Install Docker and Docker Compose on your system. <br>
+2- Pull and run basic images like `ubuntu`, `postgresql`, and `mysql`. <br>
+3- Create your own Dockerfile for a small web server. <br>
+4- Use Docker Compose to spin up a multi-container app. <br>
+5- Explore common `docker` CLI commands: `ps`, `images`, `logs`, `exec`, etc. <br>
+6- Write a document containing what you have learned about docker. <br>
+
+Bonus: Learn about Kubernetes.
+
+Note: Docker is one of the most essential tools for modern backend developers. Understanding images, containers, and orchestration tools like Docker Compose is crucial for building scalable, portable applications.
+
+
+## Week 33: Microservices Architecture, API Gateway, Discovery Server, and Config Server
+
+Topics:
+* Microservices Architecture
+* API Gateways
+* Discovery Server
+* Configuration Server
+
+Resources:
+- [Spring Microservices Documentation](https://spring.io/microservices)
+- [Spring Cloud Documentation](https://spring.io/projects/spring-cloud)
+- [Spring Cloud Gateway Documentation](https://spring.io/projects/spring-cloud-gateway)
+- [Spring Cloud Netflix Eureka Documentation](https://spring.io/projects/spring-cloud-netflix)
+- [Spring Cloud Config Documentation](https://spring.io/projects/spring-cloud-config)
+- [Microservices Architecture Tutorial (Java Brains)](https://youtu.be/hmkF77F9TLw?si=sq4k3I99PkVfKn3z)
+- [Spring Boot Microservices - Full Course (Amigoscode)](https://youtu.be/mPPhcU7oWDU?si=mnGZb04ZObu1VYe6)
+- [Spring Boot Microservices with Spring Cloud (Telusko)](https://youtu.be/joiB5gMyW5M?si=aJ8JlnsEzFswHt2E)
+- [Spring Cloud Gateway Tutorial (Code Decode)](https://youtu.be/Fsyd2Ueah8Y?si=etwUq0f0Esln3GbK)
+- [Spring Cloud Config Server Tutorial (Code Decode)](https://youtu.be/x5LMk7EWV-k?si=zCMxTKRSRqpHyR7M)
+- [Eureka Discovery Server Tutorial (Code Decode)](https://youtu.be/OLYg3z3aSqg?si=X6FjQ3D8Grqp6q8t)
+
+Task: <br>
+1- Build a very simple microservices project with only an API Gateway, a Discovery Server, and two microservices. <br>
+2- Take an old project and migrate it to the microservices architecture. <br>
+
+Bonus: Learn more about the microservices architecture.
+
+Note: As I highlighted at the beginning of the roadmap in the criteria section, and like any other week's content in this roadmap, I need to stress this more in this particular week. This content is not enough by any chance to be fully prepared with microservices architecture and be comfortable building and implementing microservices. Microservices architecture is a really vast and broad topic that needs to be studied deeply and applying on what you have learned, as the hard part about microservices doesn't lie in understanding the concept itself but the difficulties you face along the time implementing what you understood in code.
+
+
+## Week 34: Message Queues, Kafka, RabbitMQ, and ActiveMQ
+
+Topics:
+* Introduction to Message Queues
+* Asynchronous Communication in Microservices
+* Apache Kafka
+* RabbitMQ
+* ActiveMQ
+* Event-Driven Architecture
+* Publisher-Subscriber Pattern
+* Message Brokers vs Event Streaming
+
+Resources:
+
+- [Spring for Apache Kafka Documentation](https://docs.spring.io/spring-kafka/reference/index.html)
+- [Spring for RabbitMQ Documentation](https://spring.io/guides/gs/messaging-rabbitmq)
+- [Spring AMQP Documentation](https://docs.spring.io/spring-amqp/reference/)
+- [Spring JMS Documentation](https://docs.spring.io/spring-framework/reference/integration/jms.html)
+- [Message Queues Explained (IBM Technology)](https://youtu.be/xErwDaOc-Gs)
+- [Kafka in 100 Seconds (Fireship)](https://youtu.be/uvb00oaa3k8)
+- [RabbitMQ in 100 Seconds (Fireship)](https://youtu.be/NQ3fZtyXji0)
+- [Publish-Subscribe Architecture (Hussein Nasser)](https://youtu.be/O1PgqUqZKTA?si=mHuJ7vB12zMo6hEi)
+- [Apache Kafka Crash Course (Hussein Nasser)](https://youtu.be/R873BlNVUB4)
+- [RabbitMQ Crash Course (Hussein Nasser)](https://youtu.be/Cie5v59mrTg?si=kc8F34FJkC8qx8NQ)
+- [RabbitMQ vs Kafka (Tech Primers)](https://youtu.be/GMmRtSFQ5Z0?si=KAJHqvzcrWcxC38R)
+- [Spring Boot with Kafka Tutorial (Amigoscode)](https://youtu.be/SqVfCyfCJqw)
+- [Spring Boot RabbitMQ, Publisher&Subscriber, AMQP (JavaTechie)](https://youtu.be/o4qCdBR4gUM)
+- [Apache Kafka with Spring Boot (Baeldung)](https://www.baeldung.com/spring-kafka)
+- [Introduction to Apache Kafka (GeeksforGeeks)](https://www.geeksforgeeks.org/apache-kafka/)
+- [AMQP and RabbitMQ with Spring Boot (Baeldung)](https://www.baeldung.com/spring-amqp)
+- [RabbitMQ Tutorial (GeeksforGeeks)](https://www.geeksforgeeks.org/blogs/introduction-to-rabbitmq/)
+
+Task: <br>
+1- Set up a local Kafka broker and create a simple producer-consumer application in Spring Boot. <br>
+2- Implement a RabbitMQ message queue:
+* Create a producer service that sends messages to a queue.
+* Create a consumer service that processes messages from the queue.
+* Test the communication between microservices using RabbitMQ. <br>
+
+3- Build an Event-Driven Microservices System:
+* Create two microservices (Order Service and Notification Service).
+* When an order is placed in the Order Service, publish an event to Kafka/RabbitMQ.
+* The Notification Service should consume the event and send a notification ( email or log ). <br>
+
+4- Write a document explaining the differences between Kafka and RabbitMQ. <br>
+
+Bonus: Explore Mosquitto MQTT broker and learn how it's used to integrate with embedded systems.
+
+Note: <br>
+* Message queues are essential for building scalable, decoupled microservices. They enable asynchronous communication and improve system resilience.
+* Kafka is better suited for event streaming and real-time data pipelines, while RabbitMQ excels at task queues and traditional message brokering.
+* ActiveMQ is another popular message broker, but Kafka and RabbitMQ are more commonly used in modern architectures. Feel free to explore ActiveMQ if interested.
+
+
+## Week 35: Building a Microservices-Based E-Commerce Platform
+
+### **Project Overview**
+Migrate the **E-Commerce backend** from Week 19 into a **microservices architecture** using **Kafka/RabbitMQ**, **API Gateway**, **Eureka**, **Redis**, **Docker**, and **Spring Cloud Config**.
+
+---
+
+### **Objectives**
+- Migrate monolithic application to microservices.
+- Implement async communication using Kafka/RabbitMQ.
+- Use Spring Cloud Gateway and Eureka for routing and discovery.
+- Implement distributed caching with Redis.
+- Containerize microservices with Docker.
+- Integrate Stripe for payments and Firebase FCM for notifications.
+- Write unit and integration tests.
+
+---
+
+### **Microservices**
+
+1. **API Gateway** - Routes requests, handles JWT validation.
+2. **Eureka Server** - Service discovery.
+3. **Config Server** - Centralized configuration.
+4. **User Service** - User registration, authentication (JWT), profile management. Uses PostgreSQL.
+5. **Product Service** - Product and category CRUD, pagination, filtering. Uses PostgreSQL.
+6. **Order Service** - Order creation and management. Uses MongoDB.
+7. **Payment Service** - Payment processing with Stripe. Uses PostgreSQL.
+8. **Notification Service** - Email (SMTP) and push notifications (Firebase FCM). Uses MongoDB.
+9. **Cart Service** - Shopping cart operations. Uses Redis.
+
+---
+
+### **Event-Driven Communication**
+
+- **User Registration Event**: User Service -> Notification Service (welcome email)
+- **Order Created Event**: Order Service -> Payment Service (process payment)
+- **Payment Success Event**: Payment Service -> Order Service (update status) & Notification Service (confirmation)
+- **Product Updated Event**: Product Service -> Cart Service (update cached data)
+
+---
+
+### **Tasks**
+
+1. Break down the monolithic app into the microservices above.
+2. Set up Eureka Server and register all services.
+3. Configure API Gateway for dynamic service discovery.
+4. Implement event publishing/consumption with Kafka or RabbitMQ.
+5. Use Redis for cart storage and product caching.
+6. Integrate Stripe in Payment Service.
+7. Send notifications via SMTP and Firebase FCM.
+8. Write Dockerfile for each service and create docker-compose.yml.
+9. Write unit and integration tests.
+
+---
+
+### **Bonus**
+
+- Implement distributed tracing with Zipkin.
+- Add centralized logging with ELK Stack.
+- Add GraphQL API to Product Service.
+- Implement circuit breaker with Resilience4j.
+
+---
+
+### **Note**
+
+This project migrates the Week 19 monolithic app to microservices. According to `Building Microservices Book by Sam Newman` and other books I read, in practice, start with monolithic architecture and migrate only when needed. Microservices add complexity in deployment, monitoring, and debugging. This project helps you understand these challenges. Take your time and revisit earlier content as needed. The books really insist that you do not start a project with the microservices architecture unless it's a very simple one or you are already familiar with the domain of that project and built it before as a monolithic many times.
+
+
+---
+
+# Appendix: Additional Topics for Further Learning
+
+This appendix briefly covers important topics that weren't fully explored in the main roadmap but are valuable for backend development in general.
+
+---
+
+## System Design
+
+As you progress in seniority, you might gradually stop coding and start planning and designing systems. Especially in the current era of software engineering, where LLMs started becoming actually good at writing code, engineers tend toward designing systems more than building them.
+
+---
+
+## Kotlin
+
+Kotlin is a modern JVM language that's fully interoperable with Java. It offers concise syntax, null safety, and better functional programming support. Many companies use Kotlin for Spring Boot projects. Spring Boot has first-class support for Kotlin. You can use Kotlin instead of Java for controllers, services, and entities. Kotlin's coroutines integrate well with reactive Spring. Kotlin is a very fantastic language, in my opinion. One more note is that Java used to dominate the Android development market back in time, and Kotlin was a minor player, but sometime between 2020 and 2022, Kotlin became the dominant language in the Android development market. So, although Java is still dominant in Spring Boot, you should be ready anytime.
+
+---
+
+## Advanced Microservices Patterns
+
+Java is more common in enterprise companies and big projects, and those projects often follow the microservices architecture. So, you should be more than comfortable working in such environments.
+
+---
+
+## Design Patterns
+
+Design patterns provide proven solutions to common software design problems. Understanding patterns like Factory, Strategy, Observer, Singleton, and Decorator improves code quality and maintainability. Spring Framework itself uses many design patterns (Dependency Injection is a pattern). Apply patterns in your services, controllers, and business logic to write cleaner, more flexible code.
+
+---
+
+## More Database Technologies
+
+Although back-end is not all about CRUD operations in a database, it is a big part of back-end development. So, you should be familiar with different types of databases and know their features as well as know when to use which.
+
+---
+
+## Distributed Systems
+
+Distributed systems concepts like consensus algorithms (Raft, Paxos), distributed transactions, eventual consistency, and distributed caching are essential for building large-scale applications. When building microservices, you're already working with distributed systems.
+
+---
+
+## SOAP Web Services
+
+While REST is more popular, many enterprise systems and legacy applications still use SOAP. Understanding SOAP helps you integrate with these systems. Spring Boot supports SOAP through Spring Web Services. You can create SOAP endpoints, consume SOAP services, and work with WSDL files.
+
+---
+
+## gRPC
+
+gRPC is a high-performance RPC framework that uses HTTP/2 and Protocol Buffers. It's faster than REST for service-to-service communication and supports streaming. Use gRPC for internal microservice communication when performance is critical. Spring Boot doesn't have built-in gRPC support, but libraries like grpc-spring-boot-starter make integration easy.
+
+---
+
+## Cloud Platforms (AWS, Azure, GCP)
+
+Modern applications are deployed on cloud platforms. Understanding cloud services like compute (EC2, Lambda), storage (S3, Blob Storage), databases (RDS, DynamoDB), and messaging (SQS, Service Bus) is essential.
+
+---
+
+## CI/CD (Continuous Integration/Continuous Deployment)
+
+CI/CD automates testing, building, and deploying applications. It improves code quality, reduces manual errors, and speeds up releases.
+
+---
+
+**Final Note**: This appendix covers topics that will deepen your expertise in Spring Boot and backend development. You don't need to learn everything at once. Pick topics based on your interests and career goals, and explore them gradually.
