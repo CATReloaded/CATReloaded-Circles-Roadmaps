@@ -16,8 +16,8 @@ These roadmaps:
 | Year  | Roadmap Link |
 |-------|-------------|
 | 2024  | [📜 2024 Roadmap](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps/tree/2024) |
-| 2025  | **[📜 2025 Roadmap](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps/tree/2025) (Current)** |
-| 2026  | [📜 2026 Roadmap](#) (Wait for it) |
+| 2025  | [📜 2025 Roadmap](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps/tree/2025) |
+| 2026  | **[📜 2026 Roadmap](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps/tree/2026) (Current)** |
 
 ---
 
