@@ -39,7 +39,7 @@ Each level has its own folder containing structured weeks, learning materials, a
 
 ## 🟦 **Beginner Level**
 
-Folder: **[`1 - Beginner`](./1%20-%20beginner/)**
+Folder: **[`1 - Beginner`](./1%20-%20Beginner/)**
 
 Covers Dart fundamentals and app setup:
 
@@ -62,7 +62,7 @@ Covers Dart fundamentals and app setup:
 
 ## 🟩 **Intermediate Level**
 
-Folder: **[`2 - Intermediate`](./2%20-%20intermediate/)**
+Folder: **[`2 - Intermediate`](./2%20-%20Intermediate/)**
 
 Covers Flutter fundamentals:
 
@@ -87,7 +87,7 @@ Covers Flutter fundamentals:
 
 ## 🟧 **Advanced Level**
 
-Folder: **[`3 - Advanced`](./3%20-%20advanced/)**
+Folder: **[`3 - Advanced`](./3%20-%20Advanced/)**
 
 Covers real-world app development topics:
 
